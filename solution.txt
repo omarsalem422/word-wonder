@@ -1,0 +1,32 @@
+Found 24 solution(s):
+
+Solution 1:     Solution 2:     Solution 3:     Solution 4:     Solution 5:
+  RCA             RCA             RCA             RCA             ORC
+  IMP             IMP             HOG             HOG             IMP
+  HOG             HOG             IMP             IMP             HAG
+  CYCLOPS         CYCLOPS         CYCLOPS         CYCLOPS         CYCLOPS
+
+Solution 6:     Solution 7:     Solution 8:     Solution 9:     Solution 10:
+  ORC             ORC             ORC             IMP             IMP
+  IMP             HAG             HAG             RCA             RCA
+  HAG             IMP             IMP             HOG             HOG
+  CYCLOPS         CYCLOPS         CYCLOPS         CYCLOPS         CYCLOPS
+
+Solution 11:    Solution 12:    Solution 13:    Solution 14:    Solution 15:
+  IMP             IMP             IMP             IMP             IMP
+  ORC             ORC             HOG             HOG             HAG
+  HAG             HAG             RCA             RCA             ORC
+  CYCLOPS         CYCLOPS         CYCLOPS         CYCLOPS         CYCLOPS
+
+Solution 16:    Solution 17:    Solution 18:    Solution 19:    Solution 20:
+  IMP             HOG             HOG             HOG             HOG
+  HAG             RCA             RCA             IMP             IMP
+  ORC             IMP             IMP             RCA             RCA
+  CYCLOPS         CYCLOPS         CYCLOPS         CYCLOPS         CYCLOPS
+
+Solution 21:    Solution 22:    Solution 23:    Solution 24:
+  HAG             HAG             HAG             HAG
+  ORC             ORC             IMP             IMP
+  IMP             IMP             ORC             ORC
+  CYCLOPS         CYCLOPS         CYCLOPS         CYCLOPS
+

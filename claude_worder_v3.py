@@ -290,7 +290,7 @@ def format_columns(solutions, num_cols=5, col_width=16):
     return "\n".join(lines)
 
 
-def print_unique_words(solutions, words_per_line=4):
+def print_unique_words(solutions, words_per_line=8):
     """
     Collect every unique word that appears across all solutions and print
     them to the screen, sorted alphabetically, with at most `words_per_line`

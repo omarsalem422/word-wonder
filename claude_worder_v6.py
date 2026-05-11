@@ -448,7 +448,8 @@ def save_execution_history(content, history_dir="Execution-History"):
 
 
 if __name__ == "__main__":
-    grid_file = input("Enter grid filename: ")
+    #grid_file = input("Enter grid filename: ")
+    grid_file = "grid.txt"
     pattern_str = input("Enter pattern (e.g. --- --- ---): ")
 
     grid = read_grid(grid_file)

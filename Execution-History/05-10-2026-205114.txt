@@ -1,24 +1,25 @@
-Unique words across all solutions (2 total):
-  OFFICER    PRESIDENT  
+Unique words across all solutions (3 total):
+  COUCH   GARAGE  GRASS   
 
 ------------------------------------------------------------
-English words (filtered) (2 total):
-  OFFICER    PRESIDENT  
+English words (filtered) (3 total):
+  COUCH   GARAGE  GRASS   
 
 ------------------------------------------------------------
 Grid (grid.txt):
-ERTE
-CPDN
-IFRI
-FOES
+GAGC
+AREO
+GSSU
+ARHC
 
 ------------------------------------------------------------
-Pattern: --------- -------
+Pattern: ----- ----- ------
 
 ------------------------------------------------------------
 Found 2 solution(s):
 
 Solution 1:     Solution 2:
-  PRESIDENT       PRESIDENT
-  OFFICER         OFFICER
+  COUCH           GRASS
+  GRASS           COUCH
+  GARAGE          GARAGE
 

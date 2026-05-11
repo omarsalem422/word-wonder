@@ -1,0 +1,25 @@
+Unique words across all solutions (4 total):
+  CLOCK   CLOSET  FLESH   SHELF   
+
+------------------------------------------------------------
+English words (filtered) (4 total):
+  CLOCK   CLOSET  FLESH   SHELF   
+
+------------------------------------------------------------
+Grid (grid.txt):
+CTEC
+KOSL
+HLLO
+SECF
+
+------------------------------------------------------------
+Pattern: ----- ----- ------
+
+------------------------------------------------------------
+Found 4 solution(s):
+
+Solution 1:     Solution 2:     Solution 3:     Solution 4:
+  SHELF           CLOCK           CLOCK           FLESH
+  CLOCK           SHELF           FLESH           CLOCK
+  CLOSET          CLOSET          CLOSET          CLOSET
+

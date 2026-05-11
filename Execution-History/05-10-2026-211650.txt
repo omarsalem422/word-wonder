@@ -1,0 +1,32 @@
+Unique words across all solutions (7 total):
+  BAKER   BARKER  BRAKE   NURSE   
+  RUNES   SINGE   SINGER  
+
+------------------------------------------------------------
+English words (filtered) (7 total):
+  BAKER   BARKER  BRAKE   NURSE   
+  RUNES   SINGE   SINGER  
+
+------------------------------------------------------------
+Grid (grid.txt):
+EING
+KRSE
+ARUR
+BSEN
+
+------------------------------------------------------------
+Pattern: ----- ----- ------
+
+------------------------------------------------------------
+Found 8 solution(s):
+
+Solution 1:     Solution 2:     Solution 3:     Solution 4:     Solution 5:
+  RUNES           SINGE           RUNES           RUNES           BAKER
+  BRAKE           RUNES           BAKER           SINGE           RUNES
+  SINGER          BARKER          SINGER          BARKER          SINGER
+
+Solution 6:     Solution 7:     Solution 8:
+  BAKER           BRAKE           NURSE
+  NURSE           RUNES           BAKER
+  SINGER          SINGER          SINGER
+

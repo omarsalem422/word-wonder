@@ -1,24 +1,25 @@
-Unique words across all solutions (2 total):
-  OFFICER    PRESIDENT  
+Unique words across all solutions (3 total):
+  BASEMENT  DECK      SOFA      
 
 ------------------------------------------------------------
-English words (filtered) (2 total):
-  OFFICER    PRESIDENT  
+English words (filtered) (3 total):
+  BASEMENT  DECK      SOFA      
 
 ------------------------------------------------------------
 Grid (grid.txt):
-ERTE
-CPDN
-IFRI
-FOES
+TNES
+ECDO
+MKAF
+ESBA
 
 ------------------------------------------------------------
-Pattern: --------- -------
+Pattern: ---- ---- --------
 
 ------------------------------------------------------------
 Found 2 solution(s):
 
 Solution 1:     Solution 2:
-  PRESIDENT       PRESIDENT
-  OFFICER         OFFICER
+  SOFA            DECK
+  DECK            SOFA
+  BASEMENT        BASEMENT
 

@@ -1,24 +1,25 @@
-Unique words across all solutions (2 total):
-  OFFICER    PRESIDENT  
+Unique words across all solutions (3 total):
+  CARPET  HEATER  VASE    
 
 ------------------------------------------------------------
-English words (filtered) (2 total):
-  OFFICER    PRESIDENT  
+English words (filtered) (3 total):
+  CARPET  HEATER  VASE    
 
 ------------------------------------------------------------
 Grid (grid.txt):
-ERTE
-CPDN
-IFRI
-FOES
+REEH
+EASA
+TPVA
+ETRC
 
 ------------------------------------------------------------
-Pattern: --------- -------
+Pattern: ------ ------ ----
 
 ------------------------------------------------------------
 Found 2 solution(s):
 
 Solution 1:     Solution 2:
-  PRESIDENT       PRESIDENT
-  OFFICER         OFFICER
+  HEATER          CARPET
+  CARPET          HEATER
+  VASE            VASE
 

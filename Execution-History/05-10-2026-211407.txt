@@ -1,24 +1,24 @@
 Unique words across all solutions (2 total):
-  OFFICER    PRESIDENT  
+  ASTRONAUT  SURGEON    
 
 ------------------------------------------------------------
 English words (filtered) (2 total):
-  OFFICER    PRESIDENT  
+  ASTRONAUT  SURGEON    
 
 ------------------------------------------------------------
 Grid (grid.txt):
-ERTE
-CPDN
-IFRI
-FOES
+RRON
+GUTA
+ESSU
+AONT
 
 ------------------------------------------------------------
-Pattern: --------- -------
+Pattern: ------- ---------
 
 ------------------------------------------------------------
-Found 2 solution(s):
+Found 1 solution(s):
 
-Solution 1:     Solution 2:
-  PRESIDENT       PRESIDENT
-  OFFICER         OFFICER
+Solution 1:
+  SURGEON
+  ASTRONAUT
 

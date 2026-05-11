@@ -1,0 +1,80 @@
+Unique words across all solutions (4 total):
+  BOSS  CHEF  MAID  POET  
+
+------------------------------------------------------------
+English words (filtered) (4 total):
+  BOSS  CHEF  MAID  POET  
+
+------------------------------------------------------------
+Grid (grid.txt):
+SODT
+SIBE
+AEFO
+MHCP
+
+------------------------------------------------------------
+Pattern: ---- ---- ---- ----
+
+------------------------------------------------------------
+Found 48 solution(s):
+
+Solution 1:     Solution 2:     Solution 3:     Solution 4:     Solution 5:
+  BOSS            BOSS            BOSS            BOSS            BOSS
+  MAID            MAID            CHEF            CHEF            POET
+  CHEF            POET            MAID            POET            MAID
+  POET            CHEF            POET            MAID            CHEF
+
+Solution 6:     Solution 7:     Solution 8:     Solution 9:     Solution 10:
+  BOSS            BOSS            BOSS            BOSS            BOSS
+  POET            MAID            MAID            CHEF            CHEF
+  CHEF            CHEF            POET            MAID            POET
+  MAID            POET            CHEF            POET            MAID
+
+Solution 11:    Solution 12:    Solution 13:    Solution 14:    Solution 15:
+  BOSS            BOSS            MAID            MAID            MAID
+  POET            POET            BOSS            BOSS            BOSS
+  MAID            CHEF            CHEF            POET            CHEF
+  CHEF            MAID            POET            CHEF            POET
+
+Solution 16:    Solution 17:    Solution 18:    Solution 19:    Solution 20:
+  MAID            MAID            MAID            MAID            MAID
+  BOSS            CHEF            CHEF            CHEF            CHEF
+  POET            BOSS            BOSS            POET            POET
+  CHEF            POET            POET            BOSS            BOSS
+
+Solution 21:    Solution 22:    Solution 23:    Solution 24:    Solution 25:
+  MAID            MAID            MAID            MAID            CHEF
+  POET            POET            POET            POET            BOSS
+  BOSS            BOSS            CHEF            CHEF            MAID
+  CHEF            CHEF            BOSS            BOSS            POET
+
+Solution 26:    Solution 27:    Solution 28:    Solution 29:    Solution 30:
+  CHEF            CHEF            CHEF            CHEF            CHEF
+  BOSS            BOSS            BOSS            MAID            MAID
+  POET            MAID            POET            BOSS            BOSS
+  MAID            POET            MAID            POET            POET
+
+Solution 31:    Solution 32:    Solution 33:    Solution 34:    Solution 35:
+  CHEF            CHEF            CHEF            CHEF            CHEF
+  MAID            MAID            POET            POET            POET
+  POET            POET            BOSS            BOSS            MAID
+  BOSS            BOSS            MAID            MAID            BOSS
+
+Solution 36:    Solution 37:    Solution 38:    Solution 39:    Solution 40:
+  CHEF            POET            POET            POET            POET
+  POET            BOSS            BOSS            BOSS            BOSS
+  MAID            MAID            CHEF            MAID            CHEF
+  BOSS            CHEF            MAID            CHEF            MAID
+
+Solution 41:    Solution 42:    Solution 43:    Solution 44:    Solution 45:
+  POET            POET            POET            POET            POET
+  MAID            MAID            MAID            MAID            CHEF
+  BOSS            BOSS            CHEF            CHEF            BOSS
+  CHEF            CHEF            BOSS            BOSS            MAID
+
+Solution 46:    Solution 47:    Solution 48:
+  POET            POET            POET
+  CHEF            CHEF            CHEF
+  BOSS            MAID            MAID
+  MAID            BOSS            BOSS
+

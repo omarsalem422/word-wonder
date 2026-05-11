@@ -1,0 +1,25 @@
+Unique words across all solutions (3 total):
+  CANVAS   DYE      LEATHER  
+
+------------------------------------------------------------
+English words (filtered) (3 total):
+  CANVAS   DYE      LEATHER  
+
+------------------------------------------------------------
+Grid (grid.txt):
+SDEE
+ARYH
+VATA
+CNLE
+
+------------------------------------------------------------
+Pattern: ------- --- ------
+
+------------------------------------------------------------
+Found 1 solution(s):
+
+Solution 1:
+  LEATHER
+  DYE
+  CANVAS
+

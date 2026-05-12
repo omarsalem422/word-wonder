@@ -1,17 +1,24 @@
-Unique words across all solutions (0 total): none
+Unique words across all solutions (2 total):
+  GRAVITY    INCEPTION  
 
 ------------------------------------------------------------
-English words (filtered) (0 total): none
+English words (filtered) (2 total):
+  GRAVITY    INCEPTION  
 
 ------------------------------------------------------------
 Grid (grid.txt):
-ANNE
-XOOC
-POTS
-RUSY
+YPIO
+TTEN
+IARC
+VING
 
 ------------------------------------------------------------
-Pattern: ------- ---------
+Pattern: --------- -------
 
 ------------------------------------------------------------
-No solution found.
+Found 1 solution(s):
+
+Solution 1:
+  INCEPTION
+  GRAVITY
+

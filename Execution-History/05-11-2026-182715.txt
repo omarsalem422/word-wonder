@@ -1,0 +1,50 @@
+Unique words across all solutions (4 total):
+  ARGO  JAWS  MASK  TRON  
+
+------------------------------------------------------------
+English words (filtered) (4 total):
+  ARGO  JAWS  MASK  TRON  
+
+------------------------------------------------------------
+Grid (grid.txt):
+SAMJ
+TKRA
+RGWA
+NOOS
+
+------------------------------------------------------------
+Pattern: ---- ---- ---- ----
+
+------------------------------------------------------------
+Found 24 solution(s):
+
+Solution 1:     Solution 2:     Solution 3:     Solution 4:     Solution 5:
+  MASK            MASK            MASK            MASK            MASK
+  JAWS            JAWS            TRON            TRON            ARGO
+  TRON            ARGO            JAWS            ARGO            JAWS
+  ARGO            TRON            ARGO            JAWS            TRON
+
+Solution 6:     Solution 7:     Solution 8:     Solution 9:     Solution 10:
+  MASK            JAWS            JAWS            JAWS            JAWS
+  ARGO            MASK            MASK            TRON            TRON
+  TRON            TRON            ARGO            MASK            ARGO
+  JAWS            ARGO            TRON            ARGO            MASK
+
+Solution 11:    Solution 12:    Solution 13:    Solution 14:    Solution 15:
+  JAWS            JAWS            TRON            TRON            TRON
+  ARGO            ARGO            MASK            MASK            JAWS
+  MASK            TRON            JAWS            ARGO            MASK
+  TRON            MASK            ARGO            JAWS            ARGO
+
+Solution 16:    Solution 17:    Solution 18:    Solution 19:    Solution 20:
+  TRON            TRON            TRON            ARGO            ARGO
+  JAWS            ARGO            ARGO            MASK            MASK
+  ARGO            MASK            JAWS            JAWS            TRON
+  MASK            JAWS            MASK            TRON            JAWS
+
+Solution 21:    Solution 22:    Solution 23:    Solution 24:
+  ARGO            ARGO            ARGO            ARGO
+  JAWS            JAWS            TRON            TRON
+  MASK            TRON            MASK            JAWS
+  TRON            MASK            JAWS            MASK
+

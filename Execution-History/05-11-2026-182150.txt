@@ -1,0 +1,24 @@
+Unique words across all solutions (2 total):
+  OFFICER    PRESIDENT  
+
+------------------------------------------------------------
+English words (filtered) (2 total):
+  OFFICER    PRESIDENT  
+
+------------------------------------------------------------
+Grid (grid.txt):
+ERTE
+CPDN
+IFRI
+FOES
+
+------------------------------------------------------------
+Pattern: --------- -------
+
+------------------------------------------------------------
+Found 2 solution(s):
+
+Solution 1:     Solution 2:
+  PRESIDENT       PRESIDENT
+  OFFICER         OFFICER
+

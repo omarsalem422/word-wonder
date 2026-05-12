@@ -1,0 +1,25 @@
+Unique words across all solutions (3 total):
+  APACHE  BAMBI   SHREK   
+
+------------------------------------------------------------
+English words (filtered) (1 total):
+  APACHE  
+
+------------------------------------------------------------
+Grid (grid.txt):
+REBA
+HSKM
+AHEB
+CPAI
+
+------------------------------------------------------------
+Pattern: ----- ----- ------
+
+------------------------------------------------------------
+Found 2 solution(s):
+
+Solution 1:     Solution 2:
+  BAMBI           SHREK
+  SHREK           BAMBI
+  APACHE          APACHE
+

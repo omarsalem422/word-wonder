@@ -1,0 +1,30 @@
+Unique words across all solutions (3 total):
+  AVATAR  RAMBO   ROCKY   
+
+------------------------------------------------------------
+English words (filtered) (3 total):
+  AVATAR  RAMBO   ROCKY   
+
+------------------------------------------------------------
+Grid (grid.txt):
+AVAR
+ATRA
+CYMB
+KORO
+
+------------------------------------------------------------
+Pattern: ----- ----- ------
+
+------------------------------------------------------------
+Found 8 solution(s):
+
+Solution 1:     Solution 2:     Solution 3:     Solution 4:     Solution 5:
+  RAMBO           RAMBO           RAMBO           RAMBO           ROCKY
+  ROCKY           ROCKY           ROCKY           ROCKY           RAMBO
+  AVATAR          AVATAR          AVATAR          AVATAR          AVATAR
+
+Solution 6:     Solution 7:     Solution 8:
+  ROCKY           ROCKY           ROCKY
+  RAMBO           RAMBO           RAMBO
+  AVATAR          AVATAR          AVATAR
+

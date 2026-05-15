@@ -1,0 +1,18 @@
+Unique words across all solutions (0 total): none
+
+------------------------------------------------------------
+English words (filtered) (0 total): none
+
+------------------------------------------------------------
+Grid (grid.txt):
+AIFB
+RZPO
+URES
+ACCH
+
+------------------------------------------------------------
+Pattern: ----- ----- ------
+Search mode: user-verified (proper nouns / non-dictionary words)
+
+------------------------------------------------------------
+No solution found.

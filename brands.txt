@@ -63,6 +63,8 @@ Enterprise Products Partners
 Safeway
 Cisco Systems
 Sears Holdings
+Bosch
+Aruca
 Walt Disney
 Johnson Controls
 Morgan Stanley

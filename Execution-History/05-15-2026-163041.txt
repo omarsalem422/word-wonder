@@ -1,13 +1,10 @@
-Unique words across all solutions (3 total):
-  ARUCA   BOSCH   PFIZER  
+Unique words across all solutions (0 total): none
 
 ------------------------------------------------------------
-English words (filtered) (1 total):
-  BOSCH  
+English words (filtered) (0 total): none
 
 ------------------------------------------------------------
-Brand matches (filtered) (3 total):
-  ARUCA   BOSCH   PFIZER  
+Brand matches (filtered) (0 total): none
 
 ------------------------------------------------------------
 Grid (grid.txt):
@@ -20,10 +17,4 @@ ACCH
 Pattern: ----- ----- ------
 
 ------------------------------------------------------------
-Found 2 solution(s):
-
-Solution 1:     Solution 2:
-  ARUCA           BOSCH
-  BOSCH           ARUCA
-  PFIZER          PFIZER
-
+No solution found.

@@ -1,0 +1,738 @@
+Unique words across all solutions (3 total):
+  ARUCA   BOSCH   PFIZER  
+
+------------------------------------------------------------
+English words (filtered) (1 total):
+  BOSCH  
+
+------------------------------------------------------------
+Brand matches (filtered) (3 total):
+  ARUCA   BOSCH   PFIZER  
+
+------------------------------------------------------------
+Grid (grid.txt):
+AIFB
+RZPO
+URES
+ACCH
+
+------------------------------------------------------------
+Pattern: ----- ----- ------
+
+------------------------------------------------------------
+Found 2 solution(s):
+
+Solution 1:     Solution 2:
+  ARUCA           BOSCH
+  BOSCH           ARUCA
+  PFIZER          PFIZER
+
+
+============================================================
+RELAXED MODE — Unvalidated candidate tilings
+These strings tile the grid correctly but are NOT confirmed
+as dictionary words or known brands. Review manually.
+
+============================================================
+Found 500 candidate tiling(s):
+
+Candidate 1:    Candidate 2:    Candidate 3:    Candidate 4:    Candidate 5:
+  SOFIA           SOFIA           SOFIA           SOFIA           SOFIA
+  CRCHE           ARCHE           BPZRU           BPRRZ           AUZPB
+  AURZPB          BPZRUC          RACCHE          AUCCEH          CCHERR
+
+Candidate 6:    Candidate 7:    Candidate 8:    Candidate 9:    Candidate 10:
+  SOFIA           SOFIA           SOFIA           SOFIA           SOFIA
+  BPERZ           ARZPB           BPZRC           BPZEC           BPZEH
+  HCCAUR          CHECUR          HECAUR          AURRCH          ACCRRU
+
+Candidate 11:   Candidate 12:   Candidate 13:   Candidate 14:   Candidate 15:
+  SOFIA           SOFIA           SOFIA           SOFIA           SOFIA
+  BPRRU           AURPB           BPREH           ACRPB           BPRCC
+  ACCHEZ          CCHEZR          CCAURZ          CHEZRU          AURZEH
+
+Candidate 16:   Candidate 17:   Candidate 18:   Candidate 19:   Candidate 20:
+  SOFIA           SOFIA           SOFIA           SOFIA           SOFIA
+  BPRCH           BPEZR           BPEZU           BPERR           AREPB
+  ACEZRU          ACURCH          HCCARR          HCCAUZ          HCCURZ
+
+Candidate 21:   Candidate 22:   Candidate 23:   Candidate 24:   Candidate 25:
+  SOFIA           SOFIA           SOFIA           SOFIA           SOFIA
+  ACEPB           BPECH           ARRUZ           ACURZ           HCRRZ
+  HCRRUZ          ACRRUZ          BPECCH          BPEHCR          AUCEPB
+
+Candidate 26:   Candidate 27:   Candidate 28:   Candidate 29:   Candidate 30:
+  SOFIA           SOFIA           SOFIA           SOFIA           SOFIA
+  CHEZR           HEZRU           ACRRU           HCRRU           ECAUR
+  ACURPB          ACCRPB          BPZECH          ACEZPB          BPZRCH
+
+Candidate 31:   Candidate 32:   Candidate 33:   Candidate 34:   Candidate 35:
+  SOFIA           SOFIA           SOFIA           SOFIA           SOFIA
+  CCAUR           HCCUR           CHERR           HCCRR           CCHEZ
+  BPRZEH          AREZPB          ACUZPB          AUZEPB          AURRPB
+
+Candidate 36:   Candidate 37:   Candidate 38:   Candidate 39:   Candidate 40:
+  SOFIA           SOFIA           SOFIA           SOFIA           SOFIA
+  AUCEH           AUCCH           CHECU           ACRCH           AURZE
+  BPZRRC          BPERRZ          ARRZPB          BPEZRU          BPRCCH
+
+Candidate 41:   Candidate 42:   Candidate 43:   Candidate 44:   Candidate 45:
+  SOFIA           CURIA           CURIA           CURIA           CURIA
+  ACCEH           BOSCH           PECHS           ARCHE           BFPEZ
+  BPRRUZ          AREPFZ          ARZFBO          BFOSPZ          ARCHSO
+
+Candidate 46:   Candidate 47:   Candidate 48:   Candidate 49:   Candidate 50:
+  CURIA           CURIA           CURIA           CURIA           CURIA
+  BFOPS           ARPBF           BFOPZ           BFOEZ           BFOEC
+  ARCHEZ          CHSOEZ          ARCHES          ARCHSP          ARZPSH
+
+Candidate 51:   Candidate 52:   Candidate 53:   Candidate 54:   Candidate 55:
+  CURIA           CURIA           CURIA           CURIA           CURIA
+  BFOEH           BFOSC           BFOSH           ARPFZ           FPZEH
+  ARCSPZ          ARPZEH          ARCEPZ          BOECHS          ARCSOB
+
+Candidate 56:   Candidate 57:   Candidate 58:   Candidate 59:   Candidate 60:
+  CURIA           CURIA           CURIA           CURIA           CURIA
+  FZPSH           AREZF           CHEZF           CHSPF           CHSOF
+  ARCEOB          BOPSCH          ARPBOS          ARZEOB          AREZPB
+
+Candidate 61:   Candidate 62:   Candidate 63:   Candidate 64:   Candidate 65:
+  CURIA           CURIA           CURIA           CURIA           CURIA
+  BFZPS           ARZFB           BFZEC           BFZEH           ARZPB
+  ARCHEO          CEHSOP          ARPOSH          ARCSOP          CEHSOF
+
+Candidate 66:   Candidate 67:   Candidate 68:   Candidate 69:   Candidate 70:
+  CURIA           CURIA           CURIA           CURIA           CURIA
+  BPZEH           BOPSH           AREPB           BPECH           BPSCH
+  ARCSOF          ARCEZF          CHSOFZ          ARZFOS          AREOFZ
+
+Candidate 71:   Candidate 72:   Candidate 73:   Candidate 74:   Candidate 75:
+  CURIA           CURIA           CURIA           CURIA           CURIA
+  ARPBO           AREOB           BOECH           SOBFZ           HEOFZ
+  CHSEZF          CHSPFZ          ARZFPS          ARCHEP          ARCSPB
+
+Candidate 76:   Candidate 77:   Candidate 78:   Candidate 79:   Candidate 80:
+  CURIA           CURIA           CURIA           CURIA           CURIA
+  HSOFZ           AREPZ           CHSPZ           CHSEZ           ARCEZ
+  ARCEPB          BFOSCH          AREOBF          ARPBFO          BFOPSH
+
+Candidate 81:   Candidate 82:   Candidate 83:   Candidate 84:   Candidate 85:
+  CURIA           CURIA           CURIA           CURIA           CURIA
+  CHSOP           ARCEP           ARCSP           ARZFO           ARZEO
+  AREZFB          HSOBFZ          BOFZEH          BPECHS          BFPSCH
+
+Candidate 86:   Candidate 87:   Candidate 88:   Candidate 89:   Candidate 90:
+  CURIA           CURIA           CURIA           CURIA           CURIA
+  CEHSO           ARCEO           ARPOS           ARCSO           ARZPS
+  ARPBFZ          BFZPSH          BFZECH          BFPZEH          BFOECH
+
+Candidate 91:   Candidate 92:   Candidate 93:   Candidate 94:   Candidate 95:
+  CURIA           CURIA           CURIA           CURIA           SEPIA
+  ARCHS           ARZEH           ARPEH           ARPSH           BOFZR
+  BFOEPZ          BFOPSC          CSOBFZ          BOFZEC          ACURCH
+
+Candidate 96:   Candidate 97:   Candidate 98:   Candidate 99:   Candidate 100:
+  SEPIA           SEPIA           SEPIA           SEPIA           SEPIA
+  BOFZU           BOFZR           HCCUR           HCCRR           AUCCH
+  HCCARR          HCCAUR          ARZFBO          AUZFBO          BOFZRR
+
+Candidate 101:  Candidate 102:  Candidate 103:  Candidate 104:  Candidate 105:
+  SEPIA           SPIRA           SPIRA           SPIRA           SPIRA
+  ACRCH           CRCHE           ARCHE           BFOEZ           BFOER
+  BOFZRU          AUZFBO          BOFZUC          ACURCH          HCCAUZ
+
+Candidate 106:  Candidate 107:  Candidate 108:  Candidate 109:  Candidate 110:
+  SPIRA           SPIRA           SPIRA           SPIRA           SPIRA
+  BFOEC           BFOEH           ARUZF           ACUZF           FZRCH
+  AUZRCH          ACCRUZ          BOECCH          BOEHCR          AUCEOB
+
+Candidate 111:  Candidate 112:  Candidate 113:  Candidate 114:  Candidate 115:
+  SPIRA           SPIRA           SPIRA           SPIRA           SPIRA
+  BFZRU           AUZFB           BFZUC           ARZFB           BOFZU
+  ACCHEO          CRCHEO          ARCHEO          OEHCCU          RACCHE
+
+Candidate 116:  Candidate 117:  Candidate 118:  Candidate 119:  Candidate 120:
+  SPIRA           SPIRA           SPIRA           SPIRA           SPIRA
+  BOFZR           AREOB           ACEOB           BOECH           ACRUZ
+  AUCCEH          FZUCCH          FZURCH          ACRUZF          BFOECH
+
+Candidate 121:  Candidate 122:  Candidate 123:  Candidate 124:  Candidate 125:
+  SPIRA           SPIRA           SPIRA           SPIRA           SPIRA
+  HCRUZ           HCCUZ           HCREO           AUCEO           CCHEO
+  ACEOBF          AREOBF          ACUZFB          BFZRCH          ARUZFB
+
+Candidate 126:  Candidate 127:  Candidate 128:  Candidate 129:  Candidate 130:
+  SPIRA           SPIRA           SPIRA           SPIRA           SPIRA
+  ACCRU           AURCH           AUCEH           AUCCH           CHECU
+  BOFZEH          BOFZEC          BOFZRC          BFOERZ          ARZFBO
+
+Candidate 131:  Candidate 132:  Candidate 133:  Candidate 134:  Candidate 135:
+  SPIRA           SPIRA           RAZER           RAZER           RAZES
+  ACRCH           ACCEH           BFIPO           AUCCH           BFIPO
+  BFOEZU          BOFZRU          AUCCHS          BFIPOS          ACURCH
+
+Candidate 136:  Candidate 137:  Candidate 138:  Candidate 139:  Candidate 140:
+  RAZES           ARRAU           ARRAU           ARRAU           ARRAU
+  AUCCH           BOSCH           BFIPZ           BFIPO           EOBFI
+  BOFIPR          CEPFIZ          CCEHSO          CCHSEZ          CCHSPZ
+
+Candidate 141:  Candidate 142:  Candidate 143:  Candidate 144:  Candidate 145:
+  ARRAU           ARRAU           ARRAU           ARRAU           ARRAU
+  IFBOS           EPFIZ           FIZPS           EOFIZ           CEZFI
+  CCHEPZ          BOSHCC          BOECCH          BPSHCC          BOPSCH
+
+Candidate 146:  Candidate 147:  Candidate 148:  Candidate 149:  Candidate 150:
+  ARRAU           ARRAU           ARRAU           ARRAU           ARRAU
+  FIZEH           HSOFI           BOFIZ           IZFOS           CEPIZ
+  BOPSCC          BPZECC          CCEHSP          BPECCH          BFOSCH
+
+Candidate 151:  Candidate 152:  Candidate 153:  Candidate 154:  Candidate 155:
+  ARRAU           ARRAU           ARRAU           ARRAU           ARRAU
+  HEPIZ           HSPIZ           BPEZI           BOEZI           CCEZI
+  BFOSCC          BFOECC          CCHSOF          CCHSPF          BFOPSH
+
+Candidate 156:  Candidate 157:  Candidate 158:  Candidate 159:  Candidate 160:
+  ARRAU           ARRAU           ARRAU           ARRAU           ARRAU
+  BOSPI           HSOPI           CCEPI           CCSPI           CHSPI
+  CCHEZF          BFZECC          HSOBFZ          BOFZEH          BOFZEC
+
+Candidate 161:  Candidate 162:  Candidate 163:  Candidate 164:  Candidate 165:
+  ARRAU           ARRAU           ARRAU           ARRAU           ARRAU
+  BFOPS           BFOEZ           BFOEC           BFOEH           BFOSH
+  CCHEZI          CCHSPI          CHSPIZ          CCSPIZ          CCEPIZ
+
+Candidate 166:  Candidate 167:  Candidate 168:  Candidate 169:  Candidate 170:
+  ARRAU           ARRAU           ARRAU           ARRAU           ARRAU
+  CCEZF           CCSOF           CHSOF           BFIZE           BFZEC
+  HSOBPI          BPIZEH          BPIZEC          CCHSOP          CHSOPI
+
+Candidate 171:  Candidate 172:  Candidate 173:  Candidate 174:  Candidate 175:
+  ARRAU           ARRAU           ARRAU           ARRAU           ARRAU
+  BFZEH           BPZEC           BPZEH           BOPSH           BPECC
+  CCSOPI          CHSOFI          CCSOFI          CCEZFI          HSOFIZ
+
+Candidate 176:  Candidate 177:  Candidate 178:  Candidate 179:  Candidate 180:
+  ARRAU           ARRAU           ARRAU           ARRAU           ARRAU
+  BPSCC           BPSCH           BOECC           BOSCC           SOBFZ
+  HEOFIZ          CEOFIZ          FIZPSH          FIPZEH          CCHEPI
+
+Candidate 181:  Candidate 182:  Candidate 183:  Candidate 184:  Candidate 185:
+  ARRAU           ARRAU           ARRAU           ARRAU           ARRAU
+  CCEPZ           CCSPZ           CHSPZ           CCHEZ           CCSOP
+  HSOBFI          HEOBFI          CEOBFI          BFIPOS          BFIZEH
+
+Candidate 186:  Candidate 187:  Candidate 188:  Candidate 189:  Candidate 190:
+  ARRAU           ARRAU           ARRAU           ARRAU           ARRAU
+  CHSOP           CCHEP           CCHSP           CCHEO           CCHSO
+  BFIZEC          IZFBOS          BFIZEO          BFIZPS          BFIPEZ
+
+Candidate 191:  Candidate 192:  Candidate 193:  Candidate 194:  Candidate 195:
+  ARRAU           CRURA           CRURA           CRURA           CRURA
+  CCEHS           BFIPZ           HSOFI           BOFIZ           HSPIZ
+  BFIZPO          ACEHSO          ACEZPB          ACEHSP          ACEOBF
+
+Candidate 196:  Candidate 197:  Candidate 198:  Candidate 199:  Candidate 200:
+  CRURA           CRURA           CRURA           CRURA           CRURA
+  ACEZI           HSOPI           ACEPI           BFOSH           ACEZF
+  BFOPSH          ACEZFB          HSOBFZ          ACEPIZ          HSOBPI
+
+Candidate 201:  Candidate 202:  Candidate 203:  Candidate 204:  Candidate 205:
+  CRURA           CRURA           CRURA           CRURA           CRURA
+  BOPSH           ACEPB           ACEOB           ACEPZ           ACEHS
+  ACEZFI          HSOFIZ          FIZPSH          HSOBFI          BFIZPO
+
+Candidate 206:  Candidate 207:  Candidate 208:  Candidate 209:  Candidate 210:
+  ARUAC           ARUAC           ARUAC           ARUAC           ARUAC
+  BOSCH           PERCH           PECHS           BFIPZ           BFIPO
+  PFIZER          IZFBOS          BOFIZR          CHSOER          CHSERZ
+
+Candidate 211:  Candidate 212:  Candidate 213:  Candidate 214:  Candidate 215:
+  ARUAC           ARUAC           ARUAC           ARUAC           ARUAC
+  BFIPR           BFIPE           BFIPS           EOBFI           IFBOS
+  CHSOEZ          OSHCRZ          HCRZEO          CHSPRZ          CHEPRZ
+
+Candidate 216:  Candidate 217:  Candidate 218:  Candidate 219:  Candidate 220:
+  ARUAC           ARUAC           ARUAC           ARUAC           ARUAC
+  FIPRZ           EPFIZ           FIZPS           ERZFI           CRZFI
+  BOECHS          BOSHCR          BOEHCR          BOPSCH          BOEHSP
+
+Candidate 221:  Candidate 222:  Candidate 223:  Candidate 224:  Candidate 225:
+  ARUAC           ARUAC           ARUAC           ARUAC           ARUAC
+  EOFIZ           FIZES           CEZFI           FIZEH           CRPFI
+  BPRCHS          BOPRCH          HSOBPR          BOPRCS          BOSHEZ
+
+Candidate 226:  Candidate 227:  Candidate 228:  Candidate 229:  Candidate 230:
+  ARUAC           ARUAC           ARUAC           ARUAC           ARUAC
+  FIPEH           FIPSH           ESOFI           HEOFI           CSOFI
+  BOSCRZ          BOECRZ          BPZRCH          BPSCRZ          BPRZEH
+
+Candidate 231:  Candidate 232:  Candidate 233:  Candidate 234:  Candidate 235:
+  ARUAC           ARUAC           ARUAC           ARUAC           ARUAC
+  HSOFI           BOFIZ           IZFOS           EPIZR           CRPIZ
+  BPECRZ          CEHSPR          BPEHCR          BFOSCH          BFOEHS
+
+Candidate 236:  Candidate 237:  Candidate 238:  Candidate 239:  Candidate 240:
+  ARUAC           ARUAC           ARUAC           ARUAC           ARUAC
+  HEPIZ           HSPIZ           BPIZR           IZRPS           IZREO
+  BFOSCR          BFOECR          CEHSOF          BFOECH          BFPSCH
+
+Candidate 241:  Candidate 242:  Candidate 243:  Candidate 244:  Candidate 245:
+  ARUAC           ARUAC           ARUAC           ARUAC           ARUAC
+  CERZI           HERZI           IZRCS           HCRZI           BPEZI
+  BFOPSH          BFOPSC          BFOPEH          BFOEPS          FOSHCR
+
+Candidate 246:  Candidate 247:  Candidate 248:  Candidate 249:  Candidate 250:
+  ARUAC           ARUAC           ARUAC           ARUAC           ARUAC
+  BOEZI           IZEOS           HSEZI           CHEZI           BOEPI
+  FPRCHS          BFPRCH          BFOPRC          BFOSPR          FZRCHS
+
+Candidate 251:  Candidate 252:  Candidate 253:  Candidate 254:  Candidate 255:
+  ARUAC           ARUAC           ARUAC           ARUAC           ARUAC
+  BOSPI           EOSPI           HEOPI           CSOPI           HSOPI
+  CHERZF          BFZRCH          BFZRCS          BFZREH          BFZECR
+
+Candidate 256:  Candidate 257:  Candidate 258:  Candidate 259:  Candidate 260:
+  ARUAC           ARUAC           ARUAC           ARUAC           ARUAC
+  CERPI           HERPI           IPRCS           HCRPI           EHSPI
+  HSOBFZ          CSOBFZ          BOFZEH          BFOSEZ          BOFZRC
+
+Candidate 261:  Candidate 262:  Candidate 263:  Candidate 264:  Candidate 265:
+  ARUAC           ARUAC           ARUAC           ARUAC           ARUAC
+  CHEPI           CHSPI           BFOEP           BFOPS           BFPRC
+  RZFBOS          BFOERZ          HSCRZI          CHERZI          HSOEZI
+
+Candidate 266:  Candidate 267:  Candidate 268:  Candidate 269:  Candidate 270:
+  ARUAC           ARUAC           ARUAC           ARUAC           ARUAC
+  BFPEH           BFPSH           BFOPR           BFOEZ           BFOER
+  IZRCSO          IZRCEO          CHSEZI          HSCRPI          CHSPIZ
+
+Candidate 271:  Candidate 272:  Candidate 273:  Candidate 274:  Candidate 275:
+  ARUAC           ARUAC           ARUAC           ARUAC           ARUAC
+  BFOES           BFOEC           BFOEH           BFOSC           BFOSH
+  HCRPIZ          HSPIZR          CRZIPS          HEPIZR          CEPIZR
+
+Candidate 276:  Candidate 277:  Candidate 278:  Candidate 279:  Candidate 280:
+  ARUAC           ARUAC           ARUAC           ARUAC           ARUAC
+  CERZF           FZREH           FZRCS           FZRCH           FPRCH
+  HSOBPI          CSOBPI          HEOBPI          BOESPI          BOSEZI
+
+Candidate 281:  Candidate 282:  Candidate 283:  Candidate 284:  Candidate 285:
+  ARUAC           ARUAC           ARUAC           ARUAC           ARUAC
+  CHSPF           EHSOF           FOSCR           CHSOF           BFIZR
+  BOERZI          BPIZRC          BPIZEH          BPERZI          CEHSOP
+
+Candidate 286:  Candidate 287:  Candidate 288:  Candidate 289:  Candidate 290:
+  ARUAC           ARUAC           ARUAC           ARUAC           ARUAC
+  BFIZE           BFZER           BFZRC           BFZEH           BPERZ
+  CHSOPR          CHSOPI          EHSOPI          IPOSCR          CHSOFI
+
+Candidate 291:  Candidate 292:  Candidate 293:  Candidate 294:  Candidate 295:
+  ARUAC           ARUAC           ARUAC           ARUAC           ARUAC
+  BPZRC           BPZEH           BOEPS           BOPEH           BOPSC
+  EHSOFI          IFOSCR          FIZRCH          FIZRCS          FIZREH
+
+Candidate 296:  Candidate 297:  Candidate 298:  Candidate 299:  Candidate 300:
+  ARUAC           ARUAC           ARUAC           ARUAC           ARUAC
+  BOPSH           BPECR           BPREH           BPRCS           BPRCH
+  CERZFI          HSOFIZ          CSOFIZ          HEOFIZ          ESOFIZ
+
+Candidate 301:  Candidate 302:  Candidate 303:  Candidate 304:  Candidate 305:
+  ARUAC           ARUAC           ARUAC           ARUAC           ARUAC
+  BPEHS           BPECH           BPSCH           BOFZR           BOPRC
+  CRZIFO          RZIFOS          EOFIZR          CEHSPI          FIZEHS
+
+Candidate 306:  Candidate 307:  Candidate 308:  Candidate 309:  Candidate 310:
+  ARUAC           ARUAC           ARUAC           ARUAC           ARUAC
+  BOERZ           BOECR           BOEHS           BOECH           BOSPR
+  CHSPFI          FIZPSH          CRPFIZ          FIZRPS          CHEZFI
+
+Candidate 311:  Candidate 312:  Candidate 313:  Candidate 314:  Candidate 315:
+  ARUAC           ARUAC           ARUAC           ARUAC           ARUAC
+  BOSEZ           BOSCR           SOBFZ           CEPRZ           HEPRZ
+  FIPRCH          FIPZEH          CHERPI          HSOBFI          CSOBFI
+
+Candidate 316:  Candidate 317:  Candidate 318:  Candidate 319:  Candidate 320:
+  ARUAC           ARUAC           ARUAC           ARUAC           ARUAC
+  CRZPS           HCRPZ           CHSPZ           HSPRZ           CHERZ
+  HEOBFI          ESOBFI          IFBOER          CEOBFI          BFIPOS
+
+Candidate 321:  Candidate 322:  Candidate 323:  Candidate 324:  Candidate 325:
+  ARUAC           ARUAC           ARUAC           ARUAC           ARUAC
+  CRZEO           OSCRZ           HSCRZ           HSOEZ           CHSEZ
+  BFIPSH          BFIPEH          BFIPEO          BFIPRC          BOFIPR
+
+Candidate 326:  Candidate 327:  Candidate 328:  Candidate 329:  Candidate 330:
+  ARUAC           ARUAC           ARUAC           ARUAC           ARUAC
+  EHSOP           CRPOS           CHSOP           CHSPR           OFIZR
+  BFIZRC          BFIZEH          BFIZER          BFIZEO          BPECHS
+
+Candidate 331:  Candidate 332:  Candidate 333:  Candidate 334:  Candidate 335:
+  ARUAC           ARUAC           ARUAC           ARUAC           ARUAC
+  HCRPO           HCREO           CEHSO           OSHCR           HSOPR
+  BFIZES          BFIZPS          BFIPRZ          BFIPEZ          BFIZEC
+
+Candidate 336:  Candidate 337:  Candidate 338:  Candidate 339:  Candidate 340:
+  ARUAC           SERRA           SERRA           AZURE           AZURE
+  CHSER           BFIPO           AUCCH           BFPIR           BOFIR
+  BFIZPO          HCCAUZ          BFIZPO          ACCHSO          ACCHSP
+
+Candidate 341:  Candidate 342:  Candidate 343:  Candidate 344:  Candidate 345:
+  AZURE           RIPER           RIPER           RIPER           RIPER
+  ACCHS           AZFBO           ACUZA           BFOSH           AUCCH
+  BFOPIR          AUCCHS          BFOSCH          AZUACC          AZFBOS
+
+Candidate 346:  Candidate 347:  Candidate 348:  Candidate 349:  Candidate 350:
+  CARPI           CARPI           CARPI           CARPI           CARPI
+  ARUZF           ARUZE           BFOSC           BFOSH           CEHSO
+  BOECHS          BFOSCH          ARUZEH          ARUZEC          ARUZFB
+
+Candidate 351:  Candidate 352:  Candidate 353:  Candidate 354:  Candidate 355:
+  BOSER           BOSER           BOSER           BOSCH           BOSCH
+  AIFPZ           ARIFP           AUCCH           CURIA           ARRAU
+  HCCAUR          HCCAUZ          AIFPZR          AREPFZ          CEPFIZ
+
+Candidate 356:  Candidate 357:  Candidate 358:  Candidate 359:  Candidate 360:
+  BOSCH           BOSCH           BOSCH           BOSCH           BOSCH
+  ARUAC           CARPE           ERUCA           AIFZR           AIFPZ
+  PFIZER          AIFZRU          AIFPZR          ACEPRU          ACERRU
+
+Candidate 361:  Candidate 362:  Candidate 363:  Candidate 364:  Candidate 365:
+  BOSCH           BOSCH           BOSCH           BOSCH           BOSCH
+  AIFZU           AIFZR           AIFZE           AIFPR           AIFPE
+  ACEPRR          PECAUR          ACURRP          ACEZRU          ACRRUZ
+
+Candidate 366:  Candidate 367:  Candidate 368:  Candidate 369:  Candidate 370:
+  BOSCH           BOSCH           BOSCH           BOSCH           BOSCH
+  AIRUZ           AIRRZ           AIRZE           AIRRU           AIRUA
+  ACERPF          AUCEPF          ACURPF          ACEPFZ          CEPFZR
+
+Candidate 371:  Candidate 372:  Candidate 373:  Candidate 374:  Candidate 375:
+  BOSCH           BOSCH           BOSCH           BOSCH           BOSCH
+  AIPRR           AIRRE           AIRRA           AIRRC           AIZUA
+  AUCEZF          ACUZFP          CEPFZU          AUZEPF          FPECRR
+
+Candidate 376:  Candidate 377:  Candidate 378:  Candidate 379:  Candidate 380:
+  BOSCH           BOSCH           BOSCH           BOSCH           BOSCH
+  AIZRA           AIZEC           AIPER           AIPRA           AIPEC
+  FPECUR          AURRPF          ACURZF          ECURZF          ARRUZF
+
+Candidate 381:  Candidate 382:  Candidate 383:  Candidate 384:  Candidate 385:
+  BOSCH           BOSCH           BOSCH           BOSCH           BOSCH
+  ARIFP           ARIPE           ARRUZ           ARZUA           ARZUC
+  ACERUZ          ACRUZF          ACEPFI          CERPFI          AREPFI
+
+Candidate 386:  Candidate 387:  Candidate 388:  Candidate 389:  Candidate 390:
+  BOSCH           BOSCH           BOSCH           BOSCH           BOSCH
+  ARRAZ           ARZEC           ARUZF           ARUZE           ARURP
+  FIPECU          AURPFI          ACERPI          ACRPFI          ACEZFI
+
+Candidate 391:  Candidate 392:  Candidate 393:  Candidate 394:  Candidate 395:
+  BOSCH           BOSCH           BOSCH           BOSCH           BOSCH
+  ARUCE           ARRZF           ARRPF           ARREP           ARRCE
+  ARPFIZ          AUCEPI          AUCEZI          ACUZFI          AUZFIP
+
+Candidate 396:  Candidate 397:  Candidate 398:  Candidate 399:  Candidate 400:
+  BOSCH           BOSCH           BOSCH           BOSCH           BOSCH
+  ACRRA           AZFPR           AZEPF           AZEPR           ARPZA
+  EPFIZU          ECAURI          ACRURI          ACURIF          ECURIF
+
+Candidate 401:  Candidate 402:  Candidate 403:  Candidate 404:  Candidate 405:
+  BOSCH           BOSCH           BOSCH           BOSCH           BOSCH
+  AZPEC           ARUZA           ACUZA           AZECU           AZECR
+  ARURIF          CEPFIR          EPFIRR          ARPFIR          AURIFP
+
+Candidate 406:  Candidate 407:  Candidate 408:  Candidate 409:  Candidate 410:
+  BOSCH           BOSCH           BOSCH           BOSCH           BOSCH
+  ACRZA           AREZA           ACEZA           FIPRZ           EPFIZ
+  EPFIRU          CURIFP          FIPRRU          ARUACE          ACRURA
+
+Candidate 411:  Candidate 412:  Candidate 413:  Candidate 414:  Candidate 415:
+  BOSCH           BOSCH           BOSCH           BOSCH           BOSCH
+  AUZFI           ARZFI           CEZFI           FIPZU           FIPRR
+  ARRCEP          ARUCEP          ARUARP          ACERRA          AUCEZA
+
+Candidate 416:  Candidate 417:  Candidate 418:  Candidate 419:  Candidate 420:
+  BOSCH           BOSCH           BOSCH           BOSCH           BOSCH
+  FIPRU           ERPFI           ARPFI           CRPFI           CEPFI
+  ACEZAR          ACURAZ          ARUCEZ          AURAZE          ARRAUZ
+
+Candidate 421:  Candidate 422:  Candidate 423:  Candidate 424:  Candidate 425:
+  BOSCH           BOSCH           BOSCH           BOSCH           BOSCH
+  ARURI           ACURI           ECURI           ACUZI           ACEZI
+  AZFPEC          AZERPF          ARPFZA          ARREPF          ARURPF
+
+Candidate 426:  Candidate 427:  Candidate 428:  Candidate 429:  Candidate 430:
+  BOSCH           BOSCH           BOSCH           BOSCH           BOSCH
+  CERPI           AREPI           IPECU           ACEPI           FIARU
+  AURAZF          CURAZF          ARRAZF          ARRUZF          ACEPRZ
+
+Candidate 431:  Candidate 432:  Candidate 433:  Candidate 434:  Candidate 435:
+  BOSCH           BOSCH           BOSCH           BOSCH           BOSCH
+  FIARR           FIRRU           AURIF           CURIF           ARRIF
+  ACEPZU          ACEPZA          AZECRP          AREPZA          AZPECU
+
+Candidate 436:  Candidate 437:  Candidate 438:  Candidate 439:  Candidate 440:
+  BOSCH           BOSCH           BOSCH           BOSCH           BOSCH
+  FZRRU           AURZF           CURZF           ARRZF           EPFZR
+  ACEPIA          AIPECR          AIPERA          AIPECU          ACURAI
+
+Candidate 441:  Candidate 442:  Candidate 443:  Candidate 444:  Candidate 445:
+  BOSCH           BOSCH           BOSCH           BOSCH           BOSCH
+  ARPFZ           CEPFZ           ARUZF           ACUZF           ECUZF
+  AIRUCE          AIRRAU          ARIPEC          AIPERR          ARIPRA
+
+Candidate 446:  Candidate 447:  Candidate 448:  Candidate 449:  Candidate 450:
+  BOSCH           BOSCH           BOSCH           BOSCH           BOSCH
+  CERZF           ACRZF           AREZF           ACEZF           FPIRU
+  AURAIP          EPIARU          CURAIP          AIPRRU          ACERZA
+
+Candidate 451:  Candidate 452:  Candidate 453:  Candidate 454:  Candidate 455:
+  BOSCH           BOSCH           BOSCH           BOSCH           BOSCH
+  AUZFP           FPRRU           AURPF           CERPF           ACRPF
+  AIRRCE          ACEZAI          AIRZEC          AIRZUA          AIRUZE
+
+Candidate 456:  Candidate 457:  Candidate 458:  Candidate 459:  Candidate 460:
+  BOSCH           BOSCH           BOSCH           BOSCH           BOSCH
+  EPFZU           FPERR           AREPF           FPECU           ACEPF
+  ACRRAI          ACUZAI          AIRZUC          AIRZRA          AIRRUZ
+
+Candidate 461:  Candidate 462:  Candidate 463:  Candidate 464:  Candidate 465:
+  BOSCH           BOSCH           BOSCH           BOSCH           BOSCH
+  EPFIR           ARRUZ           ACURZ           CEZRU           ACEZR
+  ACRUZA          AIFPEC          AIFPER          AIFPRA          AIFPRU
+
+Candidate 466:  Candidate 467:  Candidate 468:  Candidate 469:  Candidate 470:
+  BOSCH           BOSCH           BOSCH           BOSCH           BOSCH
+  ACRRU           AURRP           ECAUR           PECUR           CEPRR
+  AIFPEZ          AIFZEC          AIFPRZ          AIFZRA          AIFZUA
+
+Candidate 471:  Candidate 472:  Candidate 473:  Candidate 474:  Candidate 475:
+  BOSCH           BOSCH           BOSCH           BOSCH           BOSCH
+  ACERR           CEPRZ           AREPZ           CEPZU           ACEPZ
+  AIFPZU          AURAIF          CURAIF          ARRAIF          FIARRU
+
+Candidate 476:  Candidate 477:  Candidate 478:  Candidate 479:  Candidate 480:
+  BOSCH           BOSCH           BOSCH           BOSCH           BOSCH
+  ACRUZ           ACEZU           ACERZ           PIARU           ACUZP
+  ARIFPE          AIFPRR          FPIARU          ACERZF          ERRAIF
+
+Candidate 481:  Candidate 482:  Candidate 483:  Candidate 484:  Candidate 485:
+  BOSCH           BOSCH           BOSCH           BOSCH           RIPES
+  ACURP           AUZEP           AUCEP           AURZE           AZFBO
+  ARIFZE          CRRAIF          AIFZRR          AIFPRC          ACURCH
+
+Candidate 486:  Candidate 487:  Candidate 488:  Candidate 489:  Candidate 490:
+  OPERA           OPERA           OPERA           POSER           POSER
+  AIZFB           ARIFB           HSCCU           AIZFB           ARIFB
+  HSCCUR          HSCCUZ          AIRZFB          HCCAUR          HCCAUZ
+
+Candidate 491:  Candidate 492:  Candidate 493:  Candidate 494:  Candidate 495:
+  POSER           CARPE           CARPE           PERCH           PERCH
+  AUCCH           BOSCH           AIRUZ           ARUAC           ACUZA
+  AIRZFB          AIFZRU          BFOSCH          IZFBOS          RIFBOS
+
+Candidate 496:  Candidate 497:  Candidate 498:  Candidate 499:  Candidate 500:
+  PERCH           PERCH           PERCH           PERCH           PERAU
+  IFBOS           ACURI           ACURZ           SOBFZ           AIFZR
+  ACURAZ          AZFBOS          AIFBOS          ACURAI          BOSHCC
+
+
+Unique candidate strings (751 total):
+  ACCEH   ACCHEO  ACCHEZ  ACCHS   
+  ACCHSO  ACCHSP  ACCRPB  ACCRRU  
+  ACCRU   ACCRUZ  ACEHS   ACEHSO  
+  ACEHSP  ACEOB   ACEOBF  ACEPB   
+  ACEPF   ACEPFI  ACEPFZ  ACEPI   
+  ACEPIA  ACEPIZ  ACEPRR  ACEPRU  
+  ACEPRZ  ACEPZ   ACEPZA  ACEPZU  
+  ACERPF  ACERPI  ACERR   ACERRA  
+  ACERRU  ACERUZ  ACERZ   ACERZA  
+  ACERZF  ACEZA   ACEZAI  ACEZAR  
+  ACEZF   ACEZFB  ACEZFI  ACEZI   
+  ACEZPB  ACEZR   ACEZRU  ACEZU   
+  ACRCH   ACRPB   ACRPF   ACRPFI  
+  ACRRA   ACRRAI  ACRRU   ACRRUZ  
+  ACRURA  ACRURI  ACRUZ   ACRUZA  
+  ACRUZF  ACRZA   ACRZF   ACURAI  
+  ACURAZ  ACURCH  ACURI   ACURIF  
+  ACURP   ACURPB  ACURPF  ACURRP  
+  ACURZ   ACURZF  ACUZA   ACUZAI  
+  ACUZF   ACUZFB  ACUZFI  ACUZFP  
+  ACUZI   ACUZP   ACUZPB  AIFBOS  
+  AIFPE   AIFPEC  AIFPER  AIFPEZ  
+  AIFPR   AIFPRA  AIFPRC  AIFPRR  
+  AIFPRU  AIFPRZ  AIFPZ   AIFPZR  
+  AIFPZU  AIFZE   AIFZEC  AIFZR   
+  AIFZRA  AIFZRR  AIFZRU  AIFZU   
+  AIFZUA  AIPEC   AIPECR  AIPECU  
+  AIPER   AIPERA  AIPERR  AIPRA   
+  AIPRR   AIPRRU  AIRRA   AIRRAU  
+  AIRRC   AIRRCE  AIRRE   AIRRU   
+  AIRRUZ  AIRRZ   AIRUA   AIRUCE  
+  AIRUZ   AIRUZE  AIRZE   AIRZEC  
+  AIRZFB  AIRZRA  AIRZUA  AIRZUC  
+  AIZEC   AIZFB   AIZRA   AIZUA   
+  ARCEO   ARCEOB  ARCEP   ARCEPB  
+  ARCEPZ  ARCEZ   ARCEZF  ARCHE   
+  ARCHEO  ARCHEP  ARCHES  ARCHEZ  
+  ARCHS   ARCHSO  ARCHSP  ARCSO   
+  ARCSOB  ARCSOF  ARCSOP  ARCSP   
+  ARCSPB  ARCSPZ  AREOB   AREOBF  
+  AREOFZ  AREPB   AREPF   AREPFI  
+  AREPFZ  AREPI   AREPZ   AREPZA  
+  AREZA   AREZF   AREZFB  AREZPB  
+  ARIFB   ARIFP   ARIFPE  ARIFZE  
+  ARIPE   ARIPEC  ARIPRA  ARPBF   
+  ARPBFO  ARPBFZ  ARPBO   ARPBOS  
+  ARPEH   ARPFI   ARPFIR  ARPFIZ  
+  ARPFZ   ARPFZA  ARPOS   ARPOSH  
+  ARPSH   ARPZA   ARPZEH  ARRAIF  
+  ARRAU   ARRAUZ  ARRAZ   ARRAZF  
+  ARRCE   ARRCEP  ARREP   ARREPF  
+  ARRIF   ARRPF   ARRUZ   ARRUZF  
+  ARRZF   ARRZPB  ARUAC   ARUACE  
+  ARUARP  ARUCE   ARUCEP  ARUCEZ  
+  ARURI   ARURIF  ARURP   ARURPF  
+  ARUZA   ARUZE   ARUZEC  ARUZEH  
+  ARUZF   ARUZFB  ARZEC   ARZEH   
+  ARZEO   ARZEOB  ARZFB   ARZFBO  
+  ARZFI   ARZFO   ARZFOS  ARZFPS  
+  ARZPB   ARZPS   ARZPSH  ARZUA   
+  ARZUC   AUCCEH  AUCCH   AUCCHS  
+  AUCEH   AUCEO   AUCEOB  AUCEP   
+  AUCEPB  AUCEPF  AUCEPI  AUCEZA  
+  AUCEZF  AUCEZI  AURAIF  AURAIP  
+  AURAZE  AURAZF  AURCH   AURIF   
+  AURIFP  AURPB   AURPF   AURPFI  
+  AURRCH  AURRP   AURRPB  AURRPF  
+  AURZE   AURZEH  AURZF   AURZPB  
+  AUZEP   AUZEPB  AUZEPF  AUZFB   
+  AUZFBO  AUZFI   AUZFIP  AUZFP   
+  AUZPB   AUZRCH  AZECR   AZECRP  
+  AZECU   AZEPF   AZEPR   AZERPF  
+  AZFBO   AZFBOS  AZFPEC  AZFPR   
+  AZPEC   AZPECU  AZUACC  AZURE   
+  BFIPE   BFIPEH  BFIPEO  BFIPEZ  
+  BFIPO   BFIPOS  BFIPR   BFIPRC  
+  BFIPRZ  BFIPS   BFIPSH  BFIPZ   
+  BFIZE   BFIZEC  BFIZEH  BFIZEO  
+  BFIZER  BFIZES  BFIZPO  BFIZPS  
+  BFIZR   BFIZRC  BFOEC   BFOECC  
+  BFOECH  BFOECR  BFOEH   BFOEHS  
+  BFOEP   BFOEPS  BFOEPZ  BFOER   
+  BFOERZ  BFOES   BFOEZ   BFOEZU  
+  BFOPEH  BFOPIR  BFOPR   BFOPRC  
+  BFOPS   BFOPSC  BFOPSH  BFOPZ   
+  BFOSC   BFOSCC  BFOSCH  BFOSCR  
+  BFOSEZ  BFOSH   BFOSPR  BFOSPZ  
+  BFPEH   BFPEZ   BFPIR   BFPRC   
+  BFPRCH  BFPSCH  BFPSH   BFPZEH  
+  BFZEC   BFZECC  BFZECH  BFZECR  
+  BFZEH   BFZER   BFZPS   BFZPSH  
+  BFZRC   BFZRCH  BFZRCS  BFZREH  
+  BFZRU   BFZUC   BOECC   BOECCH  
+  BOECH   BOECHS  BOECR   BOECRZ  
+  BOEHCR  BOEHS   BOEHSP  BOEPI   
+  BOEPS   BOERZ   BOERZI  BOESPI  
+  BOEZI   BOFIPR  BOFIR   BOFIZ   
+  BOFIZR  BOFZEC  BOFZEH  BOFZR   
+  BOFZRC  BOFZRR  BOFZRU  BOFZU   
+  BOFZUC  BOPEH   BOPRC   BOPRCH  
+  BOPRCS  BOPSC   BOPSCC  BOPSCH  
+  BOPSH   BOSCC   BOSCH   BOSCR   
+  BOSCRZ  BOSER   BOSEZ   BOSEZI  
+  BOSHCC  BOSHCR  BOSHEZ  BOSPI   
+  BOSPR   BPECC   BPECCH  BPECH   
+  BPECHS  BPECR   BPECRZ  BPEHCR  
+  BPEHS   BPERR   BPERRZ  BPERZ   
+  BPERZI  BPEZI   BPEZR   BPEZRU  
+  BPEZU   BPIZEC  BPIZEH  BPIZR   
+  BPIZRC  BPRCC   BPRCCH  BPRCH   
+  BPRCHS  BPRCS   BPREH   BPRRU   
+  BPRRUZ  BPRRZ   BPRZEH  BPSCC   
+  BPSCH   BPSCRZ  BPSHCC  BPZEC   
+  BPZECC  BPZECH  BPZEH   BPZRC   
+  BPZRCH  BPZRRC  BPZRU   BPZRUC  
+  CARPE   CARPI   CCAUR   CCAURZ  
+  CCEHS   CCEHSO  CCEHSP  CCEPI   
+  CCEPIZ  CCEPZ   CCEZF   CCEZFI  
+  CCEZI   CCHEO   CCHEP   CCHEPI  
+  CCHEPZ  CCHERR  CCHEZ   CCHEZF  
+  CCHEZI  CCHEZR  CCHSEZ  CCHSO   
+  CCHSOF  CCHSOP  CCHSP   CCHSPF  
+  CCHSPI  CCHSPZ  CCSOF   CCSOFI  
+  CCSOP   CCSOPI  CCSPI   CCSPIZ  
+  CCSPZ   CEHSO   CEHSOF  CEHSOP  
+  CEHSPI  CEHSPR  CEOBFI  CEOFIZ  
+  CEPFI   CEPFIR  CEPFIZ  CEPFZ   
+  CEPFZR  CEPFZU  CEPIZ   CEPIZR  
+  CEPRR   CEPRZ   CEPZU   CERPF   
+  CERPFI  CERPI   CERZF   CERZFI  
+  CERZI   CEZFI   CEZRU   CHECU   
+  CHECUR  CHEPI   CHEPRZ  CHERPI  
+  CHERR   CHERZ   CHERZF  CHERZI  
+  CHEZF   CHEZFI  CHEZI   CHEZR   
+  CHEZRU  CHSER   CHSERZ  CHSEZ   
+  CHSEZF  CHSEZI  CHSOER  CHSOEZ  
+  CHSOF   CHSOFI  CHSOFZ  CHSOP   
+  CHSOPI  CHSOPR  CHSPF   CHSPFI  
+  CHSPFZ  CHSPI   CHSPIZ  CHSPR   
+  CHSPRZ  CHSPZ   CRCHE   CRCHEO  
+  CRPFI   CRPFIZ  CRPIZ   CRPOS   
+  CRRAIF  CRURA   CRZEO   CRZFI   
+  CRZIFO  CRZIPS  CRZPS   CSOBFI  
+  CSOBFZ  CSOBPI  CSOFI   CSOFIZ  
+  CSOPI   CURAIF  CURAIP  CURAZF  
+  CURIA   CURIF   CURIFP  CURZF   
+  ECAUR   ECAURI  ECURI   ECURIF  
+  ECURZF  ECUZF   EHSOF   EHSOFI  
+  EHSOP   EHSOPI  EHSPI   EOBFI   
+  EOFIZ   EOFIZR  EOSPI   EPFIR   
+  EPFIRR  EPFIRU  EPFIZ   EPFIZU  
+  EPFZR   EPFZU   EPIARU  EPIZR   
+  ERPFI   ERRAIF  ERUCA   ERZFI   
+  ESOBFI  ESOFI   ESOFIZ  FIARR   
+  FIARRU  FIARU   FIPECU  FIPEH   
+  FIPRCH  FIPRR   FIPRRU  FIPRU   
+  FIPRZ   FIPSH   FIPZEH  FIPZU   
+  FIRRU   FIZEH   FIZEHS  FIZES   
+  FIZPS   FIZPSH  FIZRCH  FIZRCS  
+  FIZREH  FIZRPS  FOSCR   FOSHCR  
+  FPECRR  FPECU   FPECUR  FPERR   
+  FPIARU  FPIRU   FPRCH   FPRCHS  
+  FPRRU   FPZEH   FZPSH   FZRCH   
+  FZRCHS  FZRCS   FZREH   FZRRU   
+  FZUCCH  FZURCH  HCCARR  HCCAUR  
+  HCCAUZ  HCCRR   HCCUR   HCCURZ  
+  HCCUZ   HCREO   HCRPI   HCRPIZ  
+  HCRPO   HCRPZ   HCRRU   HCRRUZ  
+  HCRRZ   HCRUZ   HCRZEO  HCRZI   
+  HECAUR  HEOBFI  HEOBPI  HEOFI   
+  HEOFIZ  HEOFZ   HEOPI   HEPIZ   
+  HEPIZR  HEPRZ   HERPI   HERZI   
+  HEZRU   HSCCU   HSCCUR  HSCCUZ  
+  HSCRPI  HSCRZ   HSCRZI  HSEZI   
+  HSOBFI  HSOBFZ  HSOBPI  HSOBPR  
+  HSOEZ   HSOEZI  HSOFI   HSOFIZ  
+  HSOFZ   HSOPI   HSOPR   HSPIZ   
+  HSPIZR  HSPRZ   IFBOER  IFBOS   
+  IFOSCR  IPECU   IPOSCR  IPRCS   
+  IZEOS   IZFBOS  IZFOS   IZRCEO  
+  IZRCS   IZRCSO  IZREO   IZRPS   
+  OEHCCU  OFIZR   OPERA   OSCRZ   
+  OSHCR   OSHCRZ  PECAUR  PECHS   
+  PECUR   PERAU   PERCH   PFIZER  
+  PIARU   POSER   RACCHE  RAZER   
+  RAZES   RIFBOS  RIPER   RIPES   
+  RZFBOS  RZIFOS  SEPIA   SERRA   
+  SOBFZ   SOFIA   SPIRA   
+English word matches (28 total):
+  ACERRA  ARCHE   ARCHES  ARRAU   
+  ARUAC   AZURE   BOSCH   BOSER   
+  CARPE   CARPI   CRCHE   CRURA   
+  CURIA   ERUCA   OPERA   PECHS   
+  PERAU   PERCH   POSER   RACCHE  
+  RAZER   RAZES   RIPER   RIPES   
+  SEPIA   SERRA   SOFIA   SPIRA   
+Brand matches (2 total):
+  BOSCH   PFIZER  

@@ -1,0 +1,1485 @@
+Unique words across all solutions (12 total):
+  DOOR  INKS  LOKI  LOOP  
+  MOOR  MORN  OOPS  POOL  
+  ROOD  ROOM  SINK  SKIN  
+
+------------------------------------------------------------
+English words (filtered) (12 total):
+  DOOR  INKS  LOKI  LOOP  
+  MOOR  MORN  OOPS  POOL  
+  ROOD  ROOM  SINK  SKIN  
+
+------------------------------------------------------------
+Brand matches (filtered) (0 total): none
+
+------------------------------------------------------------
+Grid (grid.txt):
+LOOD
+MOPO
+OKSO
+RNIR
+
+------------------------------------------------------------
+Pattern: ---- ---- ---- ----
+
+------------------------------------------------------------
+Found 672 solution(s):
+
+Solution 1:     Solution 2:     Solution 3:     Solution 4:     Solution 5:
+  LOOP            LOOP            LOOP            LOOP            LOOP
+  DOOR            DOOR            DOOR            DOOR            DOOR
+  MOOR            MOOR            MOOR            SKIN            SKIN
+  SKIN            SINK            INKS            MOOR            ROOM
+
+Solution 6:     Solution 7:     Solution 8:     Solution 9:     Solution 10:
+  LOOP            LOOP            LOOP            LOOP            LOOP
+  DOOR            DOOR            DOOR            DOOR            DOOR
+  SINK            SINK            ROOM            ROOM            ROOM
+  MOOR            ROOM            SKIN            SINK            INKS
+
+Solution 11:    Solution 12:    Solution 13:    Solution 14:    Solution 15:
+  LOOP            LOOP            LOOP            LOOP            LOOP
+  DOOR            DOOR            MOOR            MOOR            MOOR
+  INKS            INKS            DOOR            DOOR            DOOR
+  MOOR            ROOM            SKIN            SINK            INKS
+
+Solution 16:    Solution 17:    Solution 18:    Solution 19:    Solution 20:
+  LOOP            LOOP            LOOP            LOOP            LOOP
+  MOOR            MOOR            MOOR            MOOR            MOOR
+  SKIN            SKIN            SINK            SINK            INKS
+  DOOR            ROOD            DOOR            ROOD            DOOR
+
+Solution 21:    Solution 22:    Solution 23:    Solution 24:    Solution 25:
+  LOOP            LOOP            LOOP            LOOP            LOOP
+  MOOR            MOOR            MOOR            MOOR            SKIN
+  INKS            ROOD            ROOD            ROOD            DOOR
+  ROOD            SKIN            SINK            INKS            MOOR
+
+Solution 26:    Solution 27:    Solution 28:    Solution 29:    Solution 30:
+  LOOP            LOOP            LOOP            LOOP            LOOP
+  SKIN            SKIN            SKIN            SKIN            SKIN
+  DOOR            MOOR            MOOR            ROOM            ROOM
+  ROOM            DOOR            ROOD            DOOR            ROOD
+
+Solution 31:    Solution 32:    Solution 33:    Solution 34:    Solution 35:
+  LOOP            LOOP            LOOP            LOOP            LOOP
+  SKIN            SKIN            SINK            SINK            SINK
+  ROOD            ROOD            DOOR            DOOR            MOOR
+  MOOR            ROOM            MOOR            ROOM            DOOR
+
+Solution 36:    Solution 37:    Solution 38:    Solution 39:    Solution 40:
+  LOOP            LOOP            LOOP            LOOP            LOOP
+  SINK            SINK            SINK            SINK            SINK
+  MOOR            ROOM            ROOM            ROOD            ROOD
+  ROOD            DOOR            ROOD            MOOR            ROOM
+
+Solution 41:    Solution 42:    Solution 43:    Solution 44:    Solution 45:
+  LOOP            LOOP            LOOP            LOOP            LOOP
+  ROOM            ROOM            ROOM            ROOM            ROOM
+  DOOR            DOOR            DOOR            SKIN            SKIN
+  SKIN            SINK            INKS            DOOR            ROOD
+
+Solution 46:    Solution 47:    Solution 48:    Solution 49:    Solution 50:
+  LOOP            LOOP            LOOP            LOOP            LOOP
+  ROOM            ROOM            ROOM            ROOM            ROOM
+  SINK            SINK            INKS            INKS            ROOD
+  DOOR            ROOD            DOOR            ROOD            SKIN
+
+Solution 51:    Solution 52:    Solution 53:    Solution 54:    Solution 55:
+  LOOP            LOOP            LOOP            LOOP            LOOP
+  ROOM            ROOM            INKS            INKS            INKS
+  ROOD            ROOD            DOOR            DOOR            MOOR
+  SINK            INKS            MOOR            ROOM            DOOR
+
+Solution 56:    Solution 57:    Solution 58:    Solution 59:    Solution 60:
+  LOOP            LOOP            LOOP            LOOP            LOOP
+  INKS            INKS            INKS            INKS            INKS
+  MOOR            ROOM            ROOM            ROOD            ROOD
+  ROOD            DOOR            ROOD            MOOR            ROOM
+
+Solution 61:    Solution 62:    Solution 63:    Solution 64:    Solution 65:
+  LOOP            LOOP            LOOP            LOOP            LOOP
+  ROOD            ROOD            ROOD            ROOD            ROOD
+  MOOR            MOOR            MOOR            SKIN            SKIN
+  SKIN            SINK            INKS            MOOR            ROOM
+
+Solution 66:    Solution 67:    Solution 68:    Solution 69:    Solution 70:
+  LOOP            LOOP            LOOP            LOOP            LOOP
+  ROOD            ROOD            ROOD            ROOD            ROOD
+  SINK            SINK            ROOM            ROOM            ROOM
+  MOOR            ROOM            SKIN            SINK            INKS
+
+Solution 71:    Solution 72:    Solution 73:    Solution 74:    Solution 75:
+  LOOP            LOOP            LOKI            LOKI            LOKI
+  ROOD            ROOD            OOPS            OOPS            OOPS
+  INKS            INKS            DOOR            MORN            MORN
+  MOOR            ROOM            MORN            DOOR            ROOD
+
+Solution 76:    Solution 77:    Solution 78:    Solution 79:    Solution 80:
+  LOKI            LOKI            LOKI            LOKI            LOKI
+  OOPS            OOPS            OOPS            OOPS            OOPS
+  ROOD            DOOR            MORN            MORN            ROOD
+  MORN            MORN            DOOR            ROOD            MORN
+
+Solution 81:    Solution 82:    Solution 83:    Solution 84:    Solution 85:
+  LOKI            LOKI            LOKI            LOKI            LOKI
+  DOOR            DOOR            DOOR            DOOR            MORN
+  OOPS            OOPS            MORN            MORN            OOPS
+  MORN            MORN            OOPS            OOPS            DOOR
+
+Solution 86:    Solution 87:    Solution 88:    Solution 89:    Solution 90:
+  LOKI            LOKI            LOKI            LOKI            LOKI
+  MORN            MORN            MORN            MORN            MORN
+  OOPS            OOPS            OOPS            DOOR            DOOR
+  ROOD            DOOR            ROOD            OOPS            OOPS
+
+Solution 91:    Solution 92:    Solution 93:    Solution 94:    Solution 95:
+  LOKI            LOKI            LOKI            LOKI            LOKI
+  MORN            MORN            ROOD            ROOD            ROOD
+  ROOD            ROOD            OOPS            OOPS            MORN
+  OOPS            OOPS            MORN            MORN            OOPS
+
+Solution 96:    Solution 97:    Solution 98:    Solution 99:    Solution 100:
+  LOKI            OOPS            OOPS            OOPS            OOPS
+  ROOD            LOKI            LOKI            LOKI            LOKI
+  MORN            DOOR            MORN            MORN            ROOD
+  OOPS            MORN            DOOR            ROOD            MORN
+
+Solution 101:   Solution 102:   Solution 103:   Solution 104:   Solution 105:
+  OOPS            OOPS            OOPS            OOPS            OOPS
+  DOOR            DOOR            MORN            MORN            MORN
+  LOKI            MORN            LOKI            LOKI            DOOR
+  MORN            LOKI            DOOR            ROOD            LOKI
+
+Solution 106:   Solution 107:   Solution 108:   Solution 109:   Solution 110:
+  OOPS            OOPS            OOPS            OOPS            OOPS
+  MORN            ROOD            ROOD            LOKI            LOKI
+  ROOD            LOKI            MORN            DOOR            MORN
+  LOKI            MORN            LOKI            MORN            DOOR
+
+Solution 111:   Solution 112:   Solution 113:   Solution 114:   Solution 115:
+  OOPS            OOPS            OOPS            OOPS            OOPS
+  LOKI            LOKI            DOOR            DOOR            MORN
+  MORN            ROOD            LOKI            MORN            LOKI
+  ROOD            MORN            MORN            LOKI            DOOR
+
+Solution 116:   Solution 117:   Solution 118:   Solution 119:   Solution 120:
+  OOPS            OOPS            OOPS            OOPS            OOPS
+  MORN            MORN            MORN            ROOD            ROOD
+  LOKI            DOOR            ROOD            LOKI            MORN
+  ROOD            LOKI            LOKI            MORN            LOKI
+
+Solution 121:   Solution 122:   Solution 123:   Solution 124:   Solution 125:
+  DOOR            DOOR            DOOR            DOOR            DOOR
+  LOOP            LOOP            LOOP            LOOP            LOOP
+  MOOR            MOOR            MOOR            SKIN            SKIN
+  SKIN            SINK            INKS            MOOR            ROOM
+
+Solution 126:   Solution 127:   Solution 128:   Solution 129:   Solution 130:
+  DOOR            DOOR            DOOR            DOOR            DOOR
+  LOOP            LOOP            LOOP            LOOP            LOOP
+  SINK            SINK            ROOM            ROOM            ROOM
+  MOOR            ROOM            SKIN            SINK            INKS
+
+Solution 131:   Solution 132:   Solution 133:   Solution 134:   Solution 135:
+  DOOR            DOOR            DOOR            DOOR            DOOR
+  LOOP            LOOP            LOKI            LOKI            LOKI
+  INKS            INKS            OOPS            OOPS            MORN
+  MOOR            ROOM            MORN            MORN            OOPS
+
+Solution 136:   Solution 137:   Solution 138:   Solution 139:   Solution 140:
+  DOOR            DOOR            DOOR            DOOR            DOOR
+  LOKI            OOPS            OOPS            OOPS            OOPS
+  MORN            LOKI            MORN            LOKI            MORN
+  OOPS            MORN            LOKI            MORN            LOKI
+
+Solution 141:   Solution 142:   Solution 143:   Solution 144:   Solution 145:
+  DOOR            DOOR            DOOR            DOOR            DOOR
+  MOOR            MOOR            MOOR            MOOR            MOOR
+  LOOP            LOOP            LOOP            POOL            POOL
+  SKIN            SINK            INKS            SKIN            SINK
+
+Solution 146:   Solution 147:   Solution 148:   Solution 149:   Solution 150:
+  DOOR            DOOR            DOOR            DOOR            DOOR
+  MOOR            MOOR            MOOR            MOOR            MOOR
+  POOL            SKIN            SKIN            SINK            SINK
+  INKS            LOOP            POOL            LOOP            POOL
+
+Solution 151:   Solution 152:   Solution 153:   Solution 154:   Solution 155:
+  DOOR            DOOR            DOOR            DOOR            DOOR
+  MOOR            MOOR            MORN            MORN            MORN
+  INKS            INKS            LOKI            LOKI            OOPS
+  LOOP            POOL            OOPS            OOPS            LOKI
+
+Solution 156:   Solution 157:   Solution 158:   Solution 159:   Solution 160:
+  DOOR            DOOR            DOOR            DOOR            DOOR
+  MORN            POOL            POOL            POOL            POOL
+  OOPS            MOOR            MOOR            MOOR            SKIN
+  LOKI            SKIN            SINK            INKS            MOOR
+
+Solution 161:   Solution 162:   Solution 163:   Solution 164:   Solution 165:
+  DOOR            DOOR            DOOR            DOOR            DOOR
+  POOL            POOL            POOL            POOL            POOL
+  SKIN            SINK            SINK            ROOM            ROOM
+  ROOM            MOOR            ROOM            SKIN            SINK
+
+Solution 166:   Solution 167:   Solution 168:   Solution 169:   Solution 170:
+  DOOR            DOOR            DOOR            DOOR            DOOR
+  POOL            POOL            POOL            SKIN            SKIN
+  ROOM            INKS            INKS            LOOP            LOOP
+  INKS            MOOR            ROOM            MOOR            ROOM
+
+Solution 171:   Solution 172:   Solution 173:   Solution 174:   Solution 175:
+  DOOR            DOOR            DOOR            DOOR            DOOR
+  SKIN            SKIN            SKIN            SKIN            SKIN
+  MOOR            MOOR            POOL            POOL            ROOM
+  LOOP            POOL            MOOR            ROOM            LOOP
+
+Solution 176:   Solution 177:   Solution 178:   Solution 179:   Solution 180:
+  DOOR            DOOR            DOOR            DOOR            DOOR
+  SKIN            SINK            SINK            SINK            SINK
+  ROOM            LOOP            LOOP            MOOR            MOOR
+  POOL            MOOR            ROOM            LOOP            POOL
+
+Solution 181:   Solution 182:   Solution 183:   Solution 184:   Solution 185:
+  DOOR            DOOR            DOOR            DOOR            DOOR
+  SINK            SINK            SINK            SINK            ROOM
+  POOL            POOL            ROOM            ROOM            LOOP
+  MOOR            ROOM            LOOP            POOL            SKIN
+
+Solution 186:   Solution 187:   Solution 188:   Solution 189:   Solution 190:
+  DOOR            DOOR            DOOR            DOOR            DOOR
+  ROOM            ROOM            ROOM            ROOM            ROOM
+  LOOP            LOOP            POOL            POOL            POOL
+  SINK            INKS            SKIN            SINK            INKS
+
+Solution 191:   Solution 192:   Solution 193:   Solution 194:   Solution 195:
+  DOOR            DOOR            DOOR            DOOR            DOOR
+  ROOM            ROOM            ROOM            ROOM            ROOM
+  SKIN            SKIN            SINK            SINK            INKS
+  LOOP            POOL            LOOP            POOL            LOOP
+
+Solution 196:   Solution 197:   Solution 198:   Solution 199:   Solution 200:
+  DOOR            DOOR            DOOR            DOOR            DOOR
+  ROOM            INKS            INKS            INKS            INKS
+  INKS            LOOP            LOOP            MOOR            MOOR
+  POOL            MOOR            ROOM            LOOP            POOL
+
+Solution 201:   Solution 202:   Solution 203:   Solution 204:   Solution 205:
+  DOOR            DOOR            DOOR            DOOR            MOOR
+  INKS            INKS            INKS            INKS            LOOP
+  POOL            POOL            ROOM            ROOM            DOOR
+  MOOR            ROOM            LOOP            POOL            SKIN
+
+Solution 206:   Solution 207:   Solution 208:   Solution 209:   Solution 210:
+  MOOR            MOOR            MOOR            MOOR            MOOR
+  LOOP            LOOP            LOOP            LOOP            LOOP
+  DOOR            DOOR            SKIN            SKIN            SINK
+  SINK            INKS            DOOR            ROOD            DOOR
+
+Solution 211:   Solution 212:   Solution 213:   Solution 214:   Solution 215:
+  MOOR            MOOR            MOOR            MOOR            MOOR
+  LOOP            LOOP            LOOP            LOOP            LOOP
+  SINK            INKS            INKS            ROOD            ROOD
+  ROOD            DOOR            ROOD            SKIN            SINK
+
+Solution 216:   Solution 217:   Solution 218:   Solution 219:   Solution 220:
+  MOOR            MOOR            MOOR            MOOR            MOOR
+  LOOP            DOOR            DOOR            DOOR            DOOR
+  ROOD            LOOP            LOOP            LOOP            POOL
+  INKS            SKIN            SINK            INKS            SKIN
+
+Solution 221:   Solution 222:   Solution 223:   Solution 224:   Solution 225:
+  MOOR            MOOR            MOOR            MOOR            MOOR
+  DOOR            DOOR            DOOR            DOOR            DOOR
+  POOL            POOL            SKIN            SKIN            SINK
+  SINK            INKS            LOOP            POOL            LOOP
+
+Solution 226:   Solution 227:   Solution 228:   Solution 229:   Solution 230:
+  MOOR            MOOR            MOOR            MOOR            MOOR
+  DOOR            DOOR            DOOR            POOL            POOL
+  SINK            INKS            INKS            DOOR            DOOR
+  POOL            LOOP            POOL            SKIN            SINK
+
+Solution 231:   Solution 232:   Solution 233:   Solution 234:   Solution 235:
+  MOOR            MOOR            MOOR            MOOR            MOOR
+  POOL            POOL            POOL            POOL            POOL
+  DOOR            SKIN            SKIN            SINK            SINK
+  INKS            DOOR            ROOD            DOOR            ROOD
+
+Solution 236:   Solution 237:   Solution 238:   Solution 239:   Solution 240:
+  MOOR            MOOR            MOOR            MOOR            MOOR
+  POOL            POOL            POOL            POOL            POOL
+  INKS            INKS            ROOD            ROOD            ROOD
+  DOOR            ROOD            SKIN            SINK            INKS
+
+Solution 241:   Solution 242:   Solution 243:   Solution 244:   Solution 245:
+  MOOR            MOOR            MOOR            MOOR            MOOR
+  SKIN            SKIN            SKIN            SKIN            SKIN
+  LOOP            LOOP            DOOR            DOOR            POOL
+  DOOR            ROOD            LOOP            POOL            DOOR
+
+Solution 246:   Solution 247:   Solution 248:   Solution 249:   Solution 250:
+  MOOR            MOOR            MOOR            MOOR            MOOR
+  SKIN            SKIN            SKIN            SINK            SINK
+  POOL            ROOD            ROOD            LOOP            LOOP
+  ROOD            LOOP            POOL            DOOR            ROOD
+
+Solution 251:   Solution 252:   Solution 253:   Solution 254:   Solution 255:
+  MOOR            MOOR            MOOR            MOOR            MOOR
+  SINK            SINK            SINK            SINK            SINK
+  DOOR            DOOR            POOL            POOL            ROOD
+  LOOP            POOL            DOOR            ROOD            LOOP
+
+Solution 256:   Solution 257:   Solution 258:   Solution 259:   Solution 260:
+  MOOR            MOOR            MOOR            MOOR            MOOR
+  SINK            INKS            INKS            INKS            INKS
+  ROOD            LOOP            LOOP            DOOR            DOOR
+  POOL            DOOR            ROOD            LOOP            POOL
+
+Solution 261:   Solution 262:   Solution 263:   Solution 264:   Solution 265:
+  MOOR            MOOR            MOOR            MOOR            MOOR
+  INKS            INKS            INKS            INKS            ROOD
+  POOL            POOL            ROOD            ROOD            LOOP
+  DOOR            ROOD            LOOP            POOL            SKIN
+
+Solution 266:   Solution 267:   Solution 268:   Solution 269:   Solution 270:
+  MOOR            MOOR            MOOR            MOOR            MOOR
+  ROOD            ROOD            ROOD            ROOD            ROOD
+  LOOP            LOOP            POOL            POOL            POOL
+  SINK            INKS            SKIN            SINK            INKS
+
+Solution 271:   Solution 272:   Solution 273:   Solution 274:   Solution 275:
+  MOOR            MOOR            MOOR            MOOR            MOOR
+  ROOD            ROOD            ROOD            ROOD            ROOD
+  SKIN            SKIN            SINK            SINK            INKS
+  LOOP            POOL            LOOP            POOL            LOOP
+
+Solution 276:   Solution 277:   Solution 278:   Solution 279:   Solution 280:
+  MOOR            MORN            MORN            MORN            MORN
+  ROOD            LOKI            LOKI            LOKI            LOKI
+  INKS            OOPS            OOPS            OOPS            OOPS
+  POOL            DOOR            ROOD            DOOR            ROOD
+
+Solution 281:   Solution 282:   Solution 283:   Solution 284:   Solution 285:
+  MORN            MORN            MORN            MORN            MORN
+  LOKI            LOKI            LOKI            LOKI            OOPS
+  DOOR            DOOR            ROOD            ROOD            LOKI
+  OOPS            OOPS            OOPS            OOPS            DOOR
+
+Solution 286:   Solution 287:   Solution 288:   Solution 289:   Solution 290:
+  MORN            MORN            MORN            MORN            MORN
+  OOPS            OOPS            OOPS            OOPS            OOPS
+  LOKI            DOOR            ROOD            LOKI            LOKI
+  ROOD            LOKI            LOKI            DOOR            ROOD
+
+Solution 291:   Solution 292:   Solution 293:   Solution 294:   Solution 295:
+  MORN            MORN            MORN            MORN            MORN
+  OOPS            OOPS            DOOR            DOOR            DOOR
+  DOOR            ROOD            LOKI            LOKI            OOPS
+  LOKI            LOKI            OOPS            OOPS            LOKI
+
+Solution 296:   Solution 297:   Solution 298:   Solution 299:   Solution 300:
+  MORN            MORN            MORN            MORN            MORN
+  DOOR            ROOD            ROOD            ROOD            ROOD
+  OOPS            LOKI            LOKI            OOPS            OOPS
+  LOKI            OOPS            OOPS            LOKI            LOKI
+
+Solution 301:   Solution 302:   Solution 303:   Solution 304:   Solution 305:
+  POOL            POOL            POOL            POOL            POOL
+  DOOR            DOOR            DOOR            DOOR            DOOR
+  MOOR            MOOR            MOOR            SKIN            SKIN
+  SKIN            SINK            INKS            MOOR            ROOM
+
+Solution 306:   Solution 307:   Solution 308:   Solution 309:   Solution 310:
+  POOL            POOL            POOL            POOL            POOL
+  DOOR            DOOR            DOOR            DOOR            DOOR
+  SINK            SINK            ROOM            ROOM            ROOM
+  MOOR            ROOM            SKIN            SINK            INKS
+
+Solution 311:   Solution 312:   Solution 313:   Solution 314:   Solution 315:
+  POOL            POOL            POOL            POOL            POOL
+  DOOR            DOOR            MOOR            MOOR            MOOR
+  INKS            INKS            DOOR            DOOR            DOOR
+  MOOR            ROOM            SKIN            SINK            INKS
+
+Solution 316:   Solution 317:   Solution 318:   Solution 319:   Solution 320:
+  POOL            POOL            POOL            POOL            POOL
+  MOOR            MOOR            MOOR            MOOR            MOOR
+  SKIN            SKIN            SINK            SINK            INKS
+  DOOR            ROOD            DOOR            ROOD            DOOR
+
+Solution 321:   Solution 322:   Solution 323:   Solution 324:   Solution 325:
+  POOL            POOL            POOL            POOL            POOL
+  MOOR            MOOR            MOOR            MOOR            SKIN
+  INKS            ROOD            ROOD            ROOD            DOOR
+  ROOD            SKIN            SINK            INKS            MOOR
+
+Solution 326:   Solution 327:   Solution 328:   Solution 329:   Solution 330:
+  POOL            POOL            POOL            POOL            POOL
+  SKIN            SKIN            SKIN            SKIN            SKIN
+  DOOR            MOOR            MOOR            ROOM            ROOM
+  ROOM            DOOR            ROOD            DOOR            ROOD
+
+Solution 331:   Solution 332:   Solution 333:   Solution 334:   Solution 335:
+  POOL            POOL            POOL            POOL            POOL
+  SKIN            SKIN            SINK            SINK            SINK
+  ROOD            ROOD            DOOR            DOOR            MOOR
+  MOOR            ROOM            MOOR            ROOM            DOOR
+
+Solution 336:   Solution 337:   Solution 338:   Solution 339:   Solution 340:
+  POOL            POOL            POOL            POOL            POOL
+  SINK            SINK            SINK            SINK            SINK
+  MOOR            ROOM            ROOM            ROOD            ROOD
+  ROOD            DOOR            ROOD            MOOR            ROOM
+
+Solution 341:   Solution 342:   Solution 343:   Solution 344:   Solution 345:
+  POOL            POOL            POOL            POOL            POOL
+  ROOM            ROOM            ROOM            ROOM            ROOM
+  DOOR            DOOR            DOOR            SKIN            SKIN
+  SKIN            SINK            INKS            DOOR            ROOD
+
+Solution 346:   Solution 347:   Solution 348:   Solution 349:   Solution 350:
+  POOL            POOL            POOL            POOL            POOL
+  ROOM            ROOM            ROOM            ROOM            ROOM
+  SINK            SINK            INKS            INKS            ROOD
+  DOOR            ROOD            DOOR            ROOD            SKIN
+
+Solution 351:   Solution 352:   Solution 353:   Solution 354:   Solution 355:
+  POOL            POOL            POOL            POOL            POOL
+  ROOM            ROOM            INKS            INKS            INKS
+  ROOD            ROOD            DOOR            DOOR            MOOR
+  SINK            INKS            MOOR            ROOM            DOOR
+
+Solution 356:   Solution 357:   Solution 358:   Solution 359:   Solution 360:
+  POOL            POOL            POOL            POOL            POOL
+  INKS            INKS            INKS            INKS            INKS
+  MOOR            ROOM            ROOM            ROOD            ROOD
+  ROOD            DOOR            ROOD            MOOR            ROOM
+
+Solution 361:   Solution 362:   Solution 363:   Solution 364:   Solution 365:
+  POOL            POOL            POOL            POOL            POOL
+  ROOD            ROOD            ROOD            ROOD            ROOD
+  MOOR            MOOR            MOOR            SKIN            SKIN
+  SKIN            SINK            INKS            MOOR            ROOM
+
+Solution 366:   Solution 367:   Solution 368:   Solution 369:   Solution 370:
+  POOL            POOL            POOL            POOL            POOL
+  ROOD            ROOD            ROOD            ROOD            ROOD
+  SINK            SINK            ROOM            ROOM            ROOM
+  MOOR            ROOM            SKIN            SINK            INKS
+
+Solution 371:   Solution 372:   Solution 373:   Solution 374:   Solution 375:
+  POOL            POOL            SKIN            SKIN            SKIN
+  ROOD            ROOD            LOOP            LOOP            LOOP
+  INKS            INKS            DOOR            DOOR            MOOR
+  MOOR            ROOM            MOOR            ROOM            DOOR
+
+Solution 376:   Solution 377:   Solution 378:   Solution 379:   Solution 380:
+  SKIN            SKIN            SKIN            SKIN            SKIN
+  LOOP            LOOP            LOOP            LOOP            LOOP
+  MOOR            ROOM            ROOM            ROOD            ROOD
+  ROOD            DOOR            ROOD            MOOR            ROOM
+
+Solution 381:   Solution 382:   Solution 383:   Solution 384:   Solution 385:
+  SKIN            SKIN            SKIN            SKIN            SKIN
+  DOOR            DOOR            DOOR            DOOR            DOOR
+  LOOP            LOOP            MOOR            MOOR            POOL
+  MOOR            ROOM            LOOP            POOL            MOOR
+
+Solution 386:   Solution 387:   Solution 388:   Solution 389:   Solution 390:
+  SKIN            SKIN            SKIN            SKIN            SKIN
+  DOOR            DOOR            DOOR            MOOR            MOOR
+  POOL            ROOM            ROOM            LOOP            LOOP
+  ROOM            LOOP            POOL            DOOR            ROOD
+
+Solution 391:   Solution 392:   Solution 393:   Solution 394:   Solution 395:
+  SKIN            SKIN            SKIN            SKIN            SKIN
+  MOOR            MOOR            MOOR            MOOR            MOOR
+  DOOR            DOOR            POOL            POOL            ROOD
+  LOOP            POOL            DOOR            ROOD            LOOP
+
+Solution 396:   Solution 397:   Solution 398:   Solution 399:   Solution 400:
+  SKIN            SKIN            SKIN            SKIN            SKIN
+  MOOR            POOL            POOL            POOL            POOL
+  ROOD            DOOR            DOOR            MOOR            MOOR
+  POOL            MOOR            ROOM            DOOR            ROOD
+
+Solution 401:   Solution 402:   Solution 403:   Solution 404:   Solution 405:
+  SKIN            SKIN            SKIN            SKIN            SKIN
+  POOL            POOL            POOL            POOL            ROOM
+  ROOM            ROOM            ROOD            ROOD            LOOP
+  DOOR            ROOD            MOOR            ROOM            DOOR
+
+Solution 406:   Solution 407:   Solution 408:   Solution 409:   Solution 410:
+  SKIN            SKIN            SKIN            SKIN            SKIN
+  ROOM            ROOM            ROOM            ROOM            ROOM
+  LOOP            DOOR            DOOR            POOL            POOL
+  ROOD            LOOP            POOL            DOOR            ROOD
+
+Solution 411:   Solution 412:   Solution 413:   Solution 414:   Solution 415:
+  SKIN            SKIN            SKIN            SKIN            SKIN
+  ROOM            ROOM            ROOD            ROOD            ROOD
+  ROOD            ROOD            LOOP            LOOP            MOOR
+  LOOP            POOL            MOOR            ROOM            LOOP
+
+Solution 416:   Solution 417:   Solution 418:   Solution 419:   Solution 420:
+  SKIN            SKIN            SKIN            SKIN            SKIN
+  ROOD            ROOD            ROOD            ROOD            ROOD
+  MOOR            POOL            POOL            ROOM            ROOM
+  POOL            MOOR            ROOM            LOOP            POOL
+
+Solution 421:   Solution 422:   Solution 423:   Solution 424:   Solution 425:
+  SINK            SINK            SINK            SINK            SINK
+  LOOP            LOOP            LOOP            LOOP            LOOP
+  DOOR            DOOR            MOOR            MOOR            ROOM
+  MOOR            ROOM            DOOR            ROOD            DOOR
+
+Solution 426:   Solution 427:   Solution 428:   Solution 429:   Solution 430:
+  SINK            SINK            SINK            SINK            SINK
+  LOOP            LOOP            LOOP            DOOR            DOOR
+  ROOM            ROOD            ROOD            LOOP            LOOP
+  ROOD            MOOR            ROOM            MOOR            ROOM
+
+Solution 431:   Solution 432:   Solution 433:   Solution 434:   Solution 435:
+  SINK            SINK            SINK            SINK            SINK
+  DOOR            DOOR            DOOR            DOOR            DOOR
+  MOOR            MOOR            POOL            POOL            ROOM
+  LOOP            POOL            MOOR            ROOM            LOOP
+
+Solution 436:   Solution 437:   Solution 438:   Solution 439:   Solution 440:
+  SINK            SINK            SINK            SINK            SINK
+  DOOR            MOOR            MOOR            MOOR            MOOR
+  ROOM            LOOP            LOOP            DOOR            DOOR
+  POOL            DOOR            ROOD            LOOP            POOL
+
+Solution 441:   Solution 442:   Solution 443:   Solution 444:   Solution 445:
+  SINK            SINK            SINK            SINK            SINK
+  MOOR            MOOR            MOOR            MOOR            POOL
+  POOL            POOL            ROOD            ROOD            DOOR
+  DOOR            ROOD            LOOP            POOL            MOOR
+
+Solution 446:   Solution 447:   Solution 448:   Solution 449:   Solution 450:
+  SINK            SINK            SINK            SINK            SINK
+  POOL            POOL            POOL            POOL            POOL
+  DOOR            MOOR            MOOR            ROOM            ROOM
+  ROOM            DOOR            ROOD            DOOR            ROOD
+
+Solution 451:   Solution 452:   Solution 453:   Solution 454:   Solution 455:
+  SINK            SINK            SINK            SINK            SINK
+  POOL            POOL            ROOM            ROOM            ROOM
+  ROOD            ROOD            LOOP            LOOP            DOOR
+  MOOR            ROOM            DOOR            ROOD            LOOP
+
+Solution 456:   Solution 457:   Solution 458:   Solution 459:   Solution 460:
+  SINK            SINK            SINK            SINK            SINK
+  ROOM            ROOM            ROOM            ROOM            ROOM
+  DOOR            POOL            POOL            ROOD            ROOD
+  POOL            DOOR            ROOD            LOOP            POOL
+
+Solution 461:   Solution 462:   Solution 463:   Solution 464:   Solution 465:
+  SINK            SINK            SINK            SINK            SINK
+  ROOD            ROOD            ROOD            ROOD            ROOD
+  LOOP            LOOP            MOOR            MOOR            POOL
+  MOOR            ROOM            LOOP            POOL            MOOR
+
+Solution 466:   Solution 467:   Solution 468:   Solution 469:   Solution 470:
+  SINK            SINK            SINK            ROOM            ROOM
+  ROOD            ROOD            ROOD            LOOP            LOOP
+  POOL            ROOM            ROOM            DOOR            DOOR
+  ROOM            LOOP            POOL            SKIN            SINK
+
+Solution 471:   Solution 472:   Solution 473:   Solution 474:   Solution 475:
+  ROOM            ROOM            ROOM            ROOM            ROOM
+  LOOP            LOOP            LOOP            LOOP            LOOP
+  DOOR            SKIN            SKIN            SINK            SINK
+  INKS            DOOR            ROOD            DOOR            ROOD
+
+Solution 476:   Solution 477:   Solution 478:   Solution 479:   Solution 480:
+  ROOM            ROOM            ROOM            ROOM            ROOM
+  LOOP            LOOP            LOOP            LOOP            LOOP
+  INKS            INKS            ROOD            ROOD            ROOD
+  DOOR            ROOD            SKIN            SINK            INKS
+
+Solution 481:   Solution 482:   Solution 483:   Solution 484:   Solution 485:
+  ROOM            ROOM            ROOM            ROOM            ROOM
+  DOOR            DOOR            DOOR            DOOR            DOOR
+  LOOP            LOOP            LOOP            POOL            POOL
+  SKIN            SINK            INKS            SKIN            SINK
+
+Solution 486:   Solution 487:   Solution 488:   Solution 489:   Solution 490:
+  ROOM            ROOM            ROOM            ROOM            ROOM
+  DOOR            DOOR            DOOR            DOOR            DOOR
+  POOL            SKIN            SKIN            SINK            SINK
+  INKS            LOOP            POOL            LOOP            POOL
+
+Solution 491:   Solution 492:   Solution 493:   Solution 494:   Solution 495:
+  ROOM            ROOM            ROOM            ROOM            ROOM
+  DOOR            DOOR            POOL            POOL            POOL
+  INKS            INKS            DOOR            DOOR            DOOR
+  LOOP            POOL            SKIN            SINK            INKS
+
+Solution 496:   Solution 497:   Solution 498:   Solution 499:   Solution 500:
+  ROOM            ROOM            ROOM            ROOM            ROOM
+  POOL            POOL            POOL            POOL            POOL
+  SKIN            SKIN            SINK            SINK            INKS
+  DOOR            ROOD            DOOR            ROOD            DOOR
+
+Solution 501:   Solution 502:   Solution 503:   Solution 504:   Solution 505:
+  ROOM            ROOM            ROOM            ROOM            ROOM
+  POOL            POOL            POOL            POOL            SKIN
+  INKS            ROOD            ROOD            ROOD            LOOP
+  ROOD            SKIN            SINK            INKS            DOOR
+
+Solution 506:   Solution 507:   Solution 508:   Solution 509:   Solution 510:
+  ROOM            ROOM            ROOM            ROOM            ROOM
+  SKIN            SKIN            SKIN            SKIN            SKIN
+  LOOP            DOOR            DOOR            POOL            POOL
+  ROOD            LOOP            POOL            DOOR            ROOD
+
+Solution 511:   Solution 512:   Solution 513:   Solution 514:   Solution 515:
+  ROOM            ROOM            ROOM            ROOM            ROOM
+  SKIN            SKIN            SINK            SINK            SINK
+  ROOD            ROOD            LOOP            LOOP            DOOR
+  LOOP            POOL            DOOR            ROOD            LOOP
+
+Solution 516:   Solution 517:   Solution 518:   Solution 519:   Solution 520:
+  ROOM            ROOM            ROOM            ROOM            ROOM
+  SINK            SINK            SINK            SINK            SINK
+  DOOR            POOL            POOL            ROOD            ROOD
+  POOL            DOOR            ROOD            LOOP            POOL
+
+Solution 521:   Solution 522:   Solution 523:   Solution 524:   Solution 525:
+  ROOM            ROOM            ROOM            ROOM            ROOM
+  INKS            INKS            INKS            INKS            INKS
+  LOOP            LOOP            DOOR            DOOR            POOL
+  DOOR            ROOD            LOOP            POOL            DOOR
+
+Solution 526:   Solution 527:   Solution 528:   Solution 529:   Solution 530:
+  ROOM            ROOM            ROOM            ROOM            ROOM
+  INKS            INKS            INKS            ROOD            ROOD
+  POOL            ROOD            ROOD            LOOP            LOOP
+  ROOD            LOOP            POOL            SKIN            SINK
+
+Solution 531:   Solution 532:   Solution 533:   Solution 534:   Solution 535:
+  ROOM            ROOM            ROOM            ROOM            ROOM
+  ROOD            ROOD            ROOD            ROOD            ROOD
+  LOOP            POOL            POOL            POOL            SKIN
+  INKS            SKIN            SINK            INKS            LOOP
+
+Solution 536:   Solution 537:   Solution 538:   Solution 539:   Solution 540:
+  ROOM            ROOM            ROOM            ROOM            ROOM
+  ROOD            ROOD            ROOD            ROOD            ROOD
+  SKIN            SINK            SINK            INKS            INKS
+  POOL            LOOP            POOL            LOOP            POOL
+
+Solution 541:   Solution 542:   Solution 543:   Solution 544:   Solution 545:
+  INKS            INKS            INKS            INKS            INKS
+  LOOP            LOOP            LOOP            LOOP            LOOP
+  DOOR            DOOR            MOOR            MOOR            ROOM
+  MOOR            ROOM            DOOR            ROOD            DOOR
+
+Solution 546:   Solution 547:   Solution 548:   Solution 549:   Solution 550:
+  INKS            INKS            INKS            INKS            INKS
+  LOOP            LOOP            LOOP            DOOR            DOOR
+  ROOM            ROOD            ROOD            LOOP            LOOP
+  ROOD            MOOR            ROOM            MOOR            ROOM
+
+Solution 551:   Solution 552:   Solution 553:   Solution 554:   Solution 555:
+  INKS            INKS            INKS            INKS            INKS
+  DOOR            DOOR            DOOR            DOOR            DOOR
+  MOOR            MOOR            POOL            POOL            ROOM
+  LOOP            POOL            MOOR            ROOM            LOOP
+
+Solution 556:   Solution 557:   Solution 558:   Solution 559:   Solution 560:
+  INKS            INKS            INKS            INKS            INKS
+  DOOR            MOOR            MOOR            MOOR            MOOR
+  ROOM            LOOP            LOOP            DOOR            DOOR
+  POOL            DOOR            ROOD            LOOP            POOL
+
+Solution 561:   Solution 562:   Solution 563:   Solution 564:   Solution 565:
+  INKS            INKS            INKS            INKS            INKS
+  MOOR            MOOR            MOOR            MOOR            POOL
+  POOL            POOL            ROOD            ROOD            DOOR
+  DOOR            ROOD            LOOP            POOL            MOOR
+
+Solution 566:   Solution 567:   Solution 568:   Solution 569:   Solution 570:
+  INKS            INKS            INKS            INKS            INKS
+  POOL            POOL            POOL            POOL            POOL
+  DOOR            MOOR            MOOR            ROOM            ROOM
+  ROOM            DOOR            ROOD            DOOR            ROOD
+
+Solution 571:   Solution 572:   Solution 573:   Solution 574:   Solution 575:
+  INKS            INKS            INKS            INKS            INKS
+  POOL            POOL            ROOM            ROOM            ROOM
+  ROOD            ROOD            LOOP            LOOP            DOOR
+  MOOR            ROOM            DOOR            ROOD            LOOP
+
+Solution 576:   Solution 577:   Solution 578:   Solution 579:   Solution 580:
+  INKS            INKS            INKS            INKS            INKS
+  ROOM            ROOM            ROOM            ROOM            ROOM
+  DOOR            POOL            POOL            ROOD            ROOD
+  POOL            DOOR            ROOD            LOOP            POOL
+
+Solution 581:   Solution 582:   Solution 583:   Solution 584:   Solution 585:
+  INKS            INKS            INKS            INKS            INKS
+  ROOD            ROOD            ROOD            ROOD            ROOD
+  LOOP            LOOP            MOOR            MOOR            POOL
+  MOOR            ROOM            LOOP            POOL            MOOR
+
+Solution 586:   Solution 587:   Solution 588:   Solution 589:   Solution 590:
+  INKS            INKS            INKS            ROOD            ROOD
+  ROOD            ROOD            ROOD            LOOP            LOOP
+  POOL            ROOM            ROOM            MOOR            MOOR
+  ROOM            LOOP            POOL            SKIN            SINK
+
+Solution 591:   Solution 592:   Solution 593:   Solution 594:   Solution 595:
+  ROOD            ROOD            ROOD            ROOD            ROOD
+  LOOP            LOOP            LOOP            LOOP            LOOP
+  MOOR            SKIN            SKIN            SINK            SINK
+  INKS            MOOR            ROOM            MOOR            ROOM
+
+Solution 596:   Solution 597:   Solution 598:   Solution 599:   Solution 600:
+  ROOD            ROOD            ROOD            ROOD            ROOD
+  LOOP            LOOP            LOOP            LOOP            LOOP
+  ROOM            ROOM            ROOM            INKS            INKS
+  SKIN            SINK            INKS            MOOR            ROOM
+
+Solution 601:   Solution 602:   Solution 603:   Solution 604:   Solution 605:
+  ROOD            ROOD            ROOD            ROOD            ROOD
+  LOKI            LOKI            LOKI            LOKI            OOPS
+  OOPS            OOPS            MORN            MORN            LOKI
+  MORN            MORN            OOPS            OOPS            MORN
+
+Solution 606:   Solution 607:   Solution 608:   Solution 609:   Solution 610:
+  ROOD            ROOD            ROOD            ROOD            ROOD
+  OOPS            OOPS            OOPS            MOOR            MOOR
+  MORN            LOKI            MORN            LOOP            LOOP
+  LOKI            MORN            LOKI            SKIN            SINK
+
+Solution 611:   Solution 612:   Solution 613:   Solution 614:   Solution 615:
+  ROOD            ROOD            ROOD            ROOD            ROOD
+  MOOR            MOOR            MOOR            MOOR            MOOR
+  LOOP            POOL            POOL            POOL            SKIN
+  INKS            SKIN            SINK            INKS            LOOP
+
+Solution 616:   Solution 617:   Solution 618:   Solution 619:   Solution 620:
+  ROOD            ROOD            ROOD            ROOD            ROOD
+  MOOR            MOOR            MOOR            MOOR            MOOR
+  SKIN            SINK            SINK            INKS            INKS
+  POOL            LOOP            POOL            LOOP            POOL
+
+Solution 621:   Solution 622:   Solution 623:   Solution 624:   Solution 625:
+  ROOD            ROOD            ROOD            ROOD            ROOD
+  MORN            MORN            MORN            MORN            POOL
+  LOKI            LOKI            OOPS            OOPS            MOOR
+  OOPS            OOPS            LOKI            LOKI            SKIN
+
+Solution 626:   Solution 627:   Solution 628:   Solution 629:   Solution 630:
+  ROOD            ROOD            ROOD            ROOD            ROOD
+  POOL            POOL            POOL            POOL            POOL
+  MOOR            MOOR            SKIN            SKIN            SINK
+  SINK            INKS            MOOR            ROOM            MOOR
+
+Solution 631:   Solution 632:   Solution 633:   Solution 634:   Solution 635:
+  ROOD            ROOD            ROOD            ROOD            ROOD
+  POOL            POOL            POOL            POOL            POOL
+  SINK            ROOM            ROOM            ROOM            INKS
+  ROOM            SKIN            SINK            INKS            MOOR
+
+Solution 636:   Solution 637:   Solution 638:   Solution 639:   Solution 640:
+  ROOD            ROOD            ROOD            ROOD            ROOD
+  POOL            SKIN            SKIN            SKIN            SKIN
+  INKS            LOOP            LOOP            MOOR            MOOR
+  ROOM            MOOR            ROOM            LOOP            POOL
+
+Solution 641:   Solution 642:   Solution 643:   Solution 644:   Solution 645:
+  ROOD            ROOD            ROOD            ROOD            ROOD
+  SKIN            SKIN            SKIN            SKIN            SINK
+  POOL            POOL            ROOM            ROOM            LOOP
+  MOOR            ROOM            LOOP            POOL            MOOR
+
+Solution 646:   Solution 647:   Solution 648:   Solution 649:   Solution 650:
+  ROOD            ROOD            ROOD            ROOD            ROOD
+  SINK            SINK            SINK            SINK            SINK
+  LOOP            MOOR            MOOR            POOL            POOL
+  ROOM            LOOP            POOL            MOOR            ROOM
+
+Solution 651:   Solution 652:   Solution 653:   Solution 654:   Solution 655:
+  ROOD            ROOD            ROOD            ROOD            ROOD
+  SINK            SINK            ROOM            ROOM            ROOM
+  ROOM            ROOM            LOOP            LOOP            LOOP
+  LOOP            POOL            SKIN            SINK            INKS
+
+Solution 656:   Solution 657:   Solution 658:   Solution 659:   Solution 660:
+  ROOD            ROOD            ROOD            ROOD            ROOD
+  ROOM            ROOM            ROOM            ROOM            ROOM
+  POOL            POOL            POOL            SKIN            SKIN
+  SKIN            SINK            INKS            LOOP            POOL
+
+Solution 661:   Solution 662:   Solution 663:   Solution 664:   Solution 665:
+  ROOD            ROOD            ROOD            ROOD            ROOD
+  ROOM            ROOM            ROOM            ROOM            INKS
+  SINK            SINK            INKS            INKS            LOOP
+  LOOP            POOL            LOOP            POOL            MOOR
+
+Solution 666:   Solution 667:   Solution 668:   Solution 669:   Solution 670:
+  ROOD            ROOD            ROOD            ROOD            ROOD
+  INKS            INKS            INKS            INKS            INKS
+  LOOP            MOOR            MOOR            POOL            POOL
+  ROOM            LOOP            POOL            MOOR            ROOM
+
+Solution 671:   Solution 672:
+  ROOD            ROOD
+  INKS            INKS
+  ROOM            ROOM
+  LOOP            POOL
+
+
+============================================================
+RELAXED MODE — Unvalidated candidate tilings
+These strings tile the grid correctly but are NOT confirmed
+as dictionary words or known brands. Review manually.
+
+============================================================
+Found 500 candidate tiling(s):
+
+Candidate 1:    Candidate 2:    Candidate 3:    Candidate 4:    Candidate 5:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  MOPS            MOPS            MOKO            MOKO            MOKO
+  NORK            IROO            OOPS            POOR            OPSR
+  IROO            NORK            RINR            ISNR            OINR
+
+Candidate 6:    Candidate 7:    Candidate 8:    Candidate 9:    Candidate 10:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  MOKO            MOKO            MOKO            MOKO            MOKO
+  IOOP            PSNR            IROP            OSNR            IROO
+  RNSR            IROO            OSNR            IROP            PSNR
+
+Candidate 11:   Candidate 12:   Candidate 13:   Candidate 14:   Candidate 15:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  MOKO            MOKO            MOKO            MOKO            MOOR
+  ISNR            OINR            RNSR            RINR            OOPS
+  POOR            OPSR            IOOP            OOPS            RINK
+
+Candidate 16:   Candidate 17:   Candidate 18:   Candidate 19:   Candidate 20:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  MOOR            MOOR            MOOR            MOOR            MOOR
+  POOR            INKS            OINK            RINK            SOIR
+  INKS            POOR            OPSR            OOPS            NKPO
+
+Candidate 21:   Candidate 22:   Candidate 23:   Candidate 24:   Candidate 25:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  MOOR            MOOR            MOOR            MOOR            MOOR
+  RINS            ROIN            KPOS            NSOP            OPSR
+  KPOO            KPOS            ROIN            KIOR            OINK
+
+Candidate 26:   Candidate 27:   Candidate 28:   Candidate 29:   Candidate 30:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  MOOR            MOOR            MOOR            MOOR            MOOR
+  IOOP            KNSP            KPSR            INKP            PKIR
+  KNSR            IROO            NIOO            OORS            NSOO
+
+Candidate 31:   Candidate 32:   Candidate 33:   Candidate 34:   Candidate 35:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  MOOR            MOOR            MOOR            MOOR            MOOR
+  IROP            NKPO            IKPO            KNSO            OORS
+  KNSO            SOIR            NSOR            IROP            INKP
+
+Candidate 36:   Candidate 37:   Candidate 38:   Candidate 39:   Candidate 40:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  MOOR            MOOR            MOOR            MOOR            MOOR
+  INSO            IRSO            KPOO            NSOO            NIOO
+  KPOR            NKPO            RINS            PKIR            KPSR
+
+Candidate 41:   Candidate 42:   Candidate 43:   Candidate 44:   Candidate 45:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  MOOR            MOOR            MOOR            MOOR            MOOR
+  IROO            KPOR            KNSR            KIOR            NKPO
+  KNSP            INSO            IOOP            NSOP            IRSO
+
+Candidate 46:   Candidate 47:   Candidate 48:   Candidate 49:   Candidate 50:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  MOOR            MOON            MOON            MOON            MOON
+  NSOR            OOPS            POOR            SOIR            OPSR
+  IKPO            RIKR            ISKR            OPKR            OIKR
+
+Candidate 51:   Candidate 52:   Candidate 53:   Candidate 54:   Candidate 55:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  MOON            MOON            MOON            MOON            MOON
+  IOOP            PSKR            IROP            OPKR            OSKR
+  RKSR            IROO            OSKR            SOIR            IROP
+
+Candidate 56:   Candidate 57:   Candidate 58:   Candidate 59:   Candidate 60:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  MOON            MOON            MOON            MOON            MOON
+  IRSO            IROO            ISKR            OPKR            OIKR
+  OPKR            PSKR            POOR            IRSO            OPSR
+
+Candidate 61:   Candidate 62:   Candidate 63:   Candidate 64:   Candidate 65:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  MOON            MOON            MOSK            MOSK            MOKI
+  RKSR            RIKR            POOR            INRO            POOR
+  IOOP            OOPS            INRO            POOR            ORNS
+
+Candidate 66:   Candidate 67:   Candidate 68:   Candidate 69:   Candidate 70:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  MOKI            MOOP            MOOP            MOOP            MOOP
+  ORNS            ROIN            OSKR            OORS            OSNR
+  POOR            OSKR            ROIN            IKNR            KIOR
+
+Candidate 71:   Candidate 72:   Candidate 73:   Candidate 74:   Candidate 75:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  MOOP            MOOP            MOOP            MOOP            MOOP
+  KSOO            NSOO            KIOO            NIOO            IROO
+  RINR            RIKR            RNSR            RKSR            KRNS
+
+Candidate 76:   Candidate 77:   Candidate 78:   Candidate 79:   Candidate 80:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  MOOP            MOOP            MOOP            MOOP            MOOP
+  KRNS            IKNR            KIOR            RKSR            RIKR
+  IROO            OORS            OSNR            NIOO            NSOO
+
+Candidate 81:   Candidate 82:   Candidate 83:   Candidate 84:   Candidate 85:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  MOOP            MOOP            MOOS            MOOS            MOOS
+  RNSR            RINR            POOR            ROIN            NRKP
+  KIOO            KSOO            IKNR            OPKR            IROO
+
+Candidate 86:   Candidate 87:   Candidate 88:   Candidate 89:   Candidate 90:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  MOOS            MOOS            MOOS            MOOS            MOOS
+  OPKR            KPOO            IROO            IKNR            RINR
+  ROIN            RINR            NRKP            POOR            KPOO
+
+Candidate 91:   Candidate 92:   Candidate 93:   Candidate 94:   Candidate 95:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  MOKI            MOKI            MOKI            MOKI            MOKI
+  POOR            OOPO            OPOR            OSNR            OSNR
+  OSNR            RNSR            OSNR            POOR            OPOR
+
+Candidate 96:   Candidate 97:   Candidate 98:   Candidate 99:   Candidate 100:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  MOKI            MORN            MORN            MORN            MORN
+  RNSR            KOPS            KOSO            OOPS            POOR
+  OOPO            IROO            IROP            OKIR            IKOS
+
+Candidate 101:  Candidate 102:  Candidate 103:  Candidate 104:  Candidate 105:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  MORN            MORN            MORN            MORN            MORN
+  RISK            SOIR            OPOS            OOPO            IKOP
+  OOPO            KOPO            KIOR            RISK            OORS
+
+Candidate 106:  Candidate 107:  Candidate 108:  Candidate 109:  Candidate 110:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  MORN            MORN            MORN            MORN            MORN
+  OPSR            OPOR            KOPO            KOPO            IKOS
+  KIOO            IKSO            SOIR            IRSO            POOR
+
+Candidate 111:  Candidate 112:  Candidate 113:  Candidate 114:  Candidate 115:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  MORN            MORN            MORN            MORN            MORN
+  KOSR            OIKO            OKIR            OOSO            ORSO
+  IOOP            OPSR            OOPS            PKIR            IKPO
+
+Candidate 116:  Candidate 117:  Candidate 118:  Candidate 119:  Candidate 120:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  MORN            MORN            MORN            MORN            MORN
+  IRSO            OPSR            IOOP            PKIR            IROP
+  KPOO            OIKO            KOSR            OOSO            KOSO
+
+Candidate 121:  Candidate 122:  Candidate 123:  Candidate 124:  Candidate 125:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  MORN            MORN            MORN            MORN            MORN
+  IKPO            IKSO            OORS            IRSO            KPOO
+  ORSO            OPOR            IKOP            KOPO            IRSO
+
+Candidate 126:  Candidate 127:  Candidate 128:  Candidate 129:  Candidate 130:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  MORN            MORN            MORN            MONS            MONS
+  KIOO            IROO            KIOR            OOPO            OPKR
+  OPSR            KOPS            OPOS            RIKR            IROO
+
+Candidate 131:  Candidate 132:  Candidate 133:  Candidate 134:  Candidate 135:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  MONS            MONS            KOPS            KOPS            KOSO
+  IROO            RIKR            MORN            IROO            MORN
+  OPKR            OOPO            IROO            MORN            IROP
+
+Candidate 136:  Candidate 137:  Candidate 138:  Candidate 139:  Candidate 140:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  KOSO            POOR            POOR            POOR            POOR
+  IROP            ROIN            MKSO            MKNS            MKSR
+  MORN            MKSO            ROIN            IROO            NIOO
+
+Candidate 141:  Candidate 142:  Candidate 143:  Candidate 144:  Candidate 145:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  POOR            POOR            POOR            POOR            POOR
+  INKM            MKIR            OORS            NSOO            NIOO
+  OORS            NSOO            INKM            MKIR            MKSR
+
+Candidate 146:  Candidate 147:  Candidate 148:  Candidate 149:  Candidate 150:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  POOR            OOPS            OOPS            OOPS            OOPS
+  IROO            MOKO            MOOR            MOON            MORN
+  MKNS            RINR            RINK            RIKR            OKIR
+
+Candidate 151:  Candidate 152:  Candidate 153:  Candidate 154:  Candidate 155:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  OOPS            OOPS            OOPS            OOPS            OOPS
+  RINK            MOKR            MKIR            NROO            OKIR
+  MOOR            ONIR            NROO            MKIR            MORN
+
+Candidate 156:  Candidate 157:  Candidate 158:  Candidate 159:  Candidate 160:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  OOPS            OOPS            OOPS            POOR            POOR
+  ONIR            RIKR            RINR            MOKO            MOOR
+  MOKR            MOON            MOKO            ISNR            INKS
+
+Candidate 161:  Candidate 162:  Candidate 163:  Candidate 164:  Candidate 165:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  POOR            POOR            POOR            POOR            POOR
+  MOON            MOSK            MOKI            MOOS            MOKI
+  ISKR            INRO            ORNS            IKNR            OSNR
+
+Candidate 166:  Candidate 167:  Candidate 168:  Candidate 169:  Candidate 170:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  POOR            POOR            POOR            POOR            POOR
+  MORN            NORK            INRO            INKS            MOKR
+  IKOS            ISOM            MOSK            MOOR            ISNO
+
+Candidate 171:  Candidate 172:  Candidate 173:  Candidate 174:  Candidate 175:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  POOR            POOR            POOR            POOR            POOR
+  MOSN            ISOM            KMOR            INOM            ISKM
+  IKOR            NORK            INSO            OSKR            NROO
+
+Candidate 176:  Candidate 177:  Candidate 178:  Candidate 179:  Candidate 180:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  POOR            POOR            POOR            POOR            POOR
+  MKNR            INKM            NROO            IKOS            OSKR
+  ISOO            ROOS            ISKM            MORN            INOM
+
+Candidate 181:  Candidate 182:  Candidate 183:  Candidate 184:  Candidate 185:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  POOR            POOR            POOR            POOR            POOR
+  OSNR            INSO            ISOO            IKOR            ORNS
+  MOKI            KMOR            MKNR            MOSN            MOKI
+
+Candidate 186:  Candidate 187:  Candidate 188:  Candidate 189:  Candidate 190:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  POOR            POOR            POOR            POOR            POOR
+  ISNO            IKNR            ROOS            ISKR            ISNR
+  MOKR            MOOS            INKM            MOON            MOKO
+
+Candidate 191:  Candidate 192:  Candidate 193:  Candidate 194:  Candidate 195:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  OOPS            OOPS            NORK            NORK            NORK
+  MKNR            IROO            MOPS            POOR            SOIR
+  IROO            MKNR            IROO            ISOM            MOPO
+
+Candidate 196:  Candidate 197:  Candidate 198:  Candidate 199:  Candidate 200:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  NORK            NORK            NORK            NORK            NORK
+  MOPO            MOPO            MOSO            ISOM            MOSR
+  SOIR            IRSO            IROP            POOR            IOOP
+
+Candidate 201:  Candidate 202:  Candidate 203:  Candidate 204:  Candidate 205:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  NORK            NORK            NORK            NORK            INRO
+  IOOP            IROP            IRSO            IROO            MOSK
+  MOSR            MOSO            MOPO            MOPS            POOR
+
+Candidate 206:  Candidate 207:  Candidate 208:  Candidate 209:  Candidate 210:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  INRO            INRO            INRO            INRO            INRO
+  POOR            MOPO            KMOP            MOSO            MOSR
+  MOSK            KSOR            OORS            KPOR            KPOO
+
+Candidate 211:  Candidate 212:  Candidate 213:  Candidate 214:  Candidate 215:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  INRO            INRO            INRO            INRO            INRO
+  MKPO            MKSO            MKSR            OOPO            OPOR
+  ORSO            OPOR            OOPO            MKSR            MKSO
+
+Candidate 216:  Candidate 217:  Candidate 218:  Candidate 219:  Candidate 220:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  INRO            INRO            INRO            INRO            INRO
+  ORSO            OORS            KPOO            KPOR            KSOR
+  MKPO            KMOP            MOSR            MOSO            MOPO
+
+Candidate 221:  Candidate 222:  Candidate 223:  Candidate 224:  Candidate 225:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  INKS            INKS            RISK            RISK            OINK
+  MOOR            POOR            MORN            OOPO            MOOR
+  POOR            MOOR            OOPO            MORN            OPSR
+
+Candidate 226:  Candidate 227:  Candidate 228:  Candidate 229:  Candidate 230:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  OINK            RINK            RINK            SOIR            SOIR
+  OPSR            MOOR            OOPS            MOOR            MOON
+  MOOR            OOPS            MOOR            NKPO            OPKR
+
+Candidate 231:  Candidate 232:  Candidate 233:  Candidate 234:  Candidate 235:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  SOIR            SOIR            SOIR            SOIR            SOIR
+  MORN            NORK            MOPO            MKPO            MKNR
+  KOPO            MOPO            NORK            NROO            OOPO
+
+Candidate 236:  Candidate 237:  Candidate 238:  Candidate 239:  Candidate 240:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  SOIR            SOIR            SOIR            SOIR            SOIR
+  NROO            KOPO            OOPO            OPKR            NKPO
+  MKPO            MORN            MKNR            MOON            MOOR
+
+Candidate 241:  Candidate 242:  Candidate 243:  Candidate 244:  Candidate 245:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  RINS            RINS            RINS            RINS            ROIN
+  MOOR            KMOR            OOPO            KPOO            MOOR
+  KPOO            OOPO            KMOR            MOOR            KPOS
+
+Candidate 246:  Candidate 247:  Candidate 248:  Candidate 249:  Candidate 250:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  ROIN            ROIN            ROIN            ROIN            ROIN
+  MOOP            MOOS            POOR            MOPO            MOSO
+  OSKR            OPKR            MKSO            ORKS            ORKP
+
+Candidate 251:  Candidate 252:  Candidate 253:  Candidate 254:  Candidate 255:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  ROIN            ROIN            ROIN            ROIN            ROIN
+  KMOR            MKPO            MKSO            OPOS            KPOS
+  OPOS            ROOS            POOR            KMOR            MOOR
+
+Candidate 256:  Candidate 257:  Candidate 258:  Candidate 259:  Candidate 260:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  ROIN            ROIN            ROIN            ROIN            ROIN
+  ORKP            OPKR            OSKR            ORKS            ROOS
+  MOSO            MOOS            MOOP            MOPO            MKPO
+
+Candidate 261:  Candidate 262:  Candidate 263:  Candidate 264:  Candidate 265:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  MOPO            MOPO            MOPO            MOPO            MOPO
+  NORK            INRO            SOIR            ROIN            OKSO
+  SOIR            KSOR            NORK            ORKS            RINR
+
+Candidate 266:  Candidate 267:  Candidate 268:  Candidate 269:  Candidate 270:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  MOPO            MOPO            MOPO            MOPO            MOPO
+  OKSR            OIKO            OKIR            ORKS            IKOR
+  OINR            RNSR            OSNR            ROIN            NSOR
+
+Candidate 271:  Candidate 272:  Candidate 273:  Candidate 274:  Candidate 275:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  MOPO            MOPO            MOPO            MOPO            MOPO
+  ORNS            ONSO            ONSR            OINO            ONIR
+  KIOR            RIKR            OIKR            RKSR            OSKR
+
+Candidate 276:  Candidate 277:  Candidate 278:  Candidate 279:  Candidate 280:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  MOPO            MOPO            MOPO            MOPO            MOPO
+  KSOR            KIOR            OSKR            OSNR            OIKR
+  INRO            ORNS            ONIR            OKIR            ONSR
+
+Candidate 281:  Candidate 282:  Candidate 283:  Candidate 284:  Candidate 285:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  MOPO            MOPO            MOPO            MOPO            MOPO
+  OINR            NSOR            RKSR            RIKR            RNSR
+  OKSR            IKOR            OINO            ONSO            OIKO
+
+Candidate 286:  Candidate 287:  Candidate 288:  Candidate 289:  Candidate 290:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  MOPO            KMOP            KMOP            KMOP            KMOP
+  RINR            INRO            OORS            IROO            ORNS
+  OKSO            OORS            INRO            ORNS            IROO
+
+Candidate 291:  Candidate 292:  Candidate 293:  Candidate 294:  Candidate 295:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  MOPO            MOPO            MOPO            MOPO            MOPO
+  NORK            OKSO            OSKR            ONSO            OSNR
+  IRSO            RINR            ONIR            RIKR            OKIR
+
+Candidate 296:  Candidate 297:  Candidate 298:  Candidate 299:  Candidate 300:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  MOPO            MOPO            MOPO            MOPO            MOPO
+  IRSO            OKIR            ONIR            RIKR            RINR
+  NORK            OSNR            OSKR            ONSO            OKSO
+
+Candidate 301:  Candidate 302:  Candidate 303:  Candidate 304:  Candidate 305:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  MOKR            MOKR            MOKR            MOKR            MOKR
+  OOPS            POOR            OPSR            IOOP            ONSP
+  ONIR            ISNO            OINO            ONSR            IROO
+
+Candidate 306:  Candidate 307:  Candidate 308:  Candidate 309:  Candidate 310:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  MOKR            MOKR            MOKR            MOKR            MOKR
+  IROP            ONSO            IROO            ISNO            ONSR
+  ONSO            IROP            ONSP            POOR            IOOP
+
+Candidate 311:  Candidate 312:  Candidate 313:  Candidate 314:  Candidate 315:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  MOKR            MOKR            MOSO            MOSO            MOSO
+  OINO            ONIR            NORK            INRO            ROIN
+  OPSR            OOPS            IROP            KPOR            ORKP
+
+Candidate 316:  Candidate 317:  Candidate 318:  Candidate 319:  Candidate 320:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  MOSO            MOSO            MOSO            MOSO            MOSO
+  ORKP            IROP            OKPO            ONIR            KPOR
+  ROIN            NORK            RINR            OPKR            INRO
+
+Candidate 321:  Candidate 322:  Candidate 323:  Candidate 324:  Candidate 325:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  MOSO            MOSO            MOSO            MOSO            MOSO
+  OPKR            RINR            OKPO            OPKR            ONIR
+  ONIR            OKPO            RINR            ONIR            OPKR
+
+Candidate 326:  Candidate 327:  Candidate 328:  Candidate 329:  Candidate 330:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  MOSO            MOSN            MOSN            MOSN            MOSN
+  RINR            POOR            ORKP            IROO            IKOR
+  OKPO            IKOR            IROO            ORKP            POOR
+
+Candidate 331:  Candidate 332:  Candidate 333:  Candidate 334:  Candidate 335:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  ISOM            ISOM            MOSR            MOSR            MOSR
+  POOR            NORK            NORK            INRO            IOOP
+  NORK            POOR            IOOP            KPOO            NORK
+
+Candidate 336:  Candidate 337:  Candidate 338:  Candidate 339:  Candidate 340:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  MOSR            MOSR            MOSR            MOSR            MOSR
+  ORKP            OKPO            OPKR            KPOO            NIOO
+  NIOO            OINR            OINO            INRO            ORKP
+
+Candidate 341:  Candidate 342:  Candidate 343:  Candidate 344:  Candidate 345:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  MOSR            MOSR            MOKP            MOKP            MOKP
+  OINO            OINR            OOSO            OSNR            IROO
+  OPKR            OKPO            RINR            IROO            OSNR
+
+Candidate 346:  Candidate 347:  Candidate 348:  Candidate 349:  Candidate 350:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  MOKP            MOKS            MOKS            KMOR            KMOR
+  RINR            OOPO            RINR            POOR            RINS
+  OOSO            RINR            OOPO            INSO            OOPO
+
+Candidate 351:  Candidate 352:  Candidate 353:  Candidate 354:  Candidate 355:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  KMOR            KMOR            KMOR            KMOR            KMOR
+  ROIN            OPOS            OOPO            NSOP            OPSR
+  OPOS            ROIN            RINS            IROO            NIOO
+
+Candidate 356:  Candidate 357:  Candidate 358:  Candidate 359:  Candidate 360:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  KMOR            KMOR            KMOR            KMOR            KMOR
+  OPOR            INSO            INSO            NIOO            IROO
+  INSO            POOR            OPOR            OPSR            NSOP
+
+Candidate 361:  Candidate 362:  Candidate 363:  Candidate 364:  Candidate 365:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  INOM            INOM            INOM            INOM            INOM
+  POOR            OOPO            OPKR            OPOR            OSKR
+  OSKR            RKSR            OORS            OSKR            POOR
+
+Candidate 366:  Candidate 367:  Candidate 368:  Candidate 369:  Candidate 370:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  INOM            INOM            INOM            INOM            INOM
+  ORSO            OPKR            OSKR            OORS            RKSR
+  OPKR            ORSO            OPOR            OPKR            OOPO
+
+Candidate 371:  Candidate 372:  Candidate 373:  Candidate 374:  Candidate 375:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  MKPO            MKPO            MKPO            MKPO            MKPO
+  INRO            SOIR            ROIN            NROO            ORSO
+  ORSO            NROO            ROOS            SOIR            INRO
+
+Candidate 376:  Candidate 377:  Candidate 378:  Candidate 379:  Candidate 380:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  MKPO            MKPO            MKPO            MKPO            MKPO
+  OOSO            OOSR            ROOS            OINR            RINR
+  RINR            OINR            ROIN            OOSR            OOSO
+
+Candidate 381:  Candidate 382:  Candidate 383:  Candidate 384:  Candidate 385:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  MKPS            MKPS            MKPO            MKPO            MKPO
+  NROO            IROO            NROO            OOSO            IRSO
+  IROO            NROO            IRSO            RINR            NROO
+
+Candidate 386:  Candidate 387:  Candidate 388:  Candidate 389:  Candidate 390:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  MKPO            MKSO            MKSO            MKSO            MKSO
+  RINR            POOR            INRO            ROIN            OPOR
+  OOSO            ROIN            OPOR            POOR            INRO
+
+Candidate 391:  Candidate 392:  Candidate 393:  Candidate 394:  Candidate 395:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  MKSO            MKSO            MKSO            MKSO            MKSO
+  NROO            IROP            OOPO            RINR            OOPO
+  IROP            NROO            RINR            OOPO            RINR
+
+Candidate 396:  Candidate 397:  Candidate 398:  Candidate 399:  Candidate 400:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  MKSO            MKNS            MKNS            ISKM            ISKM
+  RINR            POOR            IROO            POOR            NROO
+  OOPO            IROO            POOR            NROO            POOR
+
+Candidate 401:  Candidate 402:  Candidate 403:  Candidate 404:  Candidate 405:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  MKSR            MKSR            MKSR            MKSR            MKSR
+  POOR            INRO            OOPO            NROO            IOOP
+  NIOO            OOPO            INRO            IOOP            NROO
+
+Candidate 406:  Candidate 407:  Candidate 408:  Candidate 409:  Candidate 410:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  MKSR            MKSR            MKSR            MKNR            MKNR
+  OOPO            NIOO            OINR            POOR            OOPS
+  OINR            POOR            OOPO            ISOO            IROO
+
+Candidate 411:  Candidate 412:  Candidate 413:  Candidate 414:  Candidate 415:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  MKNR            MKNR            MKNR            MKNR            MKNR
+  SOIR            IOOP            IROP            OOPO            OOSO
+  OOPO            OOSR            OOSO            SOIR            IROP
+
+Candidate 416:  Candidate 417:  Candidate 418:  Candidate 419:  Candidate 420:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  MKNR            MKNR            MKNR            MKNR            MKNR
+  IRSO            IROO            OOPO            ISOO            OOSR
+  OOPO            OOPS            IRSO            POOR            IOOP
+
+Candidate 421:  Candidate 422:  Candidate 423:  Candidate 424:  Candidate 425:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  INKM            INKM            INKM            INKM            MKIO
+  POOR            POOR            OORS            ROOS            NROO
+  OORS            ROOS            POOR            POOR            OPSR
+
+Candidate 426:  Candidate 427:  Candidate 428:  Candidate 429:  Candidate 430:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  MKIO            MKIO            MKIO            MKIR            MKIR
+  OPSR            OOPO            RNSR            POOR            OOPS
+  NROO            RNSR            OOPO            NSOO            NROO
+
+Candidate 431:  Candidate 432:  Candidate 433:  Candidate 434:  Candidate 435:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  MKIR            MKIR            MKIR            MKIR            MKIR
+  OOPO            NROO            OOPO            OSNR            NSOO
+  ORNS            OOPS            OSNR            OOPO            POOR
+
+Candidate 436:  Candidate 437:  Candidate 438:  Candidate 439:  Candidate 440:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  MKIR            MKIR            MKIR            OPOS            OPOS
+  OOPO            ORNS            OSNR            MORN            ROIN
+  OSNR            OOPO            OOPO            KIOR            KMOR
+
+Candidate 441:  Candidate 442:  Candidate 443:  Candidate 444:  Candidate 445:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  OPOS            OPOS            OOPO            OOPO            OOPO
+  KMOR            KIOR            MOKI            MORN            MONS
+  ROIN            MORN            RNSR            RISK            RIKR
+
+Candidate 446:  Candidate 447:  Candidate 448:  Candidate 449:  Candidate 450:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  OOPO            OOPO            OOPO            OOPO            OOPO
+  INRO            RISK            RINS            MOKS            KMOR
+  MKSR            MORN            KMOR            RINR            RINS
+
+Candidate 451:  Candidate 452:  Candidate 453:  Candidate 454:  Candidate 455:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  OOPO            OOPO            OOPO            OOPO            OOPO
+  INOM            MKSR            MKIR            ORNS            RKSR
+  RKSR            INRO            ORNS            MKIR            INOM
+
+Candidate 456:  Candidate 457:  Candidate 458:  Candidate 459:  Candidate 460:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  OOPO            OOPO            OOPO            OPKR            OPKR
+  RIKR            RNSR            RINR            MONS            INOM
+  MONS            MOKI            MOKS            IROO            OORS
+
+Candidate 461:  Candidate 462:  Candidate 463:  Candidate 464:  Candidate 465:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  OPKR            OPKR            IKOP            IKOP            NSOP
+  OORS            IROO            MORN            OORS            KMOR
+  INOM            MONS            OORS            MORN            IROO
+
+Candidate 466:  Candidate 467:  Candidate 468:  Candidate 469:  Candidate 470:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  NSOP            OPSR            OPSR            OPSR            OPSR
+  IROO            MORN            KMOR            KIOO            NIOO
+  KMOR            KIOO            NIOO            MORN            KMOR
+
+Candidate 471:  Candidate 472:  Candidate 473:  Candidate 474:  Candidate 475:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  OPOR            OPOR            OPOR            OPOR            OPOR
+  MOKI            MORN            INRO            KMOR            INOM
+  OSNR            IKSO            MKSO            INSO            OSKR
+
+Candidate 476:  Candidate 477:  Candidate 478:  Candidate 479:  Candidate 480:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  OPOR            OPOR            OPOR            OPOR            OPOR
+  MKSO            OSKR            IKSO            OSNR            INSO
+  INRO            INOM            MORN            MOKI            KMOR
+
+Candidate 481:  Candidate 482:  Candidate 483:  Candidate 484:  Candidate 485:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  NROO            NROO            NROO            NROO            NROO
+  OOPS            POOR            SOIR            MKPO            MKPS
+  MKIR            ISKM            MKPO            SOIR            IROO
+
+Candidate 486:  Candidate 487:  Candidate 488:  Candidate 489:  Candidate 490:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  NROO            NROO            NROO            NROO            NROO
+  MKPO            MKSO            ISKM            MKSR            MKIO
+  IRSO            IROP            POOR            IOOP            OPSR
+
+Candidate 491:  Candidate 492:  Candidate 493:  Candidate 494:  Candidate 495:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  NROO            NROO            NROO            NROO            NROO
+  MKIR            OPSR            IOOP            IROP            IRSO
+  OOPS            MKIO            MKSR            MKSO            MKPO
+
+Candidate 496:  Candidate 497:  Candidate 498:  Candidate 499:  Candidate 500:
+  DOOL            DOOL            DOOL            DOOL            DOOL
+  NROO            KOPO            KOPO            KOPO            KOPO
+  IROO            MORN            SOIR            MORN            IRSO
+  MKPS            SOIR            MORN            IRSO            MORN
+
+
+Unique candidate strings (116 total):
+  DOOL  IKNR  IKOP  IKOR  
+  IKOS  IKPO  IKSO  INKM  
+  INKP  INKS  INOM  INRO  
+  INSO  IOOP  IROO  IROP  
+  IRSO  ISKM  ISKR  ISNO  
+  ISNR  ISOM  ISOO  KIOO  
+  KIOR  KMOP  KMOR  KNSO  
+  KNSP  KNSR  KOPO  KOPS  
+  KOSO  KOSR  KPOO  KPOR  
+  KPOS  KPSR  KRNS  KSOO  
+  KSOR  MKIO  MKIR  MKNR  
+  MKNS  MKPO  MKPS  MKSO  
+  MKSR  MOKI  MOKO  MOKP  
+  MOKR  MOKS  MONS  MOON  
+  MOOP  MOOR  MOOS  MOPO  
+  MOPS  MORN  MOSK  MOSN  
+  MOSO  MOSR  NIOO  NKPO  
+  NORK  NRKP  NROO  NSOO  
+  NSOP  NSOR  OIKO  OIKR  
+  OINK  OINO  OINR  OKIR  
+  OKPO  OKSO  OKSR  ONIR  
+  ONSO  ONSP  ONSR  OOPO  
+  OOPS  OORS  OOSO  OOSR  
+  OPKR  OPOR  OPOS  OPSR  
+  ORKP  ORKS  ORNS  ORSO  
+  OSKR  OSNR  PKIR  POOR  
+  PSKR  PSNR  RIKR  RINK  
+  RINR  RINS  RISK  RKSR  
+  RNSR  ROIN  ROOS  SOIR  
+English word matches (24 total):
+  DOOL  INKS  INRO  KOPS  
+  KOSO  MOKI  MOKO  MONS  
+  MOON  MOOP  MOOR  MOOS  
+  MOPS  MORN  MOSK  NORK  
+  OINK  OOPS  POOR  RINK  
+  RINS  RISK  ROIN  SOIR  
+Brand matches (0 total): none

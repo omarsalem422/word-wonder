@@ -1,0 +1,691 @@
+Unique words across all solutions (2 total):
+  OFFICER    PRESIDENT  
+
+------------------------------------------------------------
+English words (filtered) (2 total):
+  OFFICER    PRESIDENT  
+
+------------------------------------------------------------
+Brand matches (filtered) (0 total): none
+
+------------------------------------------------------------
+Grid (grid.txt):
+ERTE
+CPDN
+IFRI
+FOES
+
+------------------------------------------------------------
+Pattern: --------- -------
+
+------------------------------------------------------------
+Found 2 solution(s):
+
+Solution 1:     Solution 2:
+  PRESIDENT       PRESIDENT
+  OFFICER         OFFICER
+
+
+============================================================
+RELAXED MODE — Unvalidated candidate tilings
+These strings tile the grid correctly but are NOT confirmed
+as dictionary words or known brands. Review manually.
+
+============================================================
+Found 499 candidate tiling(s):
+
+Candidate 1:    Candidate 2:    Candidate 3:    Candidate 4:    Candidate 5:
+  REPRINTED       CEPIFDETR       CERDETPIF       CERDETPIO       CEPFRDETR
+  CFFIOES         FORESIN         FORESIN         ESINRFF         FIOESIN
+
+Candidate 6:    Candidate 7:    Candidate 8:    Candidate 9:    Candidate 10:
+  CEPRTEDFF       CEPRTEDFE       DETREPIFO       DENRFPERT       DETREPFRS
+  ESINROI         FIORNIS         CFEINRS         CIFOEIS         CIFOEIN
+
+Candidate 11:   Candidate 12:   Candidate 13:   Candidate 14:   Candidate 15:
+  DETREPFES       DETREPRFF       DETREPROF       CEPDRNETR       DRNETREPI
+  CIFORIN         CIOESIN         CIFESIN         FFIOEIS         CFFOEIS
+
+Candidate 16:   Candidate 17:   Candidate 18:   Candidate 19:   Candidate 20:
+  CERDETNRF       ERDETNRFF       DISRNETRE       ERDETNROF       DFRINETRE
+  ISEOFIP         CPIOEIS         CFEOFIP         CIPFEIS         CPIFOES
+
+Candidate 21:   Candidate 22:   Candidate 23:   Candidate 24:   Candidate 25:
+  ERDETNIRO       DFEINETRE       ERDETNIEO       ERDETNIES       CERTEDFFI
+  CPIFFES         CPIFORS         CFFIPRS         CFFIORP         NISEORP
+
+Candidate 26:   Candidate 27:   Candidate 28:   Candidate 29:   Candidate 30:
+  ERTEDFFIO       EOFFDETRE       ERTEDFOES       ERTEDFEIS       CERTEDRPI
+  CPRESIN         CIPRNIS         FICPRIN         CPIFORN         FFOESIN
+
+Candidate 31:   Candidate 32:   Candidate 33:   Candidate 34:   Candidate 35:
+  ERTEDRPIF       ERTEDROFI       ERTEDISEO       CERDENTPI       CEPFDENTR
+  CFOESIN         CPFESIN         CFFIPRN         EFFORIS         EISROFI
+
+Candidate 36:   Candidate 37:   Candidate 38:   Candidate 39:   Candidate 40:
+  DENTREPIF       DENTREPFF       DENTREPFE       DENTREPRO       DENTREPRS
+  CFEISRO         CIOEIRS         CIFORIS         CIFFEIS         CFFIOEI
+
+Candidate 41:   Candidate 42:   Candidate 43:   Candidate 44:   Candidate 45:
+  CERTENDFI       ERTENDFFI       ERTENDFRS       ERTENDFFO       EOFDENTRE
+  FOEISRP         CPRISEO         CPIFOEI         CIPREIS         FICPRIS
+
+Candidate 46:   Candidate 47:   Candidate 48:   Candidate 49:   Candidate 50:
+  ERTENDFES       CERTENRPI       CEPFRNETR       ERTENRPIF       ENTREPRFF
+  CPIFORI         DFFOEIS         DISEOFI         CFDISEO         CIOESID
+
+Candidate 51:   Candidate 52:   Candidate 53:   Candidate 54:   Candidate 55:
+  CERTENRFI       ERTENRFFI       ERTENRFFO       EFORNETRE       ERTENRFES
+  FOESIDP         CPDISEO         CIPDIES         FICPDIS         FOICPDI
+
+Candidate 56:   Candidate 57:   Candidate 58:   Candidate 59:   Candidate 60:
+  EISRNETRE       CERTENROI       ERTENROFI       CERTENRFO       ERTENROES
+  CFDPIFO         ESIDPFF         CFESIDP         ESIDPIF         CFFIPDI
+
+Candidate 61:   Candidate 62:   Candidate 63:   Candidate 64:   Candidate 65:
+  CERTENREF       ERTENREFF       ERTENREOI       ERTENREOF       CEPDINETR
+  FOIPDIS         OICPDIS         FFCPDIS         CFIPDIS         EFFIORS
+
+Candidate 66:   Candidate 67:   Candidate 68:   Candidate 69:   Candidate 70:
+  DINETREPI       DFPERTENI       CERTENIDF       ERTENIDFI       ERTENIDFF
+  CFESROF         CIFOERS         EOFIPRS         CPRSEOF         CIOESRP
+
+Candidate 71:   Candidate 72:   Candidate 73:   Candidate 74:   Candidate 75:
+  ERTENIDFO       CEPRINETR       CERTENIRF       ERTENIRFF       ERTENIROF
+  ESRPCIF         DFFIOES         DPIFOES         DPCIOES         CIPDFES
+
+Candidate 76:   Candidate 77:   Candidate 78:   Candidate 79:   Candidate 80:
+  CERTENIEF       ERTENIEFF       ERTENIEFO       ERTENIEOI       ERTENIEOF
+  DPIFORS         DPCIORS         FICPDRS         FFCPDRS         CFIPDRS
+
+Candidate 81:   Candidate 82:   Candidate 83:   Candidate 84:   Candidate 85:
+  ENISRPERT       ERTENISRF       ERTENISRO       ERTENISEF       ERTENISEO
+  CIFOEFD         DPCIFOE         DPCIFFE         CIFORDP         CFDRPIF
+
+Candidate 86:   Candidate 87:   Candidate 88:   Candidate 89:   Candidate 90:
+  CEPIFRDRT       CERTPIFDI       CEPIFRNTR       CERTPIFRS       CERTPFFIO
+  ENISEOF         ENRSEOF         EDISEOF         DENIEOF         DENIERS
+
+Candidate 91:   Candidate 92:   Candidate 93:   Candidate 94:   Candidate 95:
+  CERTPIFES       CEPIFFDRT       CERTPIFFR       CERTPIFFE       CERTPIFOR
+  DENIROF         ENIEORS         DENISEO         DENISRO         DENISEF
+
+Candidate 96:   Candidate 97:   Candidate 98:   Candidate 99:   Candidate 100:
+  CERTPIFOE       CEPIORDRT       CEPIORNTR       CERTPIOER       CERTPIORS
+  DENISRF         ENISEFF         EDISEFF         FFDENIS         DENIEFF
+
+Candidate 101:  Candidate 102:  Candidate 103:  Candidate 104:  Candidate 105:
+  CERTPIOEI       CERTPIOES       CEPRTDFRS       CERTPFDIS       CERTPFEIS
+  FFDENRS         DENIRFF         ENIEOFI         ENREOFI         DENROFI
+
+Candidate 106:  Candidate 107:  Candidate 108:  Candidate 109:  Candidate 110:
+  DPERTENIE       DPERTENIS       DISEFPERT       DROFIPERT       EPRTDISEO
+  CFFIORS         CFEROFI         CIFORNE         CFESINE         CIFFRNE
+
+Candidate 111:  Candidate 112:  Candidate 113:  Candidate 114:  Candidate 115:
+  EPIFORNTR       EROFIPERT       ERTPIFORS       ERTPIFOEI       ERTPIFOES
+  CFESIDE         CFDENIS         CFDENIE         CFDENRS         CFDENIR
+
+Candidate 116:  Candidate 117:  Candidate 118:  Candidate 119:  Candidate 120:
+  EFPERTNIS       EINTREPRS       ERTPRISEO       ERTPRSEOF       CERDTPIFE
+  CIFORDE         CIFOFDE         CIFFDEN         CIFDENI         ENISROF
+
+Candidate 121:  Candidate 122:  Candidate 123:  Candidate 124:  Candidate 125:
+  CERDTPIFO       CERDTPIOE       CEPRTDFES       DTREPIFOE       CERTDFFIO
+  EFRSINE         ENISRFF         ENIROFI         CFRSINE         ENIESRP
+
+Candidate 126:  Candidate 127:  Candidate 128:  Candidate 129:  Candidate 130:
+  EOFIFDTRE       ERTDFFOES       ERTDFOEIS       CERTDRPIF       CEPRTDRFF
+  CPRSINE         CIPRINE         ENRPCIF         ENISEFO         ENISEOI
+
+Candidate 131:  Candidate 132:  Candidate 133:  Candidate 134:  Candidate 135:
+  CERTDROFI       CERTDFEIS       ERTDISEFF       ERTDISEOI       ERTDISEOF
+  ENISEFP         ENROFIP         CPIORNE         ENRPCFF         CFIPRNE
+
+Candidate 136:  Candidate 137:  Candidate 138:  Candidate 139:  Candidate 140:
+  CERTNRPIF       CEPRTNRFF       EFRSINTRE       EORSINTRE       CERTNROFI
+  EDFOEIS         EDISEOI         EDPCIFO         CFFIPDE         EDISEFP
+
+Candidate 141:  Candidate 142:  Candidate 143:  Candidate 144:  Candidate 145:
+  CERTNIRPI       ERTNIROFI       ERTNIEOFI       CEPRSINTR       CERTNISRF
+  EDFFOES         EDPCFES         EDFCPRS         EDFEOFI         EDPIFOE
+
+Candidate 146:  Candidate 147:  Candidate 148:  Candidate 149:  Candidate 150:
+  ERTNISRFF       ERTNISROF       CERTNISEF       ERTNISEFF       ERTNISEFO
+  EDPCIOE         EDPCIFE         EDPIFOR         CIORPDE         EDRPCIF
+
+Candidate 151:  Candidate 152:  Candidate 153:  Candidate 154:  Candidate 155:
+  ERTNISEOI       ERTNISEOF       CEPRTEDRO       CEPRTEDRS       CEPRTEDIS
+  EDRPCFF         CFIPRDE         FIFESIN         FFIOEIN         EFFIORN
+
+Candidate 156:  Candidate 157:  Candidate 158:  Candidate 159:  Candidate 160:
+  CEPRTENRO       CEPRTENRE       CEPRTENRS       CEPRTENIE       CEPRTENIS
+  DISEFFI         FIOFDIS         DFFIOEI         DFFIORS         DFEROFI
+
+Candidate 161:  Candidate 162:  Candidate 163:  Candidate 164:  Candidate 165:
+  CEPRTDROF       CEPRTDIES       CEPRTNROF       CEPRTNIES       CEPIFOFDR
+  ENISEFI         ENRFFIO         EDISEFI         EDFFIOR         EISRNET
+
+Candidate 166:  Candidate 167:  Candidate 168:  Candidate 169:  Candidate 170:
+  CEPFESIDR       CEPIFFRDR       CEPIFORDR       CEPRDISEO       CERDFIPRS
+  ETNROFI         ETNISEO         ETNISEF         ETNRFFI         ETNIEOF
+
+Candidate 171:  Candidate 172:  Candidate 173:  Candidate 174:  Candidate 175:
+  CERPIFDIS       CERPIFRDE       CERPIFRNE       CERPFFIOR       CERPFEOFI
+  ETNREOF         FOESINT         FOESIDT         DETNIES         DETNIRS
+
+Candidate 176:  Candidate 177:  Candidate 178:  Candidate 179:  Candidate 180:
+  CERPIFEIS       CERPIFFDE       CERPIFFDI       CERPIFFRN       CERPIFFRS
+  DETNROF         EORSINT         ETNROES         ETDISEO         DETNIEO
+
+Candidate 181:  Candidate 182:  Candidate 183:  Candidate 184:  Candidate 185:
+  CERPIFFES       CERPIFORN       CERPIFORI       CERPIFOER       CERPIFORS
+  DETNIRO         ETDFEIS         ENTDFES         FDETNIS         FEINTED
+
+Candidate 186:  Candidate 187:  Candidate 188:  Candidate 189:  Candidate 190:
+  CERPIFOEI       CERPIFOES       CERPIORDE       CERPIORNE       CERPIOERS
+  ENTDFRS         DETNIRF         FFESINT         FFESIDT         ETNIDFF
+
+Candidate 191:  Candidate 192:  Candidate 193:  Candidate 194:  Candidate 195:
+  CERPIOEIS       CERPFESIN       CERPRESIN       CERPRISEO       CERPRSINE
+  DETNRFF         ETDROFI         ETDFFIO         ENTDFFI         EOFIFDT
+
+Candidate 196:  Candidate 197:  Candidate 198:  Candidate 199:  Candidate 200:
+  CERPRSEOF       CIPERTEDI       CIPERTENI       CIPERTDRS       CIPERTDIS
+  ETNIDFI         FFOESRN         DFESROF         ENIEFFO         EFFORNE
+
+Candidate 201:  Candidate 202:  Candidate 203:  Candidate 204:  Candidate 205:
+  CIPERTNRS       CIPERTNIE       CIPERTNIS       CERDPIFES       CIPERDIES
+  EDFFOEI         EDFFORS         EDFEROF         ETNIROF         ETNRFFO
+
+Candidate 206:  Candidate 207:  Candidate 208:  Candidate 209:  Candidate 210:
+  ERCIPRNIS       ENIRPERCI       EISRPERCI       CFIPERTEN       CFIPERTNI
+  EOFFDET         SEOFFDT         ENTDFFO         DIESROF         EDRSEOF
+
+Candidate 211:  Candidate 212:  Candidate 213:  Candidate 214:  Candidate 215:
+  ENIDFICER       ERCIFDNIS       CERDFFIOR       CERDISEFI       CIFRPERTE
+  FOESRPT         ETPREOF         ESINETP         ENTPROF         DNISEOF
+
+Candidate 216:  Candidate 217:  Candidate 218:  Candidate 219:  Candidate 220:
+  EFROFICER       ERCFFIORN       ERCFFIORS       ERCFFIOEI       ERCFFIOES
+  DPTENIS         ESIDETP         DPTENIE         DENTPRS         PRINTED
+
+Candidate 221:  Candidate 222:  Candidate 223:  Candidate 224:  Candidate 225:
+  ERCIFESIN       CFFIPERTE       CFFIPERTN       ENDFFICER       ERCIFFDIN
+  DETPROF         DINROES         EDIEORS         ISEORPT         ETPROES
+
+Candidate 226:  Candidate 227:  Candidate 228:  Candidate 229:  Candidate 230:
+  DRECIFFRS       ERCIFFDIS       EDRECIFFR       ENRFFICER       ERCIFFEIS
+  OEINETP         ENTPREO         OESINTP         OESIDPT         DENTPRO
+
+Candidate 231:  Candidate 232:  Candidate 233:  Candidate 234:  Candidate 235:
+  EDFFOICER       ERCIFOFDN       ERCIFOFDI       EDRECIFOR       CERDNROFI
+  EINTPRS         EISRPTE         ENTPRES         EFPTNIS         ETPFEIS
+
+Candidate 236:  Candidate 237:  Candidate 238:  Candidate 239:  Candidate 240:
+  CERDIROFI       ENROFICER       ERCIFORIN       ERCIFORIS       ERCIFOERS
+  ENTPFES         DISEFPT         DETPFES         DENTPFE         DFPTENI
+
+Candidate 241:  Candidate 242:  Candidate 243:  Candidate 244:  Candidate 245:
+  CERDFEOFI       CERDREOFI       ERCIFOERN       CERDIEOFI       ERCIFOEIN
+  ENISRPT         FPTENIS         ETPFDIS         ENTPFRS         DETPFRS
+
+Candidate 246:  Candidate 247:  Candidate 248:  Candidate 249:  Candidate 250:
+  ERCIFOEIS       CIORPERTE       EISROICER       EDRECIOER       ENREOICER
+  DENRFPT         DNISEFF         DENTPFF         FFPTNIS         FFPTDIS
+
+Candidate 251:  Candidate 252:  Candidate 253:  Candidate 254:  Candidate 255:
+  EDIEOICER       ENIEOICER       CERDRSEOI       ERCIOESRN       CERDISEOI
+  FFPTNRS         FFDTPRS         FFPTENI         FFPTEDI         ENTPRFF
+
+Candidate 256:  Candidate 257:  Candidate 258:  Candidate 259:  Candidate 260:
+  ERCIOESIN       CFPERTEDI       CFPERTENI       CFPERTNRS       CFPERTNIS
+  DETPRFF         FIOESRN         DRSEOFI         EDIEOFI         EDREOFI
+
+Candidate 261:  Candidate 262:  Candidate 263:  Candidate 264:  Candidate 265:
+  CERDENIRF       ENDRECFRS       CERDENIEF       ERCFDENIS       CERDFRNIS
+  SEOFIPT         IEOFIPT         SROFIPT         EROFIPT         EOFIPTE
+
+Candidate 266:  Candidate 267:  Candidate 268:  Candidate 269:  Candidate 270:
+  CERDFESIN       CERDFEIRS       CERDFEORS       CERDFEROF       CERDFFOEI
+  ETPIFOR         ENTPIFO         FIPTENI         IPTENIS         IPTENRS
+
+Candidate 271:  Candidate 272:  Candidate 273:  Candidate 274:  Candidate 275:
+  CERDFOEIS       ERCFEINRS       EISROFCER       EDISRFCER       ENISRFCER
+  ETNRPIF         DETPIFO         DENTPIF         EOFIPTN         DTPIFOE
+
+Candidate 276:  Candidate 277:  Candidate 278:  Candidate 279:  Candidate 280:
+  ERCFESROF       EDRECFFOR       ENROFFCER       ERCFFOERN       ERCFFOEIN
+  DINETPI         ESINTPI         ESIDTPI         IPTEDIS         IPTEDRS
+
+Candidate 281:  Candidate 282:  Candidate 283:  Candidate 284:  Candidate 285:
+  ERCFFOEIS       EDRECFEOR       ENREOFCER       EDIEOFCER       ENIEOFCER
+  DETNRPI         FIPTNIS         FIPTDIS         FIPTNRS         FIPTDRS
+
+Candidate 286:  Candidate 287:  Candidate 288:  Candidate 289:  Candidate 290:
+  ERCFOESRN       ERCFOESIN       EDRECFERS       ENRSEFCER       EDISEFCER
+  FIPTEDI         ETDRPIF         FOIPTNI         FOIPTDI         FIORNTP
+
+Candidate 291:  Candidate 292:  Candidate 293:  Candidate 294:  Candidate 295:
+  ENISEFCER       EPRTEDIES       ENTREPROF       ENTREPREO       ENTREPRES
+  DROFIPT         CFFIORN         CIFDIES         CIFFDIS         CIFOFDI
+
+Candidate 296:  Candidate 297:  Candidate 298:  Candidate 299:  Candidate 300:
+  EPRTENIEO       EPRTENIES       EPRTNISEO       EPRDISEFF       EPRDISEOF
+  CIFFDRS         CFDROFI         CIFFRDE         CIORNET         CIFRNET
+
+Candidate 301:  Candidate 302:  Candidate 303:  Candidate 304:  Candidate 305:
+  EDREPIFOR       ENROFIPER       ERPIFOERS       ERPIFOEIS       EDISEFPER
+  CFESINT         CFESIDT         CFDETNI         CFDETNR         CIFORNT
+
+Candidate 306:  Candidate 307:  Candidate 308:  Candidate 309:  Candidate 310:
+  ENISEFPER       ERPRNISEO       ERPRISEOF       ENIESRPER       EISRNEDRE
+  CIFORDT         CIFFDET         CIFDENT         CIFOFDT         CFFOIPT
+
+Candidate 311:  Candidate 312:  Candidate 313:  Candidate 314:  Candidate 315:
+  ERDENROFI       ERDENIRFF       ERDENIROF       ERDENIEFF       ERDENIEOF
+  ISEFCPT         SEOICPT         SEFCIPT         SROICPT         SRFCIPT
+
+Candidate 316:  Candidate 317:  Candidate 318:  Candidate 319:  Candidate 320:
+  ENISRFDRE       ERDENISRO       ENISEFDRE       ERDENISEO       CERDPIFFE
+  EOFICPT         EFFICPT         CIFORPT         CIFFRPT         ETNISRO
+
+Candidate 321:  Candidate 322:  Candidate 323:  Candidate 324:  Candidate 325:
+  CERDPIFOE       CERDPIORS       CERDPIOES       DREPIFORS       DREPIFOES
+  ETNISRF         ETNIEFF         ETNIRFF         CFEINET         CFRINET
+
+Candidate 326:  Candidate 327:  Candidate 328:  Candidate 329:  Candidate 330:
+  EFRSINDRE       EORSINDRE       ERDINROFI       ERDNIEOFI       ERDNISRFF
+  ETPCIFO         CFFIPTE         ETPCFES         ETPCFRS         EOICPTE
+
+Candidate 331:  Candidate 332:  Candidate 333:  Candidate 334:  Candidate 335:
+  ERDNISROF       ERDNISEFF       ERDNISEOF       EFFIORDRE       ERDFFIORS
+  EFCIPTE         CIORPTE         CIFRPTE         CPTENIS         CPTENIE
+
+Candidate 336:  Candidate 337:  Candidate 338:  Candidate 339:  Candidate 340:
+  ERDFFIOEI       ERDFFIOES       EFORSIDRE       ERDFESROF       ERDFFOEIS
+  CPTENRS         CPRINET         ENTPCIF         CIPTENI         CIPRNET
+
+Candidate 341:  Candidate 342:  Candidate 343:  Candidate 344:  Candidate 345:
+  ERDIESRFF       ERDIESROI       ERDIESROF       ERDRSEOFI       ERDISROFI
+  ENTPCIO         ENTPCFF         CFIPTEN         CFPTENI         EFCPTEN
+
+Candidate 346:  Candidate 347:  Candidate 348:  Candidate 349:  Candidate 350:
+  ERDISEFFI       ERDISEOFI       CERDETNIR       CERDETNRO       CERDETNRS
+  CPTENRO         CFPRNET         FFPIOES         FIPFEIS         FFPIOEI
+
+Candidate 351:  Candidate 352:  Candidate 353:  Candidate 354:  Candidate 355:
+  CERDETNIE       CERDETNIS       CERTEDFRS       CERTEDFFO       CERTEDFEO
+  FFOIPRS         PIFFERO         NIEOFIP         ESINRPI         FIPRNIS
+
+Candidate 356:  Candidate 357:  Candidate 358:  Candidate 359:  Candidate 360:
+  CERTEDFES       CERTEDRFF       CERTEDROF       CERTEDIES       CERTENDFF
+  FOIPRIN         NISEOIP         IPFESIN         FFOIPRN         EISROIP
+
+Candidate 361:  Candidate 362:  Candidate 363:  Candidate 364:  Candidate 365:
+  CERTENDFO       CERTENDFE       CERTENRFF       CERTENIRS       CERTENROF
+  EISRPIF         FOIPRIS         DISEOIP         DFEOFIP         DISEFIP
+
+Candidate 366:  Candidate 367:  Candidate 368:  Candidate 369:  Candidate 370:
+  CERTENREO       CERTENRES       CERTENIRO       CERTENIEO       CERTENIES
+  FFIPDIS         FFOIPDI         DPIFFES         DFFIPRS         DFFIORP
+
+Candidate 371:  Candidate 372:  Candidate 373:  Candidate 374:  Candidate 375:
+  CERTPREIS       CERTPROES       CERTPREOF       CERTDFEOF       CERTDFOES
+  ENDFFIO         ENIDFFI         IFDENIS         ENISRPI         ENIRPIF
+
+Candidate 376:  Candidate 377:  Candidate 378:  Candidate 379:  Candidate 380:
+  CERTDISEO       CERTNIERS       CERTNIRFF       CERTNIROF       CERTNIEFF
+  ENRFFIP         EDFFOIP         EDPIOES         EDPIFES         EDPIORS
+
+Candidate 381:  Candidate 382:  Candidate 383:  Candidate 384:  Candidate 385:
+  CERTNIEOF       CERTNISRO       CERTNISEO       CERDENRFF       CERDENIRS
+  EDFIPRS         EDPIFFE         EDFFIPR         ISEOIPT         EFFOIPT
+
+Candidate 386:  Candidate 387:  Candidate 388:  Candidate 389:  Candidate 390:
+  CERDENROF       CERDENIRO       CERDENIEO       CERDENIES       CERDIESRN
+  ISEFIPT         SEFFIPT         SRFFIPT         FFIORPT         ETPFFIO
+
+Candidate 391:  Candidate 392:  Candidate 393:  Candidate 394:  Candidate 395:
+  CERDINRFF       CERDINROF       CERDNIEFF       CERDNIEOF       CERDNISRO
+  ETPIOES         ETPIFES         ETPIORS         ETPIFRS         EFFIPTE
+
+Candidate 396:  Candidate 397:  Candidate 398:  Candidate 399:  Candidate 400:
+  CERDNISEO       CERDFFORS       CERDFFOES       CERDIEORS       CERDRSEFF
+  ETPIFFR         EINETPI         ETNIRPI         ENTPFFI         INETPIO
+
+Candidate 401:  Candidate 402:  Candidate 403:  Candidate 404:  Candidate 405:
+  CERDRSEOF       CERDISRFF       CERDISROF       CERDISEFF       CERDISEOF
+  FIPTENI         ENTPIOE         EFIPTEN         ENROIPT         ENRFIPT
+
+Candidate 406:  Candidate 407:  Candidate 408:  Candidate 409:  Candidate 410:
+  CEPIFRNET       CEPTENRFF       CEPRSINET       CEPIORNET       CEPTENROF
+  FOESIDR         IOESIDR         EOFIFDR         FFESIDR         IFESIDR
+
+Candidate 411:  Candidate 412:  Candidate 413:  Candidate 414:  Candidate 415:
+  CEPTENIES       CEPDFFIOR       CEPDFEOFI       CEPDISEFI       CEPDISEFF
+  FFIORDR         ESINETR         ISRNETR         FORNETR         IORNETR
+
+Candidate 416:  Candidate 417:  Candidate 418:  Candidate 419:  Candidate 420:
+  CEPDISEOI       CEPDISEOF       CEPFEROFI       CEPFFIORN       CEPFFIORS
+  FFRNETR         IFRNETR         DRTENIS         ESIDETR         DRTENIE
+
+Candidate 421:  Candidate 422:  Candidate 423:  Candidate 424:  Candidate 425:
+  CEPFFIOEI       CEPFFIOES       CEPIFESIN       CEPIFFDRS       CEPIFFDIS
+  DRTENRS         DIRNETR         ETRDROF         OEINETR         EORNETR
+
+Candidate 426:  Candidate 427:  Candidate 428:  Candidate 429:  Candidate 430:
+  CEPIFFRDE       CEPIFFRNE       CEPIFFEIS       CEPIFOFDE       CEPIFOFDI
+  OESINTR         OESIDRT         DRTENRO         EISRNTR         ESRNETR
+
+Candidate 431:  Candidate 432:  Candidate 433:  Candidate 434:  Candidate 435:
+  CEPIFORDE       CEPIFORNE       CEPIFORIN       CEPIFORIS       CEPIFOERS
+  FESINTR         FESIDRT         ETRDFES         EFDENTR         FDINETR
+
+Candidate 436:  Candidate 437:  Candidate 438:  Candidate 439:  Candidate 440:
+  CEPIFOEIN       CEPIFOEIS       CEPIOEIRS       CEPIOESIN       CEPFESIDE
+  ETRDFRS         DFRNETR         ENTRDFF         ETRDRFF         FIORNTR
+
+Candidate 441:  Candidate 442:  Candidate 443:  Candidate 444:  Candidate 445:
+  CEPFESINE       CEPRNISEO       CEPRISEOF       CEPRESINE       ECIPRINET
+  FIORDRT         ETRDFFI         ENTRDFI         FIOFDRT         RDFFOES
+
+Candidate 446:  Candidate 447:  Candidate 448:  Candidate 449:  Candidate 450:
+  ECIPTENRS       ECIPTENIE       ECIPTENIS       ECIPRESIN       ECIPRSINE
+  FFOEIDR         RDFFORS         EFFORDR         ETRDFFO         EOFFDRT
+
+Candidate 451:  Candidate 452:  Candidate 453:  Candidate 454:  Candidate 455:
+  ECFIPTENI       ECIFDETNI       ECIFDENIS       DNISEFICE       DFEROFICE
+  FOESRDR         FOESRPR         FOERPRT         ETRPROF         PRTENIS
+
+Candidate 456:  Candidate 457:  Candidate 458:  Candidate 459:  Candidate 460:
+  DIEFFOICE       ECFESROFI       ECFFIORPT       ECFFIORDE       ECFFIORNE
+  ENTRPRS         DINETPR         ESINEDR         ESINTPR         ESIDPRT
+
+Candidate 461:  Candidate 462:  Candidate 463:  Candidate 464:  Candidate 465:
+  ECFFIOERN       ECFFIOEIN       ECFFIOEIS       ECIFESIDE       ECIFESINT
+  ETPRDIS         DETRPRS         DENRPRT         FORNTPR         EDRPROF
+
+Candidate 466:  Candidate 467:  Candidate 468:  Candidate 469:  Candidate 470:
+  ECIFESINE       ECFFIPTEN       ECIFFDENT       ECIFFDENI       ECIFFDNIS
+  DRTPROF         EORSIDR         ISEORPR         OESRPRT         EORPRTE
+
+Candidate 471:  Candidate 472:  Candidate 473:  Candidate 474:  Candidate 475:
+  DISEFFICE       ECIFFRPTE       ECIFFRNET       ECIFFESIN       ECFFOIPTE
+  ENTRPRO         OESINDR         OESIDPR         DETRPRO         EISRNDR
+
+Candidate 476:  Candidate 477:  Candidate 478:  Candidate 479:  Candidate 480:
+  ECIFOFDET       ECIFOFDEN       ECIFOFDIN       ECIFOFDRS       ECIFOFDIS
+  ESINRPR         EISRPRT         ESRPRTE         EINETPR         ENTRPRE
+
+Candidate 481:  Candidate 482:  Candidate 483:  Candidate 484:  Candidate 485:
+  ECIFORPTE       ECIFORDET       DENROFICE       DINROFICE       DISROFICE
+  FESINDR         NISEFPR         ISEFPRT         ETRPFES         EFPRTEN
+
+Candidate 486:  Candidate 487:  Candidate 488:  Candidate 489:  Candidate 490:
+  ECIFORNET       ECIFORNIS       ECIFORIDE       ECIFORINT       ECIFORINE
+  DISEFPR         DETRPFE         NTRPFES         EDRPFES         DRTPFES
+
+Candidate 491:  Candidate 492:  Candidate 493:  Candidate 494:  Candidate 495:
+  ECIFOEIRS       ECFEOFIPT       ECIFOEFDT       ECIFOEFDE       ECIFOEFDN
+  DENTRPF         ENISRDR         ENISRPR         INTRPRS         ETRPRIS
+
+Candidate 496:  Candidate 497:  Candidate 498:  Candidate 499:
+  ECIFOERDE       ECIFOERNE       ECIFOEIDE       DNIEOFICE
+  FPRTNIS         FPRTDIS         FPRTNRS         ETRPFRS
+
+
+Unique candidate strings (996 total):
+  CEPDFEOFI  CEPDFFIOR  CEPDINETR  CEPDISEFF  
+  CEPDISEFI  CEPDISEOF  CEPDISEOI  CEPDRNETR  
+  CEPFDENTR  CEPFEROFI  CEPFESIDE  CEPFESIDR  
+  CEPFESINE  CEPFFIOEI  CEPFFIOES  CEPFFIORN  
+  CEPFFIORS  CEPFRDETR  CEPFRNETR  CEPIFDETR  
+  CEPIFESIN  CEPIFFDIS  CEPIFFDRS  CEPIFFDRT  
+  CEPIFFEIS  CEPIFFRDE  CEPIFFRDR  CEPIFFRNE  
+  CEPIFOEIN  CEPIFOEIS  CEPIFOERS  CEPIFOFDE  
+  CEPIFOFDI  CEPIFOFDR  CEPIFORDE  CEPIFORDR  
+  CEPIFORIN  CEPIFORIS  CEPIFORNE  CEPIFRDRT  
+  CEPIFRNET  CEPIFRNTR  CEPIOEIRS  CEPIOESIN  
+  CEPIORDRT  CEPIORNET  CEPIORNTR  CEPRDISEO  
+  CEPRESINE  CEPRINETR  CEPRISEOF  CEPRNISEO  
+  CEPRSINET  CEPRSINTR  CEPRTDFES  CEPRTDFRS  
+  CEPRTDIES  CEPRTDRFF  CEPRTDROF  CEPRTEDFE  
+  CEPRTEDFF  CEPRTEDIS  CEPRTEDRO  CEPRTEDRS  
+  CEPRTENIE  CEPRTENIS  CEPRTENRE  CEPRTENRO  
+  CEPRTENRS  CEPRTNIES  CEPRTNRFF  CEPRTNROF  
+  CEPTENIES  CEPTENRFF  CEPTENROF  CERDENIEF  
+  CERDENIEO  CERDENIES  CERDENIRF  CERDENIRO  
+  CERDENIRS  CERDENRFF  CERDENROF  CERDENTPI  
+  CERDETNIE  CERDETNIR  CERDETNIS  CERDETNRF  
+  CERDETNRO  CERDETNRS  CERDETPIF  CERDETPIO  
+  CERDFEIRS  CERDFEOFI  CERDFEORS  CERDFEROF  
+  CERDFESIN  CERDFFIOR  CERDFFOEI  CERDFFOES  
+  CERDFFORS  CERDFIPRS  CERDFOEIS  CERDFRNIS  
+  CERDIEOFI  CERDIEORS  CERDIESRN  CERDINRFF  
+  CERDINROF  CERDIROFI  CERDISEFF  CERDISEFI  
+  CERDISEOF  CERDISEOI  CERDISRFF  CERDISROF  
+  CERDNIEFF  CERDNIEOF  CERDNISEO  CERDNISRO  
+  CERDNROFI  CERDPIFES  CERDPIFFE  CERDPIFOE  
+  CERDPIOES  CERDPIORS  CERDREOFI  CERDRSEFF  
+  CERDRSEOF  CERDRSEOI  CERDTPIFE  CERDTPIFO  
+  CERDTPIOE  CERPFEOFI  CERPFESIN  CERPFFIOR  
+  CERPIFDIS  CERPIFEIS  CERPIFFDE  CERPIFFDI  
+  CERPIFFES  CERPIFFRN  CERPIFFRS  CERPIFOEI  
+  CERPIFOER  CERPIFOES  CERPIFORI  CERPIFORN  
+  CERPIFORS  CERPIFRDE  CERPIFRNE  CERPIOEIS  
+  CERPIOERS  CERPIORDE  CERPIORNE  CERPRESIN  
+  CERPRISEO  CERPRSEOF  CERPRSINE  CERTDFEIS  
+  CERTDFEOF  CERTDFFIO  CERTDFOES  CERTDISEO  
+  CERTDROFI  CERTDRPIF  CERTEDFEO  CERTEDFES  
+  CERTEDFFI  CERTEDFFO  CERTEDFRS  CERTEDIES  
+  CERTEDRFF  CERTEDROF  CERTEDRPI  CERTENDFE  
+  CERTENDFF  CERTENDFI  CERTENDFO  CERTENIDF  
+  CERTENIEF  CERTENIEO  CERTENIES  CERTENIRF  
+  CERTENIRO  CERTENIRS  CERTENREF  CERTENREO  
+  CERTENRES  CERTENRFF  CERTENRFI  CERTENRFO  
+  CERTENROF  CERTENROI  CERTENRPI  CERTNIEFF  
+  CERTNIEOF  CERTNIERS  CERTNIRFF  CERTNIROF  
+  CERTNIRPI  CERTNISEF  CERTNISEO  CERTNISRF  
+  CERTNISRO  CERTNROFI  CERTNRPIF  CERTPFDIS  
+  CERTPFEIS  CERTPFFIO  CERTPIFDI  CERTPIFES  
+  CERTPIFFE  CERTPIFFR  CERTPIFOE  CERTPIFOR  
+  CERTPIFRS  CERTPIOEI  CERTPIOER  CERTPIOES  
+  CERTPIORS  CERTPREIS  CERTPREOF  CERTPROES  
+  CFDENIE    CFDENIR    CFDENIS    CFDENRS    
+  CFDETNI    CFDETNR    CFDISEO    CFDPIFO    
+  CFDROFI    CFDRPIF    CFEINET    CFEINRS    
+  CFEISRO    CFEOFIP    CFEROFI    CFESIDE    
+  CFESIDP    CFESIDT    CFESINE    CFESINT    
+  CFESROF    CFFIOEI    CFFIOES    CFFIORN    
+  CFFIORP    CFFIORS    CFFIPDE    CFFIPDI    
+  CFFIPERTE  CFFIPERTN  CFFIPRN    CFFIPRS    
+  CFFIPTE    CFFOEIS    CFFOIPT    CFIPDIS    
+  CFIPDRS    CFIPERTEN  CFIPERTNI  CFIPRDE    
+  CFIPRNE    CFIPTEN    CFOESIN    CFPERTEDI  
+  CFPERTENI  CFPERTNIS  CFPERTNRS  CFPRNET    
+  CFPTENI    CFRINET    CFRSINE    CIFDENI    
+  CIFDENT    CIFDIES    CIFESIN    CIFFDEN    
+  CIFFDET    CIFFDIS    CIFFDRS    CIFFEIS    
+  CIFFRDE    CIFFRNE    CIFFRPT    CIFOEFD    
+  CIFOEIN    CIFOEIS    CIFOERS    CIFOFDE    
+  CIFOFDI    CIFOFDT    CIFORDE    CIFORDP    
+  CIFORDT    CIFORIN    CIFORIS    CIFORNE    
+  CIFORNT    CIFORPT    CIFRNET    CIFRPERTE  
+  CIFRPTE    CIOEIRS    CIOESID    CIOESIN    
+  CIOESRP    CIORNET    CIORPDE    CIORPERTE  
+  CIORPTE    CIPDFES    CIPDIES    CIPERDIES  
+  CIPERTDIS  CIPERTDRS  CIPERTEDI  CIPERTENI  
+  CIPERTNIE  CIPERTNIS  CIPERTNRS  CIPFEIS    
+  CIPREIS    CIPRINE    CIPRNET    CIPRNIS    
+  CIPTENI    CPDISEO    CPFESIN    CPIFFES    
+  CPIFOEI    CPIFOES    CPIFORI    CPIFORN    
+  CPIFORS    CPIOEIS    CPIORNE    CPRESIN    
+  CPRINET    CPRISEO    CPRSEOF    CPRSINE    
+  CPTENIE    CPTENIS    CPTENRO    CPTENRS    
+  DENIEFF    DENIEOF    DENIERS    DENIRFF    
+  DENIROF    DENISEF    DENISEO    DENISRF    
+  DENISRO    DENRFPERT  DENRFPT    DENROFI    
+  DENROFICE  DENRPRT    DENTPFE    DENTPFF    
+  DENTPIF    DENTPRO    DENTPRS    DENTREPFE  
+  DENTREPFF  DENTREPIF  DENTREPRO  DENTREPRS  
+  DENTRPF    DETNIEO    DETNIES    DETNIRF    
+  DETNIRO    DETNIRS    DETNRFF    DETNROF    
+  DETNRPI    DETPFES    DETPFRS    DETPIFO    
+  DETPRFF    DETPROF    DETREPFES  DETREPFRS  
+  DETREPIFO  DETREPRFF  DETREPROF  DETRPFE    
+  DETRPRO    DETRPRS    DFEINETRE  DFEOFIP    
+  DFEROFI    DFEROFICE  DFESROF    DFFIOEI    
+  DFFIOES    DFFIORP    DFFIORS    DFFIPRS    
+  DFFOEIS    DFPERTENI  DFPTENI    DFRINETRE  
+  DFRNETR    DIEFFOICE  DIESROF    DINETPI    
+  DINETPR    DINETREPI  DINROES    DINROFICE  
+  DIRNETR    DISEFFI    DISEFFICE  DISEFIP    
+  DISEFPERT  DISEFPR    DISEFPT    DISEOFI    
+  DISEOIP    DISRNETRE  DISROFICE  DNIEOFICE  
+  DNISEFF    DNISEFICE  DNISEOF    DPCIFFE    
+  DPCIFOE    DPCIOES    DPCIORS    DPERTENIE  
+  DPERTENIS  DPIFFES    DPIFOES    DPIFORS    
+  DPTENIE    DPTENIS    DRECIFFRS  DREPIFOES  
+  DREPIFORS  DRNETREPI  DROFIPERT  DROFIPT    
+  DRSEOFI    DRTENIE    DRTENIS    DRTENRO    
+  DRTENRS    DRTPFES    DRTPROF    DTPIFOE    
+  DTREPIFOE  ECFEOFIPT  ECFESROFI  ECFFIOEIN  
+  ECFFIOEIS  ECFFIOERN  ECFFIORDE  ECFFIORNE  
+  ECFFIORPT  ECFFIPTEN  ECFFOIPTE  ECFIPTENI  
+  ECIFDENIS  ECIFDETNI  ECIFESIDE  ECIFESINE  
+  ECIFESINT  ECIFFDENI  ECIFFDENT  ECIFFDNIS  
+  ECIFFESIN  ECIFFRNET  ECIFFRPTE  ECIFOEFDE  
+  ECIFOEFDN  ECIFOEFDT  ECIFOEIDE  ECIFOEIRS  
+  ECIFOERDE  ECIFOERNE  ECIFOFDEN  ECIFOFDET  
+  ECIFOFDIN  ECIFOFDIS  ECIFOFDRS  ECIFORDET  
+  ECIFORIDE  ECIFORINE  ECIFORINT  ECIFORNET  
+  ECIFORNIS  ECIFORPTE  ECIPRESIN  ECIPRINET  
+  ECIPRSINE  ECIPTENIE  ECIPTENIS  ECIPTENRS  
+  EDFCPRS    EDFEOFI    EDFEROF    EDFFIOR    
+  EDFFIPR    EDFFOEI    EDFFOES    EDFFOICER  
+  EDFFOIP    EDFFORS    EDFIPRS    EDFOEIS    
+  EDIEOFCER  EDIEOFI    EDIEOICER  EDIEORS    
+  EDISEFCER  EDISEFF    EDISEFI    EDISEFP    
+  EDISEFPER  EDISEOF    EDISEOI    EDISRFCER  
+  EDPCFES    EDPCIFE    EDPCIFO    EDPCIOE    
+  EDPIFES    EDPIFFE    EDPIFOE    EDPIFOR    
+  EDPIOES    EDPIORS    EDRECFEOR  EDRECFERS  
+  EDRECFFOR  EDRECIFFR  EDRECIFOR  EDRECIOER  
+  EDREOFI    EDREPIFOR  EDRPCFF    EDRPCIF    
+  EDRPFES    EDRPROF    EDRSEOF    EFCIPTE    
+  EFCPTEN    EFDENTR    EFFICPT    EFFIORDRE  
+  EFFIORN    EFFIORS    EFFIPTE    EFFOIPT    
+  EFFORDR    EFFORIS    EFFORNE    EFIPTEN    
+  EFORNETRE  EFORSIDRE  EFPERTNIS  EFPRTEN    
+  EFPTNIS    EFROFICER  EFRSINDRE  EFRSINE    
+  EFRSINTRE  EINETPI    EINETPR    EINTPRS    
+  EINTREPRS  EISRNDR    EISRNEDRE  EISRNET    
+  EISRNETRE  EISRNTR    EISROFCER  EISROFI    
+  EISROICER  EISROIP    EISRPERCI  EISRPIF    
+  EISRPRT    EISRPTE    ENDFFICER  ENDFFIO    
+  ENDRECFRS  ENIDFFI    ENIDFICER  ENIEFFO    
+  ENIEOFCER  ENIEOFI    ENIEOICER  ENIEORS    
+  ENIESRP    ENIESRPER  ENIROFI    ENIRPERCI  
+  ENIRPIF    ENISEFCER  ENISEFDRE  ENISEFF    
+  ENISEFI    ENISEFO    ENISEFP    ENISEFPER  
+  ENISEOF    ENISEOI    ENISRDR    ENISRFCER  
+  ENISRFDRE  ENISRFF    ENISROF    ENISRPERT  
+  ENISRPI    ENISRPR    ENISRPT    ENREOFCER  
+  ENREOFI    ENREOICER  ENRFFICER  ENRFFIO    
+  ENRFFIP    ENRFIPT    ENROFFCER  ENROFICER  
+  ENROFIP    ENROFIPER  ENROIPT    ENRPCFF    
+  ENRPCIF    ENRSEFCER  ENRSEOF    ENTDFES    
+  ENTDFFI    ENTDFFO    ENTDFRS    ENTPCFF    
+  ENTPCIF    ENTPCIO    ENTPFES    ENTPFFI    
+  ENTPFRS    ENTPIFO    ENTPIOE    ENTPREO    
+  ENTPRES    ENTPRFF    ENTPROF    ENTRDFF    
+  ENTRDFI    ENTREPREO  ENTREPRES  ENTREPRFF  
+  ENTREPROF  ENTRPRE    ENTRPRO    ENTRPRS    
+  EOFDENTRE  EOFFDET    EOFFDETRE  EOFFDRT    
+  EOFICPT    EOFIFDR    EOFIFDT    EOFIFDTRE  
+  EOFIPRS    EOFIPTE    EOFIPTN    EOICPTE    
+  EORNETR    EORPRTE    EORSIDR    EORSINDRE  
+  EORSINT    EORSINTRE  EPIFORNTR  EPRDISEFF  
+  EPRDISEOF  EPRTDISEO  EPRTEDIES  EPRTENIEO  
+  EPRTENIES  EPRTNISEO  ERCFDENIS  ERCFEINRS  
+  ERCFESROF  ERCFFIOEI  ERCFFIOES  ERCFFIORN  
+  ERCFFIORS  ERCFFOEIN  ERCFFOEIS  ERCFFOERN  
+  ERCFOESIN  ERCFOESRN  ERCIFDNIS  ERCIFESIN  
+  ERCIFFDIN  ERCIFFDIS  ERCIFFEIS  ERCIFOEIN  
+  ERCIFOEIS  ERCIFOERN  ERCIFOERS  ERCIFOFDI  
+  ERCIFOFDN  ERCIFORIN  ERCIFORIS  ERCIOESIN  
+  ERCIOESRN  ERCIPRNIS  ERDENIEFF  ERDENIEOF  
+  ERDENIRFF  ERDENIROF  ERDENISEO  ERDENISRO  
+  ERDENROFI  ERDETNIEO  ERDETNIES  ERDETNIRO  
+  ERDETNRFF  ERDETNROF  ERDFESROF  ERDFFIOEI  
+  ERDFFIOES  ERDFFIORS  ERDFFOEIS  ERDIESRFF  
+  ERDIESROF  ERDIESROI  ERDINROFI  ERDISEFFI  
+  ERDISEOFI  ERDISROFI  ERDNIEOFI  ERDNISEFF  
+  ERDNISEOF  ERDNISRFF  ERDNISROF  ERDRSEOFI  
+  EROFIPERT  EROFIPT    ERPIFOEIS  ERPIFOERS  
+  ERPRISEOF  ERPRNISEO  ERTDFFOES  ERTDFOEIS  
+  ERTDISEFF  ERTDISEOF  ERTDISEOI  ERTEDFEIS  
+  ERTEDFFIO  ERTEDFOES  ERTEDISEO  ERTEDROFI  
+  ERTEDRPIF  ERTENDFES  ERTENDFFI  ERTENDFFO  
+  ERTENDFRS  ERTENIDFF  ERTENIDFI  ERTENIDFO  
+  ERTENIEFF  ERTENIEFO  ERTENIEOF  ERTENIEOI  
+  ERTENIRFF  ERTENIROF  ERTENISEF  ERTENISEO  
+  ERTENISRF  ERTENISRO  ERTENREFF  ERTENREOF  
+  ERTENREOI  ERTENRFES  ERTENRFFI  ERTENRFFO  
+  ERTENROES  ERTENROFI  ERTENRPIF  ERTNIEOFI  
+  ERTNIROFI  ERTNISEFF  ERTNISEFO  ERTNISEOF  
+  ERTNISEOI  ERTNISRFF  ERTNISROF  ERTPIFOEI  
+  ERTPIFOES  ERTPIFORS  ERTPRISEO  ERTPRSEOF  
+  ESIDETP    ESIDETR    ESIDPFF    ESIDPIF    
+  ESIDPRT    ESIDTPI    ESINEDR    ESINETP    
+  ESINETR    ESINRFF    ESINROI    ESINRPI    
+  ESINRPR    ESINTPI    ESINTPR    ESRNETR    
+  ESRPCIF    ESRPRTE    ETDFEIS    ETDFFIO    
+  ETDISEO    ETDROFI    ETDRPIF    ETNIDFF    
+  ETNIDFI    ETNIEFF    ETNIEOF    ETNIRFF    
+  ETNIROF    ETNIRPI    ETNISEF    ETNISEO    
+  ETNISRF    ETNISRO    ETNREOF    ETNRFFI    
+  ETNRFFO    ETNROES    ETNROFI    ETNRPIF    
+  ETPCFES    ETPCFRS    ETPCIFO    ETPFDIS    
+  ETPFEIS    ETPFFIO    ETPIFES    ETPIFFR    
+  ETPIFOR    ETPIFRS    ETPIOES    ETPIORS    
+  ETPRDIS    ETPREOF    ETPROES    ETRDFES    
+  ETRDFFI    ETRDFFO    ETRDFRS    ETRDRFF    
+  ETRDROF    ETRPFES    ETRPFRS    ETRPRIS    
+  ETRPROF    FDETNIS    FDINETR    FEINTED    
+  FESIDRT    FESINDR    FESINTR    FFCPDIS    
+  FFCPDRS    FFDENIS    FFDENRS    FFDTPRS    
+  FFESIDR    FFESIDT    FFESINT    FFIOEIN    
+  FFIOEIS    FFIORDR    FFIORPT    FFIPDIS    
+  FFOEIDR    FFOESIN    FFOESRN    FFOIPDI    
+  FFOIPRN    FFOIPRS    FFPIOEI    FFPIOES    
+  FFPTDIS    FFPTEDI    FFPTENI    FFPTNIS    
+  FFPTNRS    FFRNETR    FICPDIS    FICPDRS    
+  FICPRIN    FICPRIS    FIFESIN    FIOESIN    
+  FIOESRN    FIOFDIS    FIOFDRT    FIORDRT    
+  FIORNIS    FIORNTP    FIORNTR    FIPFEIS    
+  FIPRNIS    FIPTDIS    FIPTDRS    FIPTEDI    
+  FIPTENI    FIPTNIS    FIPTNRS    FOEISRP    
+  FOERPRT    FOESIDP    FOESIDR    FOESIDT    
+  FOESINT    FOESRDR    FOESRPR    FOESRPT    
+  FOICPDI    FOIPDIS    FOIPRIN    FOIPRIS    
+  FOIPTDI    FOIPTNI    FORESIN    FORNETR    
+  FORNTPR    FPRTDIS    FPRTNIS    FPRTNRS    
+  FPTENIS    IEOFIPT    IFDENIS    IFESIDR    
+  IFRNETR    INETPIO    INTRPRS    IOESIDR    
+  IORNETR    IPFESIN    IPTEDIS    IPTEDRS    
+  IPTENIS    IPTENRS    ISEFCPT    ISEFIPT    
+  ISEFPRT    ISEOFIP    ISEOIPT    ISEORPR    
+  ISEORPT    ISRNETR    NIEOFIP    NISEFPR    
+  NISEOIP    NISEORP    NTRPFES    OEINETP    
+  OEINETR    OESIDPR    OESIDPT    OESIDRT    
+  OESINDR    OESINTP    OESINTR    OESRPRT    
+  OICPDIS    PIFFERO    PRINTED    PRTENIS    
+  RDFFOES    RDFFORS    REPRINTED  SEFCIPT    
+  SEFFIPT    SEOFFDT    SEOFIPT    SEOICPT    
+  SRFCIPT    SRFFIPT    SROFIPT    SROICPT    
+English word matches (6 total):
+  DENIERS    FEINTED    FORESIN    PIFFERO    
+  PRINTED    REPRINTED  
+Brand matches (0 total): none

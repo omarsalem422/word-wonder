@@ -1,0 +1,690 @@
+Unique words across all solutions (3 total):
+  BASEMENT  DECK      SOFA      
+
+------------------------------------------------------------
+English words (filtered) (3 total):
+  BASEMENT  DECK      SOFA      
+
+------------------------------------------------------------
+Brand matches (filtered) (0 total): none
+
+------------------------------------------------------------
+Grid (grid.txt):
+TNES
+ECDO
+MKAF
+ESBA
+
+------------------------------------------------------------
+Pattern: ---- ---- --------
+
+------------------------------------------------------------
+Found 2 solution(s):
+
+Solution 1:     Solution 2:
+  SOFA            DECK
+  DECK            SOFA
+  BASEMENT        BASEMENT
+
+
+============================================================
+RELAXED MODE — Unvalidated candidate tilings
+These strings tile the grid correctly but are NOT confirmed
+as dictionary words or known brands. Review manually.
+
+============================================================
+Found 500 candidate tiling(s):
+
+Candidate 1:    Candidate 2:    Candidate 3:    Candidate 4:    Candidate 5:
+  SENT            SENT            SENT            SENT            SENT
+  DACE            MECK            CAKE            FACE            ACME
+  EKMSBAFO        AADOFBSE        DOFABSEM        ABSEMKDO        ABFODKES
+
+Candidate 6:    Candidate 7:    Candidate 8:    Candidate 9:    Candidate 10:
+  SENT            SENT            SENT            SENT            SENT
+  EMES            FAKE            SAKE            BAKE            EKES
+  AABFODCK        ABSEMCDO        ABFODCME        AFODCMES        AABFODCM
+
+Candidate 11:   Candidate 12:   Candidate 13:   Candidate 14:   Candidate 15:
+  SENT            SENT            SENT            SENT            SENT
+  CAKE            CASE            CABS            ABAC            FADO
+  DOFABSME        ABFODKEM        AFODKEME        EMESKDFO        ABKCEMES
+
+Candidate 16:   Candidate 17:   Candidate 18:   Candidate 19:   Candidate 20:
+  SENT            SENT            SENT            SENT            SENT
+  SADO            DASE            OAKS            ASEM            KAFA
+  AFBKCEME        CEMKBAFO        ABFDCEME        ABFODCEK        BSEMECDO
+
+Candidate 21:   Candidate 22:   Candidate 23:   Candidate 24:   Candidate 25:
+  SENT            SENT            SENT            SENT            SENT
+  SAKE            BASK            ACME            FABA            ABAS
+  ABFODCEM        AFODCEME        DOFABSKE        CEMESKDO        CEMEKDFO
+
+Candidate 26:   Candidate 27:   Candidate 28:   Candidate 29:   Candidate 30:
+  SENT            SENT            SENT            SENT            SENT
+  BAKE            BASE            FAKE            ECDO            CDKE
+  AFODCEMS        AFODCEKM        ABSMECDO        AAFBKEMS        AAOFBSEM
+
+Candidate 31:   Candidate 32:   Candidate 33:   Candidate 34:   Candidate 35:
+  SENT            SENT            SENT            SENT            SENT
+  ECDF            CEME            CEMS            CEKE            BKCE
+  ABKEMSAO        AABFODKS        AABFODKE        AADOFBSM        AFDOASEM
+
+Candidate 36:   Candidate 37:   Candidate 38:   Candidate 39:   Candidate 40:
+  SENT            SENT            SENT            SENT            SENT
+  ECAO            ECAS            BACE            AACE            DCEM
+  ABFDKEMS        ABFODKEM        AFODKEMS        BFODKEMS        AAKESBFO
+
+Candidate 41:   Candidate 42:   Candidate 43:   Candidate 44:   Candidate 45:
+  SENT            SENT            SENT            SENT            SENT
+  DKEM            AKEM            EKEM            BKEM            ASME
+  CAOFABSE        CDOFABSE        AACDOFBS        AFODCASE        ABFODCKE
+
+Candidate 46:   Candidate 47:   Candidate 48:   Candidate 49:   Candidate 50:
+  SENT            SENT            SENT            SENT            SENT
+  BSME            EKDO            ADKE            EKDF            EKAO
+  AAFODCKE        AACMESBF        CMESBAFO        ABSEMCAO        ABFDCMES
+
+Candidate 51:   Candidate 52:   Candidate 53:   Candidate 54:   Candidate 55:
+  SENT            SENT            SENT            SENT            SENT
+  AAKE            BSKE            EKBF            ABKE            ACDO
+  BFODCMES        AAFODCME        AAODCMES        AFODCMES        AFBKEMES
+
+Candidate 56:   Candidate 57:   Candidate 58:   Candidate 59:   Candidate 60:
+  SENT            SENT            SENT            SENT            SENT
+  CDFO            ACDK            CDKE            BKCD            CDAS
+  AABKEMES        EMESBAFO        AAOFBSME        AFOASEME        EMEKBAFO
+
+Candidate 61:   Candidate 62:   Candidate 63:   Candidate 64:   Candidate 65:
+  SENT            SENT            SENT            SENT            SENT
+  AACD            AFDC            CMES            CKDO            CKDF
+  EKEMSBFO        BKEMESAO        AABFODKE        AAFBSEME        EMESBAAO
+
+Candidate 66:   Candidate 67:   Candidate 68:   Candidate 69:   Candidate 70:
+  SENT            SENT            SENT            SENT            SENT
+  CKAO            AACK            ABKC            CAFO            AFAC
+  DFABSEME        DOFBSEME        DFOASEME        ABSEMEKD        BSEMEKDO
+
+Candidate 71:   Candidate 72:   Candidate 73:   Candidate 74:   Candidate 75:
+  SENT            SENT            SENT            SENT            SENT
+  DCME            AKDO            AADO            BFDO            AFDO
+  AAOFBSKE        AFBSEMCE        CEKEMSBF        AACEKEMS        ABKCEMES
+
+Candidate 76:   Candidate 77:   Candidate 78:   Candidate 79:   Candidate 80:
+  SENT            SENT            SENT            SENT            SENT
+  DKEM            AADK            DKES            BSKD            ABKD
+  ECAOFABS        CEMESBFO        ABFOACEM        AFOACEME        CEMESAFO
+
+Candidate 81:   Candidate 82:   Candidate 83:   Candidate 84:   Candidate 85:
+  SENT            SENT            SENT            SENT            SENT
+  ADCM            ADKE            ABFD            MCDO            MKDO
+  EKESBAFO        CEMSBAFO        CEKEMSAO        AAFBSEKE        ECAAFBSE
+
+Candidate 86:   Candidate 87:   Candidate 88:   Candidate 89:   Candidate 90:
+  SENT            SENT            SENT            SENT            SENT
+  EKDO            ODKS            BKDO            MCAO            MKAO
+  AACEMSBF        ABFACEME        AFACEMES        DFABSEKE        ECDFABSE
+
+Candidate 91:   Candidate 92:   Candidate 93:   Candidate 94:   Candidate 95:
+  SENT            SENT            SENT            SENT            SENT
+  EKAO            BKAO            AAFO            MSAO            ESAO
+  ABFDCEMS        AFDCEMES        BKDCEMES        ABFDCEKE        ABFDCEKM
+
+Candidate 96:   Candidate 97:   Candidate 98:   Candidate 99:   Candidate 100:
+  SENT            SENT            SENT            SENT            SENT
+  BSAO            ABAO            FODK            FOAK            FOAS
+  AFDCEKEM        CEMESKDF        AABSEMCE        ABSEMECD        ABKDCEME
+
+Candidate 101:  Candidate 102:  Candidate 103:  Candidate 104:  Candidate 105:
+  SENT            SENT            SENT            SENT            SENT
+  KBFO            OFBS            ABFO            FDCM            AACM
+  AADCEMES        AACDKEME        ACDKEMES        EKESBAAO        DOFBSEKE
+
+Candidate 106:  Candidate 107:  Candidate 108:  Candidate 109:  Candidate 110:
+  SENT            SENT            SENT            SENT            SENT
+  AAKM            EKMS            ABKM            AKEM            BKEM
+  ECDOFBSE        AABFODCE        ECDFOASE        ECDOFABS        ECDOFAAS
+
+Candidate 111:  Candidate 112:  Candidate 113:  Candidate 114:  Candidate 115:
+  SENT            SENT            SENT            SENT            SENT
+  BSEM            ABSM            AASM            FBSM            ABSM
+  AACEKDFO        AFODCEKE        BFODCEKE        AAODCEKE        AFODCEKE
+
+Candidate 116:  Candidate 117:  Candidate 118:  Candidate 119:  Candidate 120:
+  SENT            SENT            SENT            SENT            SENT
+  AFDK            AABK            BKES            AAKS            FBKS
+  BSEMECAO        ESMECDFO        AAFODCEM        BFODCEME        AAODCEME
+
+Candidate 121:  Candidate 122:  Candidate 123:  Candidate 124:  Candidate 125:
+  SENT            SENT            SENT            SENT            SENT
+  ABKS            AFBK            EKDF            ESAF            EKBF
+  AFODCEME        AODCEMES        ABSMECAO        ABKEMCDO        AAODCEMS
+
+Candidate 126:  Candidate 127:  Candidate 128:  Candidate 129:  Candidate 130:
+  SENT            SENT            SENT            SENT            SENT
+  ESBF            AFAS            AFBS            AAKE            ABKE
+  AACEMKDO        BKEMECDO        ACEMEKDO        BFODCEMS        AFODCEMS
+
+Candidate 131:  Candidate 132:  Candidate 133:  Candidate 134:  Candidate 135:
+  SENT            SENT            CENT            CENT            CENT
+  AASE            ABSE            ADOS            SOAK            SOFA
+  BFODCEKM        ACEMKDFO        AFBKEMES        DFABSEME        ABSEMEKD
+
+Candidate 136:  Candidate 137:  Candidate 138:  Candidate 139:  Candidate 140:
+  CENT            CENT            CENT            CENT            CENT
+  SOFA            EMES            DASE            ASEM            FABA
+  ABSEMEKD        AABFOSDK        EMKBAFOS        ABFOSDKE        EMESKDOS
+
+Candidate 141:  Candidate 142:  Candidate 143:  Candidate 144:  Candidate 145:
+  CENT            CENT            CENT            CENT            CENT
+  ABAS            BASE            DFOS            EKDS            AKDS
+  EMEKDFOS        AFOSDKEM        AABKEMES        AAOFBSEM        EMESBAFO
+
+Candidate 146:  Candidate 147:  Candidate 148:  Candidate 149:  Candidate 150:
+  CENT            CENT            CENT            CENT            CENT
+  EKDS            BKDS            SADS            AADS            AFDS
+  AAOFBSME        AFOASEME        EMEKBAFO        EKEMSBFO        BKEMESAO
+
+Candidate 151:  Candidate 152:  Candidate 153:  Candidate 154:  Candidate 155:
+  CENT            CENT            CENT            CENT            CENT
+  KDOS            SAOS            BAOS            AAOS            BFOS
+  AAFBSEME        ABFDKEME        AFDKEMES        BFDKEMES        AADKEMES
+
+Candidate 156:  Candidate 157:  Candidate 158:  Candidate 159:  Candidate 160:
+  CENT            CENT            CENT            CENT            CENT
+  DKEM            AKEM            EKEM            BKEM            ASME
+  ESAABFOS        DSOFABSE        AADSOFBS        AFDSOASE        ABFOSDKE
+
+Candidate 161:  Candidate 162:  Candidate 163:  Candidate 164:  Candidate 165:
+  CENT            CENT            CENT            CENT            CENT
+  BSME            ADKE            EKDF            EKAO            AAKE
+  AAFOSDKE        EMSBAFOS        EMSBAAOS        EMSBAFDS        DSOFBSEM
+
+Candidate 166:  Candidate 167:  Candidate 168:  Candidate 169:  Candidate 170:
+  CENT            CENT            CENT            CENT            CENT
+  ABKE            AADK            ABKD            ADKE            ABFD
+  DSOFASEM        EMESBFOS        EMESAFOS        EMSBAFOS        EKEMSAOS
+
+Candidate 171:  Candidate 172:  Candidate 173:  Candidate 174:  Candidate 175:
+  CENT            CENT            CENT            CENT            CENT
+  EKAO            AAFO            ESAO            ABFO            BSEM
+  EMSBAFDS        BSEMEKDS        EMKBAFDS        ASEMEKDS        AAFOSDKE
+
+Candidate 176:  Candidate 177:  Candidate 178:  Candidate 179:  Candidate 180:
+  CENT            CENT            CENT            CENT            CENT
+  AFDK            AFBK            EKDF            ESBF            AFBS
+  EMESBAOS        DSOASEME        EMSBAAOS        AAOSDKEM        AOSDKEME
+
+Candidate 181:  Candidate 182:  Candidate 183:  Candidate 184:  Candidate 185:
+  CENT            CENT            CENT            CENT            DENT
+  AAKE            ABKE            AASE            ABSE            SOAK
+  DSOFBSME        DSOFASME        BFOSDKEM        AFOSDKEM        AFBSEMCE
+
+Candidate 186:  Candidate 187:  Candidate 188:  Candidate 189:  Candidate 190:
+  DENT            DENT            DENT            DENT            DENT
+  SOFA            SOFA            MECK            CAKE            ACME
+  ABKCEMES        ABKCEMES        ESAABFOS        EMSBAFOS        EKSBAFOS
+
+Candidate 191:  Candidate 192:  Candidate 193:  Candidate 194:  Candidate 195:
+  DENT            DENT            DENT            DENT            DENT
+  EMES            EKES            CAKE            CASE            ASEM
+  AACKBFOS        MCAABFOS        EMSBAFOS        EMKBAFOS        CEKBAFOS
+
+Candidate 196:  Candidate 197:  Candidate 198:  Candidate 199:  Candidate 200:
+  DENT            DENT            DENT            DENT            DENT
+  ACME            CAOS            SAOS            AAOS            BFOS
+  EKSBAFOS        AFBKEMES        AFBKCEME        CEKEMSBF        AACEKEMS
+
+Candidate 201:  Candidate 202:  Candidate 203:  Candidate 204:  Candidate 205:
+  DENT            DENT            DENT            DENT            DENT
+  CEME            CEMS            CEKE            BKCE            ECAS
+  AAKSBFOS        EKAABFOS        MSAABFOS        EMSAAFOS        EMKBAFOS
+
+Candidate 206:  Candidate 207:  Candidate 208:  Candidate 209:  Candidate 210:
+  DENT            DENT            DENT            DENT            DENT
+  AACE            EKEM            BSME            AAKE            BSKE
+  EKMSBFOS        CASBAFOS        EKCAAFOS        CMESBFOS        EMCAAFOS
+
+Candidate 211:  Candidate 212:  Candidate 213:  Candidate 214:  Candidate 215:
+  DENT            DENT            DENT            DENT            DENT
+  ABKE            CMES            AACK            ABKC            AACM
+  CMESAFOS        EKAABFOS        EMESBFOS        EMESAFOS        EKESBFOS
+
+Candidate 216:  Candidate 217:  Candidate 218:  Candidate 219:  Candidate 220:
+  DENT            DENT            DENT            DENT            DENT
+  EKMS            BSEM            ABSM            BKES            ABKS
+  ECAABFOS        CEKAAFOS        EKECAFOS        EMCAAFOS        EMECAFOS
+
+Candidate 221:  Candidate 222:  Candidate 223:  Candidate 224:  Candidate 225:
+  DENT            DENT            DENT            DENT            DENT
+  AFBK            AFBS            AAKE            ABKE            AASE
+  CEMESAOS        CEMEKAOS        CEMSBFOS        CEMSAFOS        CEMKBFOS
+
+Candidate 226:  Candidate 227:  Candidate 228:  Candidate 229:  Candidate 230:
+  DENT            CENT            CENT            CENT            CENT
+  ABSE            DOES            FOES            SADE            SOAK
+  CEMKAFOS        AAFBKEMS        AABSEMKD        EMKBAFOS        EDFABSEM
+
+Candidate 231:  Candidate 232:  Candidate 233:  Candidate 234:  Candidate 235:
+  CENT            CENT            CENT            CENT            CENT
+  SOFA            SOFA            DASE            ASEM            FABA
+  ABSEMKDE        ABSEMKDE        ESOFABKM        ABFOESDK        EMSKDEOS
+
+Candidate 236:  Candidate 237:  Candidate 238:  Candidate 239:  Candidate 240:
+  CENT            CENT            CENT            CENT            CENT
+  ABAS            BASE            ESDK            ADES            ESDF
+  EMKDESOF        AFOESDKM        AAOFBSEM        EKMSBAFO        ABKEMSAO
+
+Candidate 241:  Candidate 242:  Candidate 243:  Candidate 244:  Candidate 245:
+  CENT            CENT            CENT            CENT            CENT
+  AOES            EDKM            AKDE            EDKE            BKDE
+  ABFDKEMS        ESAABFOS        EMSBAFOS        MSAABFOS        EMSAAFOS
+
+Candidate 246:  Candidate 247:  Candidate 248:  Candidate 249:  Candidate 250:
+  CENT            CENT            CENT            CENT            CENT
+  AADE            AFDE            EOAK            AFOE            EOAS
+  EKMSBFOS        BKEMSAOS        EMSBAFDS        ABSEMKDS        EMKBAFDS
+
+Candidate 251:  Candidate 252:  Candidate 253:  Candidate 254:  Candidate 255:
+  CENT            CENT            CENT            CENT            CENT
+  AAOE            BFOE            AFOE            MKDS            AKDS
+  EKMSBFDS        AASEMKDS        ABSEMKDS        EOAAFBSE        EMSBAFOE
+
+Candidate 256:  Candidate 257:  Candidate 258:  Candidate 259:  Candidate 260:
+  CENT            CENT            CENT            CENT            CENT
+  EKDS            BKDS            SADS            AADS            AFDS
+  EOAAFBSM        EMSAAFOE        EMKBAFOE        EKMSBFOE        BKEMSAOE
+
+Candidate 261:  Candidate 262:  Candidate 263:  Candidate 264:  Candidate 265:
+  CENT            CENT            CENT            CENT            CENT
+  SAOS            AAOS            BFOS            DKEM            AADK
+  EDFABKEM        EDFBKEMS        AASEMKDE        AASBFOES        EMSBFOES
+
+Candidate 266:  Candidate 267:  Candidate 268:  Candidate 269:  Candidate 270:
+  CENT            CENT            CENT            CENT            CENT
+  ABKD            ADKM            ADKE            DASM            ABFD
+  EMSAFOES        ESBAFOES        ESOFABSM        EKBAFOES        EKMSAOES
+
+Candidate 271:  Candidate 272:  Candidate 273:  Candidate 274:  Candidate 275:
+  CENT            CENT            CENT            CENT            CENT
+  MKAO            EKAO            AAFO            MSAO            ESAO
+  ESBAFDES        ESDFABSM        BSEMKDES        EKBAFDES        ESDFABKM
+
+Candidate 276:  Candidate 277:  Candidate 278:  Candidate 279:  Candidate 280:
+  CENT            CENT            CENT            CENT            CENT
+  ABFO            FDKM            AAKM            EKMS            ABKM
+  ASEMKDES        ESBAAOES        DESOFBSE        AABFDEOS        DESOFASE
+
+Candidate 281:  Candidate 282:  Candidate 283:  Candidate 284:  Candidate 285:
+  CENT            CENT            CENT            CENT            CENT
+  AKEM            BKEM            BSEM            ABSM            AASM
+  DESOFABS        AFDESOAS        AAFOESDK        AFOESDKE        BFOESDKE
+
+Candidate 286:  Candidate 287:  Candidate 288:  Candidate 289:  Candidate 290:
+  CENT            CENT            CENT            CENT            CENT
+  FBSM            ABSM            AFDK            AFBK            EKDF
+  AAOESDKE        AFOESDKE        EMSBAOES        DESOASEM        ESOAABSM
+
+Candidate 291:  Candidate 292:  Candidate 293:  Candidate 294:  Candidate 295:
+  CENT            CENT            CENT            CENT            CENT
+  ESBF            AFBS            AAKE            ABKE            AASE
+  AAOESDKM        AOESDKEM        DESOFBSM        DESOFASM        BFOESDKM
+
+Candidate 296:  Candidate 297:  Candidate 298:  Candidate 299:  Candidate 300:
+  CENT            MENT            MENT            MENT            MENT
+  ABSE            DOES            FOES            DECK            ACED
+  AFOESDKM        AACKESBF        AABSEKCD        ESAABFOS        EKSBAFOS
+
+Candidate 301:  Candidate 302:  Candidate 303:  Candidate 304:  Candidate 305:
+  MENT            MENT            MENT            MENT            MENT
+  FACE            SECK            ACES            CADS            ADOS
+  ABSEKDOS        AADOFBSE        ABFODKES        EKSBAFOE        AFBSEKCE
+
+Candidate 306:  Candidate 307:  Candidate 308:  Candidate 309:  Candidate 310:
+  MENT            MENT            MENT            MENT            MENT
+  FADS            BADS            SOAK            SOFA            SOFA
+  ABSEKCEO        AFOECKES        CEDFABSE        ABSEKCDE        ABSEKCDE
+
+Candidate 311:  Candidate 312:  Candidate 313:  Candidate 314:  Candidate 315:
+  MENT            MENT            MENT            MENT            MENT
+  CAKE            CASE            CABS            ABAC            FADO
+  DESOFABS        ABFOESDK        AFOESDKE        ESKDESOF        ABSEKCES
+
+Candidate 316:  Candidate 317:  Candidate 318:  Candidate 319:  Candidate 320:
+  MENT            MENT            MENT            MENT            MENT
+  DASE            DABS            SAKE            FABA            ABAS
+  ABFOSECK        AFOSECKE        ABFDCEOS        CEOSDKES        CESOFDKE
+
+Candidate 321:  Candidate 322:  Candidate 323:  Candidate 324:  Candidate 325:
+  MENT            MENT            MENT            MENT            MENT
+  BASE            CDES            ESDK            ADES            ESDF
+  AFDKCEOS        AAKESBFO        CAOFABSE        CKESBAFO        ABSEKCAO
+
+Candidate 326:  Candidate 327:  Candidate 328:  Candidate 329:  Candidate 330:
+  MENT            MENT            MENT            MENT            MENT
+  AOES            CEDF            AKCE            ECKE            BKCE
+  ABFDCKES        ABKESAOS        DSOFABSE        AADSOFBS        AFDSOASE
+
+Candidate 331:  Candidate 332:  Candidate 333:  Candidate 334:  Candidate 335:
+  MENT            MENT            MENT            MENT            MENT
+  ACEO            ECAS            BACE            AACE            EDKE
+  AFBSEKDS        ABFOSDKE        AFOSDKES        BFOSDKES        CASBAFOS
+
+Candidate 336:  Candidate 337:  Candidate 338:  Candidate 339:  Candidate 340:
+  MENT            MENT            MENT            MENT            MENT
+  AADE            AFDE            AFOE            AAOE            BFOE
+  CKESBFOS        BSEKCAOS        ABSEKCDS        CKESBFDS        AASEKCDS
+
+Candidate 341:  Candidate 342:  Candidate 343:  Candidate 344:  Candidate 345:
+  MENT            MENT            MENT            MENT            MENT
+  AFOE            CKDS            DFOS            AKDS            EKDS
+  ABSEKCDS        EOAAFBSE        AABSEKCE        CEOFABSE        AACEOFBS
+
+Candidate 346:  Candidate 347:  Candidate 348:  Candidate 349:  Candidate 350:
+  MENT            MENT            MENT            MENT            MENT
+  BKDS            SADS            AADS            BFDS            AFDS
+  AFOECASE        ABFOECKE        BFOECKES        AAOECKES        ABSEKCEO
+
+Candidate 351:  Candidate 352:  Candidate 353:  Candidate 354:  Candidate 355:
+  MENT            MENT            MENT            MENT            MENT
+  CEOS            KDOS            CAOS            SAOS            BAOS
+  AABFDKES        ECAAFBSE        AFBSEKDE        ABFDECKE        AFDECKES
+
+Candidate 356:  Candidate 357:  Candidate 358:  Candidate 359:  Candidate 360:
+  MENT            MENT            MENT            MENT            MENT
+  AAOS            BFOS            CEOF            ACDK            CDKE
+  BFDECKES        AACEDKES        AABSEKDS        ESBAFOES        AASBFOES
+
+Candidate 361:  Candidate 362:  Candidate 363:  Candidate 364:  Candidate 365:
+  MENT            MENT            MENT            MENT            MENT
+  BKCD            CDAS            AACD            AFDC            CKDF
+  ESAAFOES        EKBAFOES        EKSBFOES        BKESAOES        ESBAAOES
+
+Candidate 366:  Candidate 367:  Candidate 368:  Candidate 369:  Candidate 370:
+  MENT            MENT            MENT            MENT            MENT
+  CKAO            AACK            CKES            ABKC            CAFO
+  ESBAFDES        DESOFBSE        AABFDEOS        DESOFASE        ABSEKDES
+
+Candidate 371:  Candidate 372:  Candidate 373:  Candidate 374:  Candidate 375:
+  MENT            MENT            MENT            MENT            MENT
+  AFAC            AADO            BFDO            AFDO            AADK
+  BSEKDEOS        FBSEKCES        AASEKCES        ABSEKCES        CESOFBSE
+
+Candidate 376:  Candidate 377:  Candidate 378:  Candidate 379:  Candidate 380:
+  MENT            MENT            MENT            MENT            MENT
+  DKES            ABKD            ADKE            AADF            ABAD
+  AABFOSEC        CESOFASE        CESOFABS        BSEKCEOS        ESKCESOF
+
+Candidate 381:  Candidate 382:  Candidate 383:  Candidate 384:  Candidate 385:
+  MENT            MENT            MENT            MENT            MENT
+  DFBS            ABFD            KCEO            EKDO            EKAO
+  AAOSECKE        AOSECKES        ESAABFDS        AFBSACES        CESDFABS
+
+Candidate 386:  Candidate 387:  Candidate 388:  Candidate 389:  Candidate 390:
+  MENT            MENT            MENT            MENT            MENT
+  AAFO            ESAO            BSAO            ABAO            FODK
+  BSEKCDES        ABFDKCES        AFDSECKE        ESKCESDF        ESBAACES
+
+Candidate 391:  Candidate 392:  Candidate 393:  Candidate 394:  Candidate 395:
+  MENT            MENT            MENT            MENT            MENT
+  OFBS            ABFO            AFDK            BKES            AFBK
+  AACESDKE        ACESDKES        CESOABSE        AACDESOF        CDESOASE
+
+Candidate 396:  Candidate 397:  Candidate 398:  Candidate 399:  Candidate 400:
+  MENT            MENT            MENT            MENT            MENT
+  EKDF            ESAF            ESBF            AFBS            AAKE
+  ABSACEOS        ABKCDEOS        AACEOSDK        ACEOSDKE        CDESOFBS
+
+Candidate 401:  Candidate 402:  Candidate 403:  Candidate 404:  Candidate 405:
+  MENT            MENT            MENT            KENT            KENT
+  ABKE            AASE            ABSE            DOES            FOES
+  CDESOFAS        BFDKCEOS        ACESOFDK        AACMESBF        AABSEMCD
+
+Candidate 406:  Candidate 407:  Candidate 408:  Candidate 409:  Candidate 410:
+  KENT            KENT            KENT            KENT            KENT
+  ACED            ACES            CADS            ADOS            FADS
+  EMSBAFOS        DOFABSEM        EMSBAFOE        AFBSEMCE        ABSEMCEO
+
+Candidate 411:  Candidate 412:  Candidate 413:  Candidate 414:  Candidate 415:
+  KENT            KENT            KENT            KENT            KENT
+  BADS            SOFA            SOFA            FADO            DASE
+  AFOECMES        ABSEMCDE        ABSEMCDE        ABSEMCES        ABFOSECM
+
+Candidate 416:  Candidate 417:  Candidate 418:  Candidate 419:  Candidate 420:
+  KENT            KENT            KENT            KENT            KENT
+  DABS            ASEM            ACME            FABA            ABAS
+  AFOSECME        ABFDCEOS        DESOFABS        DOSECMES        DFOSECME
+
+Candidate 421:  Candidate 422:  Candidate 423:  Candidate 424:  Candidate 425:
+  KENT            KENT            KENT            KENT            KENT
+  BASE            CDES            ADES            ESDF            AOES
+  AFDOSECM        AAOFBSEM        CMESBAFO        ABSEMCAO        ABFDCMES
+
+Candidate 426:  Candidate 427:  Candidate 428:  Candidate 429:  Candidate 430:
+  KENT            KENT            KENT            KENT            KENT
+  CEDF            ECME            ACEO            AACE            DECM
+  EMSBAAOS        AADSOFBS        EMSBAFDS        DSOFBSEM        ESAABFOS
+
+Candidate 431:  Candidate 432:  Candidate 433:  Candidate 434:  Candidate 435:
+  KENT            KENT            KENT            KENT            KENT
+  AADE            AFDE            AFOE            AAOE            BFOE
+  CMESBFOS        BSEMCAOS        ABSEMCDS        CMESBFDS        AASEMCDS
+
+Candidate 436:  Candidate 437:  Candidate 438:  Candidate 439:  Candidate 440:
+  KENT            KENT            KENT            KENT            KENT
+  AFOE            MCES            MCDS            DFOS            SADS
+  ABSEMCDS        AADOFBSE        EOAAFBSE        AABSEMCE        ABFOECME
+
+Candidate 441:  Candidate 442:  Candidate 443:  Candidate 444:  Candidate 445:
+  KENT            KENT            KENT            KENT            KENT
+  AADS            BFDS            AFDS            CEOS            CAOS
+  BFOECMES        AAOECMES        ABSEMCEO        AADFBSEM        EDFABSEM
+
+Candidate 446:  Candidate 447:  Candidate 448:  Candidate 449:  Candidate 450:
+  KENT            KENT            KENT            KENT            KENT
+  SAOS            BAOS            AAOS            BFOS            CEOF
+  ABFDECME        AFDECMES        BFDECMES        AADECMES        EMSBAADS
+
+Candidate 451:  Candidate 452:  Candidate 453:  Candidate 454:  Candidate 455:
+  KENT            KENT            KENT            KENT            KENT
+  AACD            AFDC            CMES            DCME            AADO
+  EMSBFOES        EMSBAOES        AABFDEOS        AASBFOES        FBSEMCES
+
+Candidate 456:  Candidate 457:  Candidate 458:  Candidate 459:  Candidate 460:
+  KENT            KENT            KENT            KENT            KENT
+  BFDO            AFDO            ADCM            AADF            ABAD
+  AASEMCES        ABSEMCES        ESBAFOES        BSEMCEOS        ESMCESOF
+
+Candidate 461:  Candidate 462:  Candidate 463:  Candidate 464:  Candidate 465:
+  KENT            KENT            KENT            KENT            KENT
+  DFBS            ABFD            MCEO            MCAO            AAFO
+  AAOSECME        AOSECMES        ESAABFDS        ESBAFDES        BSEMCDES
+
+Candidate 466:  Candidate 467:  Candidate 468:  Candidate 469:  Candidate 470:
+  KENT            KENT            KENT            KENT            KENT
+  ESAO            BSAO            ABAO            OFBS            ABFO
+  ABFDSECM        AFDSECME        ESMCESDF        AADSECME        ADSECMES
+
+Candidate 471:  Candidate 472:  Candidate 473:  Candidate 474:  Candidate 475:
+  KENT            KENT            KENT            KENT            KENT
+  FDCM            AACM            BSEM            ESBF            AFBS
+  ESBAAOES        DESOFBSE        AACDESOF        AADOSECM        ADOSECME
+
+Candidate 476:  Candidate 477:  Candidate 478:  Candidate 479:  Candidate 480:
+  KENT            KENT            TEND            TEND            TEND
+  AASE            ABSE            FOES            SECK            ACES
+  BFDOSECM        ADFOSECM        AABKCMES        AAOFBSEM        EKMSBAFO
+
+Candidate 481:  Candidate 482:  Candidate 483:  Candidate 484:  Candidate 485:
+  TEND            TEND            TEND            TEND            TEND
+  SOAK            SOFA            SOFA            CAKE            CASE
+  AFBSEMCE        ABKESMCE        ABKESMCE        ESOFABSM        ESOFABKM
+
+Candidate 486:  Candidate 487:  Candidate 488:  Candidate 489:  Candidate 490:
+  TEND            TEND            TEND            TEND            TEND
+  ASEM            KAFA            SAKE            BASK            ACME
+  ABFOSECK        BSEMCEOS        ABFOSECM        AFOSECME        ESOFABKS
+
+Candidate 491:  Candidate 492:  Candidate 493:  Candidate 494:  Candidate 495:
+  TEND            TEND            TEND            TEND            TEND
+  FABA            ABAS            BAKE            BASE            FAKE
+  EKSMCEOS        EKMCESOF        AFOSECMS        AFOSECKM        ABSMCEOS
+
+Candidate 496:  Candidate 497:  Candidate 498:  Candidate 499:  Candidate 500:
+  TEND            TEND            TEND            TEND            TEND
+  AOES            ECKM            ECME            ECMS            AKCE
+  AFBKCMES        ESAABFOS        AAKSBFOS        EKAABFOS        EMSBAFOS
+
+
+Unique candidate strings (551 total):
+  AABFDEOS  AABFDKES  AABFODCE  AABFODCK  
+  AABFODCM  AABFODKE  AABFODKS  AABFOSDK  
+  AABFOSEC  AABK      AABKCMES  AABKEMES  
+  AABSEKCD  AABSEKCE  AABSEKDS  AABSEMCD  
+  AABSEMCE  AABSEMKD  AACD      AACDESOF  
+  AACDKEME  AACDOFBS  AACE      AACEDKES  
+  AACEKDFO  AACEKEMS  AACEMKDO  AACEMSBF  
+  AACEOFBS  AACEOSDK  AACESDKE  AACK      
+  AACKBFOS  AACKESBF  AACM      AACMESBF  
+  AADCEMES  AADE      AADECMES  AADF      
+  AADFBSEM  AADK      AADKEMES  AADO      
+  AADOFBSE  AADOFBSM  AADOSECM  AADS      
+  AADSECME  AADSOFBS  AAFBKEMS  AAFBSEKE  
+  AAFBSEME  AAFO      AAFODCEM  AAFODCKE  
+  AAFODCME  AAFOESDK  AAFOSDKE  AAKE      
+  AAKESBFO  AAKM      AAKS      AAKSBFOS  
+  AAODCEKE  AAODCEME  AAODCEMS  AAODCMES  
+  AAOE      AAOECKES  AAOECMES  AAOESDKE  
+  AAOESDKM  AAOFBSEM  AAOFBSKE  AAOFBSME  
+  AAOS      AAOSDKEM  AAOSECKE  AAOSECME  
+  AASBFOES  AASE      AASEKCDS  AASEKCES  
+  AASEMCDS  AASEMCES  AASEMKDE  AASEMKDS  
+  AASM      ABAC      ABAD      ABAO      
+  ABAS      ABFACEME  ABFD      ABFDCEKE  
+  ABFDCEKM  ABFDCEME  ABFDCEMS  ABFDCEOS  
+  ABFDCKES  ABFDCMES  ABFDECKE  ABFDECME  
+  ABFDKCES  ABFDKEME  ABFDKEMS  ABFDSECM  
+  ABFO      ABFOACEM  ABFODCEK  ABFODCEM  
+  ABFODCKE  ABFODCME  ABFODKEM  ABFODKES  
+  ABFOECKE  ABFOECME  ABFOESDK  ABFOSDKE  
+  ABFOSECK  ABFOSECM  ABKC      ABKCDEOS  
+  ABKCEMES  ABKD      ABKDCEME  ABKE      
+  ABKEMCDO  ABKEMSAO  ABKESAOS  ABKESMCE  
+  ABKM      ABKS      ABSACEOS  ABSE      
+  ABSEKCAO  ABSEKCDE  ABSEKCDS  ABSEKCEO  
+  ABSEKCES  ABSEKDES  ABSEKDOS  ABSEMCAO  
+  ABSEMCDE  ABSEMCDO  ABSEMCDS  ABSEMCEO  
+  ABSEMCES  ABSEMECD  ABSEMEKD  ABSEMKDE  
+  ABSEMKDO  ABSEMKDS  ABSM      ABSMCEOS  
+  ABSMECAO  ABSMECDO  ACDK      ACDKEMES  
+  ACDO      ACED      ACEMEKDO  ACEMKDFO  
+  ACEO      ACEOSDKE  ACES      ACESDKES  
+  ACESOFDK  ACME      ADCM      ADES      
+  ADFOSECM  ADKE      ADKM      ADOS      
+  ADOSECME  ADSECMES  AFAC      AFACEMES  
+  AFAS      AFBK      AFBKCEME  AFBKCMES  
+  AFBKEMES  AFBS      AFBSACES  AFBSEKCE  
+  AFBSEKDE  AFBSEKDS  AFBSEMCE  AFDC      
+  AFDCEKEM  AFDCEMES  AFDE      AFDECKES  
+  AFDECMES  AFDESOAS  AFDK      AFDKCEOS  
+  AFDKEMES  AFDO      AFDOASEM  AFDOSECM  
+  AFDS      AFDSECKE  AFDSECME  AFDSOASE  
+  AFOACEME  AFOASEME  AFODCASE  AFODCEKE  
+  AFODCEKM  AFODCEME  AFODCEMS  AFODCMES  
+  AFODKEME  AFODKEMS  AFOE      AFOECASE  
+  AFOECKES  AFOECMES  AFOESDKE  AFOESDKM  
+  AFOSDKEM  AFOSDKES  AFOSECKE  AFOSECKM  
+  AFOSECME  AFOSECMS  AKCE      AKDE      
+  AKDO      AKDS      AKEM      AODCEMES  
+  AOES      AOESDKEM  AOSDKEME  AOSECKES  
+  AOSECMES  ASEM      ASEMEKDS  ASEMKDES  
+  ASME      BACE      BADS      BAKE      
+  BAOS      BASE      BASK      BFDECKES  
+  BFDECMES  BFDKCEOS  BFDKEMES  BFDO      
+  BFDOSECM  BFDS      BFODCEKE  BFODCEKM  
+  BFODCEME  BFODCEMS  BFODCMES  BFODKEMS  
+  BFOE      BFOECKES  BFOECMES  BFOESDKE  
+  BFOESDKM  BFOS      BFOSDKEM  BFOSDKES  
+  BKAO      BKCD      BKCE      BKDCEMES  
+  BKDE      BKDO      BKDS      BKEM      
+  BKEMECDO  BKEMESAO  BKEMSAOE  BKEMSAOS  
+  BKES      BKESAOES  BSAO      BSEKCAOS  
+  BSEKCDES  BSEKCEOS  BSEKDEOS  BSEM      
+  BSEMCAOS  BSEMCDES  BSEMCEOS  BSEMECAO  
+  BSEMECDO  BSEMEKDO  BSEMEKDS  BSEMKDES  
+  BSKD      BSKE      BSME      CABS      
+  CADS      CAFO      CAKE      CAOFABSE  
+  CAOS      CASBAFOS  CASE      CDAS      
+  CDES      CDESOASE  CDESOFAS  CDESOFBS  
+  CDFO      CDKE      CDOFABSE  CEDF      
+  CEDFABSE  CEKAAFOS  CEKBAFOS  CEKE      
+  CEKEMSAO  CEKEMSBF  CEME      CEMEKAOS  
+  CEMEKDFO  CEMESAFO  CEMESAOS  CEMESBFO  
+  CEMESKDF  CEMESKDO  CEMKAFOS  CEMKBAFO  
+  CEMKBFOS  CEMS      CEMSAFOS  CEMSBAFO  
+  CEMSBFOS  CENT      CEOF      CEOFABSE  
+  CEOS      CEOSDKES  CESDFABS  CESOABSE  
+  CESOFABS  CESOFASE  CESOFBSE  CESOFDKE  
+  CKAO      CKDF      CKDO      CKDS      
+  CKES      CKESBAFO  CKESBFDS  CKESBFOS  
+  CMES      CMESAFOS  CMESBAFO  CMESBFDS  
+  CMESBFOS  DABS      DACE      DASE      
+  DASM      DCEM      DCME      DECK      
+  DECM      DENT      DESOASEM  DESOFABS  
+  DESOFASE  DESOFASM  DESOFBSE  DESOFBSM  
+  DFABSEKE  DFABSEME  DFBS      DFOASEME  
+  DFOS      DFOSECME  DKEM      DKES      
+  DOES      DOFABSEM  DOFABSKE  DOFABSME  
+  DOFBSEKE  DOFBSEME  DOSECMES  DSOASEME  
+  DSOFABSE  DSOFASEM  DSOFASME  DSOFBSEM  
+  DSOFBSME  ECAABFOS  ECAAFBSE  ECAO      
+  ECAOFABS  ECAS      ECDF      ECDFABSE  
+  ECDFOASE  ECDO      ECDOFAAS  ECDOFABS  
+  ECDOFBSE  ECKE      ECKM      ECME      
+  ECMS      EDFABKEM  EDFABSEM  EDFBKEMS  
+  EDKE      EDKM      EKAABFOS  EKAO      
+  EKBAFDES  EKBAFOES  EKBF      EKCAAFOS  
+  EKDF      EKDO      EKDS      EKECAFOS  
+  EKEM      EKEMSAOS  EKEMSBFO  EKES      
+  EKESBAAO  EKESBAFO  EKESBFOS  EKMCESOF  
+  EKMS      EKMSAOES  EKMSBAFO  EKMSBFDS  
+  EKMSBFOE  EKMSBFOS  EKSBAFOE  EKSBAFOS  
+  EKSBFOES  EKSMCEOS  EMCAAFOS  EMECAFOS  
+  EMEKBAFO  EMEKDFOS  EMES      EMESAFOS  
+  EMESBAAO  EMESBAFO  EMESBAOS  EMESBFOS  
+  EMESKDFO  EMESKDOS  EMKBAFDS  EMKBAFOE  
+  EMKBAFOS  EMKDESOF  EMSAAFOE  EMSAAFOS  
+  EMSAFOES  EMSBAADS  EMSBAAOS  EMSBAFDS  
+  EMSBAFOE  EMSBAFOS  EMSBAOES  EMSBFOES  
+  EMSKDEOS  EOAAFBSE  EOAAFBSM  EOAK      
+  EOAS      ESAABFDS  ESAABFOS  ESAAFOES  
+  ESAF      ESAO      ESBAACES  ESBAAOES  
+  ESBAFDES  ESBAFOES  ESBF      ESDF      
+  ESDFABKM  ESDFABSM  ESDK      ESKCESDF  
+  ESKCESOF  ESKDESOF  ESMCESDF  ESMCESOF  
+  ESMECDFO  ESOAABSM  ESOFABKM  ESOFABKS  
+  ESOFABSM  FABA      FACE      FADO      
+  FADS      FAKE      FBKS      FBSEKCES  
+  FBSEMCES  FBSM      FDCM      FDKM      
+  FOAK      FOAS      FODK      FOES      
+  KAFA      KBFO      KCEO      KDOS      
+  KENT      MCAABFOS  MCAO      MCDO      
+  MCDS      MCEO      MCES      MECK      
+  MENT      MKAO      MKDO      MKDS      
+  MSAABFOS  MSAO      OAKS      ODKS      
+  OFBS      SADE      SADO      SADS      
+  SAKE      SAOS      SECK      SENT      
+  SOAK      SOFA      TEND      
+English word matches (43 total):
+  ABAC  ABAS  ACED  ACES  
+  ACME  ADOS  ASEM  BADS  
+  BAKE  BASE  BASK  CABS  
+  CADS  CAKE  CASE  CENT  
+  DABS  DACE  DASE  DECK  
+  DENT  DOES  EKES  EMES  
+  FABA  FACE  FADO  FADS  
+  FAKE  FOES  KAFA  KENT  
+  MECK  MENT  OAKS  SADE  
+  SADO  SAKE  SECK  SENT  
+  SOAK  SOFA  TEND  
+Brand matches (0 total): none

@@ -1,0 +1,685 @@
+Unique words across all solutions (4 total):
+  CLOCK   CLOSET  FLESH   SHELF   
+
+------------------------------------------------------------
+English words (filtered) (4 total):
+  CLOCK   CLOSET  FLESH   SHELF   
+
+------------------------------------------------------------
+Brand matches (filtered) (0 total): none
+
+------------------------------------------------------------
+Grid (grid.txt):
+CTEC
+KOSL
+HLLO
+SECF
+
+------------------------------------------------------------
+Pattern: ----- ----- ------
+
+------------------------------------------------------------
+Found 4 solution(s):
+
+Solution 1:     Solution 2:     Solution 3:     Solution 4:
+  SHELF           CLOCK           CLOCK           FLESH
+  CLOCK           SHELF           FLESH           CLOCK
+  CLOSET          CLOSET          CLOSET          CLOSET
+
+
+============================================================
+RELAXED MODE — Unvalidated candidate tilings
+These strings tile the grid correctly but are NOT confirmed
+as dictionary words or known brands. Review manually.
+
+============================================================
+Found 499 candidate tiling(s):
+
+Candidate 1:    Candidate 2:    Candidate 3:    Candidate 4:    Candidate 5:
+  COSET           COSET           COSET           COSET           COSET
+  FLESH           CLLLK           CLLLS           CLLFO           CLLES
+  CLOCLK          FOCEHS          FOCEHK          CEHKLS          FOCLHK
+
+Candidate 6:    Candidate 7:    Candidate 8:    Candidate 9:    Candidate 10:
+  COSET           COSET           COSET           COSET           COSET
+  CLOLL           CLOLE           CLOCL           CLOCE           CFOLC
+  FCESHK          FCLKHS          FLESHK          FLLKHS          ELLKHS
+
+Candidate 11:   Candidate 12:   Candidate 13:   Candidate 14:   Candidate 15:
+  COSET           COSET           COSET           COSET           COSET
+  FLLHK           EHKLS           FCLHK           KHSLL           CLKHS
+  CLOCES          CFLOLC          CLOLES          CLOFCE          CLOFLE
+
+Candidate 16:   Candidate 17:   Candidate 18:   Candidate 19:   Candidate 20:
+  COSET           COSET           COSET           COSET           COSET
+  KHSEL           CESHK           FLEHK           FCEHK           FOCLK
+  CLOFCL          CLOFLL          CLOCLS          CLOLLS          CLLEHS
+
+Candidate 21:   Candidate 22:   Candidate 23:   Candidate 24:   Candidate 25:
+  COSET           COSET           COSET           STOCK           STOCK
+  FCEHS           FOCLS           FOCES           CELLO           HELLS
+  CLOLLK          CLLEHK          CLLLHK          EHSLCF          CELOCF
+
+Candidate 26:   Candidate 27:   Candidate 28:   Candidate 29:   Candidate 30:
+  STOCK           STOCK           STOCK           STOCK           STOCK
+  FLESH           CELLL           CELLE           CELLF           CELOC
+  CELOCL          FOCEHS          FOCLHS          EHSLCO          EHSLLF
+
+Candidate 31:   Candidate 32:   Candidate 33:   Candidate 34:   Candidate 35:
+  STOCK           STOCK           STOCK           STOCK           STOCK
+  CELOF           CEHLS           FOCLH           FLLHS           FCLHS
+  CEHSLL          CELLFO          CELLES          CELOCE          CELOLE
+
+Candidate 36:   Candidate 37:   Candidate 38:   Candidate 39:   Candidate 40:
+  STOCK           STOCK           STOCK           STOCK           SLOCK
+  FCEHS           FOCEH           FOCLS           FOCES           FLESH
+  CELOLL          CELLLS          CELLEH          CELLLH          COLCET
+
+Candidate 41:   Candidate 42:   Candidate 43:   Candidate 44:   Candidate 45:
+  SLOCK           SLOCK           SLOCK           SLOCK           SLOCK
+  LLCET           OLCET           CLEHS           HSECO           FCEHS
+  FOCEHS          CFLEHS          FOLCET          FLLCET          LOLCET
+
+Candidate 46:   Candidate 47:   Candidate 48:   Candidate 49:   Candidate 50:
+  SLOCK           SLOCK           SHOCK           SHOCK           SHOCK
+  OLCET           CEHLS           COLET           CELLO           CELLS
+  EHSLCF          FOLCET          CSLELF          FCELST          FOLCET
+
+Candidate 51:   Candidate 52:   Candidate 53:   Candidate 54:   Candidate 55:
+  SHOCK           SHOCK           SHOCK           SHOCK           SHOCK
+  SOCLE           CELST           CETSL           CETSL           CETSO
+  FLLCET          CELLFO          CELFOL          ELCFOL          ELCFLL
+
+Candidate 56:   Candidate 57:   Candidate 58:   Candidate 59:   Candidate 60:
+  SHOCK           SHOCK           SHOCK           SHOCK           SHOCK
+  LLCET           OLCET           ETSLL           ELSET           CLSET
+  CELSOF          CELSLF          CLOFCE          CFLOLC          CLOFLE
+
+Candidate 61:   Candidate 62:   Candidate 63:   Candidate 64:   Candidate 65:
+  SHOCK           SHOCK           SHOCK           SHOCK           SHOCK
+  ELSET           ETSLF           ETSOF           LLLET           LOLET
+  CLOFCL          CLOCEL          CELLLC          CSOFCE          CSLECF
+
+Candidate 66:   Candidate 67:   Candidate 68:   Candidate 69:   Candidate 70:
+  SHOCK           SHOCK           SHOCK           SHOCK           SHOCK
+  ELLET           FLLET           FOLET           ELLST           FLLST
+  CSLCFO          CSLECO          CELLSC          CELOCF          CELOCE
+
+Candidate 71:   Candidate 72:   Candidate 73:   Candidate 74:   Candidate 75:
+  SHOCK           SHOCK           SHOCK           SHOCK           SHOCK
+  CELST           FCLST           CFOST           CELLL           CELLE
+  CELLFO          CELOLE          CELLEL          ECFOST          FOCLST
+
+Candidate 76:   Candidate 77:   Candidate 78:   Candidate 79:   Candidate 80:
+  SHOCK           SHOCK           SHOCK           SHOCK           SHOCK
+  CELLF           CELOC           CELOF           CSLEL           CSLLF
+  ELCOST          FLELST          CELLST          CFOLET          ECOLET
+
+Candidate 81:   Candidate 82:   Candidate 83:   Candidate 84:   Candidate 85:
+  SHOCK           SHOCK           SHOCK           SHOCK           SHOCK
+  CELSC           CSLCF           CFOSC           CLLEL           CLLFO
+  FLOLET          ELOLET          ELLLET          CFOSET          CELSET
+
+Candidate 86:   Candidate 87:   Candidate 88:   Candidate 89:   Candidate 90:
+  SHOCK           SHOCK           SHOCK           SHOCK           SHOCK
+  CLOLE           CLOCE           CFOLC           ELSLF           FCELS
+  ETSLCF          ETSLLF          ELLSET          COLCET          LOLCET
+
+Candidate 91:   Candidate 92:   Candidate 93:   Candidate 94:   Candidate 95:
+  SHOCK           SHOCK           SHOCK           SHOCK           SHOCK
+  CFOSL           ECFOS           CELLL           CFLLO           ELCOL
+  ELLCET          LLLCET          CETSOF          CETSLE          CETSLF
+
+Candidate 96:   Candidate 97:   Candidate 98:   Candidate 99:   Candidate 100:
+  SHOCK           SHOCK           SHOCK           SHOCK           SHOCK
+  ELFOL           LCFOL           ECFOL           CELLF           ELCFO
+  CETSLC          CETSLE          CETSLL          CLOSET          CELLST
+
+Candidate 101:  Candidate 102:  Candidate 103:  Candidate 104:  Candidate 105:
+  SHOCK           SHOCK           SLOCK           SLOCK           SLOCK
+  CELFO           ELSOF           CELST           CETSL           CETSO
+  CLETSL          CLLCET          CFOLEH          HECFOL          HECFLL
+
+Candidate 106:  Candidate 107:  Candidate 108:  Candidate 109:  Candidate 110:
+  SLOCK           SLOCK           SLOCK           SLOCK           SLOCK
+  LLCET           OLCET           ETSLF           ETSOF           FLLET
+  HECFOS          HECFLS          CLOCEH          CLLCEH          CSOCEH
+
+Candidate 111:  Candidate 112:  Candidate 113:  Candidate 114:  Candidate 115:
+  SLOCK           SLOCK           SLOCK           SLOCK           SLOCK
+  FOLET           HELST           CFOST           CELLF           CELOF
+  CSLCEH          CELOCF          CELLEH          HECOST          HECLST
+
+Candidate 116:  Candidate 117:  Candidate 118:  Candidate 119:  Candidate 120:
+  SLOCK           SLOCK           SLOCK           SLOCK           SLOCK
+  CSLEH           CFOSC           CLLEH           CFOLC           HECLS
+  CFOLET          HELLET          CFOSET          ETSLEH          FOLCET
+
+Candidate 121:  Candidate 122:  Candidate 123:  Candidate 124:  Candidate 125:
+  SLOCK           SLOCK           SLOCK           SLOCK           SLOCK
+  HECOS           HECLL           HECOL           CFLEH           FOCEH
+  FLLCET          CETSOF          CETSLF          CLOSET          CELLST
+
+Candidate 126:  Candidate 127:  Candidate 128:  Candidate 129:  Candidate 130:
+  CLOCK           CLOCK           CLOCK           CLOCK           CLOCK
+  SHELL           CELST           ETSOF           FOLET           CELOF
+  CETSOF          FOLEHS          CLLEHS          CSLEHS          HSELST
+
+Candidate 131:  Candidate 132:  Candidate 133:  Candidate 134:  Candidate 135:
+  CLOCK           CLOCK           CLOCK           CLOCK           FLOCK
+  HSELS           FOLET           CELOF           EHSLS           COLET
+  FOLCET          CSLEHS          EHSLST          FOLCET          CSLEHS
+
+Candidate 136:  Candidate 137:  Candidate 138:  Candidate 139:  Candidate 140:
+  FLOCK           FLOCK           FLOCK           FLOCK           FLOCK
+  CELST           CETSL           OLCET           ETSLH           ETSLS
+  EHSLCO          HSECOL          CEHSLS          CLOCES          CLOCEH
+
+Candidate 141:  Candidate 142:  Candidate 143:  Candidate 144:  Candidate 145:
+  FLOCK           FLOCK           FLOCK           FLOCK           FLOCK
+  HSLST           CELOC           CSLHS           CLOCE           EHSLS
+  CELOCE          EHSLST          ECOLET          ETSLHS          COLCET
+
+Candidate 146:  Candidate 147:  Candidate 148:  Candidate 149:  Candidate 150:
+  FLOCK           FLOCK           FLOCK           FLOCK           COSEC
+  HECOL           LOCES           CEHLS           HSECO           SHELL
+  CETSLS          CETSLH          CLOSET          CLETSL          FOCLKT
+
+Candidate 151:  Candidate 152:  Candidate 153:  Candidate 154:  Candidate 155:
+  COSEC           COSEC           COSEC           COSEC           COSEC
+  LOLLS           FLESH           LLHKT           HSLKT           CLHKT
+  FCEHKT          LOCLKT          LOFCES          CELFOL          FOLLES
+
+Candidate 156:  Candidate 157:  Candidate 158:  Candidate 159:  Candidate 160:
+  COSEC           COSEC           COSEC           COSEC           COSEC
+  ESHKT           LEHKT           CEHKT           LLLKT           FLLKT
+  CFOLLL          LOFCLS          FOLLLS          FOCEHS          HSECOL
+
+Candidate 161:  Candidate 162:  Candidate 163:  Candidate 164:  Candidate 165:
+  COSEC           COSEC           COSEC           COSEC           COSEC
+  FCLKT           CFLLO           LOLES           LOCLS           LOCES
+  HSELLO          EHSLKT          FCLHKT          FLEHKT          FLLHKT
+
+Candidate 166:  Candidate 167:  Candidate 168:  Candidate 169:  Candidate 170:
+  COSEC           COSEC           COSEC           COSEC           COSEC
+  FOLLL           ELFOL           LCFOL           ECFOL           FCEHS
+  CESHKT          CLSHKT          LESHKT          LLSHKT          LOLLKT
+
+Candidate 171:  Candidate 172:  Candidate 173:  Candidate 174:  Candidate 175:
+  COSEC           COSEC           COLES           COLES           COLES
+  FOCLS           FOCES           CELLC           CELLF           CELOC
+  LLEHKT          LLLHKT          FOSTKH          COSTKH          FLSTKH
+
+Candidate 176:  Candidate 177:  Candidate 178:  Candidate 179:  Candidate 180:
+  COLES           COLES           COLES           COLES           COLES
+  CELOF           ESTKH           CETKH           CSTKH           CFLSC
+  CLSTKH          CFLOLC          CFLLOS          CFLOLE          HKTELO
+
+Candidate 181:  Candidate 182:  Candidate 183:  Candidate 184:  Candidate 185:
+  COLES           COLES           COLES           COLES           COLES
+  CFOSC           CFLLC           CFOLC           CFLOS           HKTEL
+  HKTELL          HKTESO          HKTESL          CLETKH          CFLOSC
+
+Candidate 186:  Candidate 187:  Candidate 188:  Candidate 189:  Candidate 190:
+  COLES           COLES           COLES           COLES           COLES
+  CFLLO           HKTSL           HKTSO           CLOSE           CELST
+  CESTKH          CELOCF          CELLCF          FCLHKT          FOCLHK
+
+Candidate 191:  Candidate 192:  Candidate 193:  Candidate 194:  Candidate 195:
+  COLES           COLES           COLES           COLES           COLES
+  HKLST           CLHKT           ETKHL           CESTK           CELOF
+  CELOCF          CELSOF          CFOLCS          HLCFOL          CLHKTS
+
+Candidate 196:  Candidate 197:  Candidate 198:  Candidate 199:  Candidate 200:
+  COLES           COLES           COLES           COLES           COLES
+  ESTKH           CFOLE           CETKH           CSTKH           CLSOF
+  CLOFCL          CSLHKT          CFOLSL          ELOFCL          CLHKTE
+
+Candidate 201:  Candidate 202:  Candidate 203:  Candidate 204:  Candidate 205:
+  COLES           COLES           COLES           COLES           COLES
+  CSLHK           CSLCF           CFOSC           CLETK           CFOLC
+  CFOLET          HKTELO          HLKTEL          CFOSLH          ESLHKT
+
+Candidate 206:  Candidate 207:  Candidate 208:  Candidate 209:  Candidate 210:
+  COLES           COLES           COLES           COLES           COLES
+  FCLHK           CFOLS           CFOSL           HKTEL           LCFOL
+  CLOSET          CETKHL          CLETKH          CSLCFO          CESTKH
+
+Candidate 211:  Candidate 212:  Candidate 213:  Candidate 214:  Candidate 215:
+  COLES           SLOTE           SLOTE           SLOTE           SLOTE
+  FOCLH           CKHES           CLLFO           CFOLC           CKHLS
+  CELSTK          CFLOLC          CESHKC          CKHSEL          CLOFCE
+
+Candidate 216:  Candidate 217:  Candidate 218:  Candidate 219:  Candidate 220:
+  SLOTE           SLOTE           SHOTE           SHOTE           SHOTE
+  CKHES           CFOLC           CKLSC           CKLLS           CKLSO
+  CLOFCL          CKHELS          CELFOL          CLOFCE          CLLECF
+
+Candidate 221:  Candidate 222:  Candidate 223:  Candidate 224:  Candidate 225:
+  SHOTE           SHOTE           SHOTE           SHOTE           SHOTE
+  CKLLL           CKLEL           CKLLF           CELKC           CKLCF
+  CSOFCE          CFOLCS          CLSOCE          CLLFOS          CLOSLE
+
+Candidate 226:  Candidate 227:  Candidate 228:  Candidate 229:  Candidate 230:
+  SHOTE           SHOTE           SHOTE           SHOTE           SHOTE
+  CLLOS           CLSLE           CLSLF           CLSOC           CLSOF
+  CKLECF          CKLCFO          CKLECO          CKLELF          CELLKC
+
+Candidate 231:  Candidate 232:  Candidate 233:  Candidate 234:  Candidate 235:
+  SHOTE           SHOTE           SHOTE           SHOTE           SHOTE
+  CFOSC           CELLC           CLOCE           CFOLC           ECFOS
+  CKLELL          CKLSOF          CKLSLF          CKLELS          CKLLLC
+
+Candidate 236:  Candidate 237:  Candidate 238:  Candidate 239:  Candidate 240:
+  SHOTE           SHOTE           SLOTE           SLOTE           SLOTE
+  ECFOL           CELFO           CKHEL           CEHKC           CLLOS
+  CKLLSC          CKLSCL          CFOLCS          CLLFOS          CKHECF
+
+Candidate 241:  Candidate 242:  Candidate 243:  Candidate 244:  Candidate 245:
+  SLOTE           SLOTE           SLOTE           SLOTE           SLOTE
+  CLSLF           CLSOC           CLSOF           CFOSC           CFOLC
+  CKHECO          CKHELF          CKHECL          CKHELL          CKHELS
+
+Candidate 246:  Candidate 247:  Candidate 248:  Candidate 249:  Candidate 250:
+  CLOTE           CLOTE           CLOTE           CLOTE           FLOTE
+  CKHES           CLSOF           CKHES           CLSOF           CKHLS
+  CLLFOS          CKHSEL          FOLCSL          CKHELS          CLOCES
+
+Candidate 251:  Candidate 252:  Candidate 253:  Candidate 254:  Candidate 255:
+  FLOTE           FLOTE           FLOTE           FLOTE           FLOTE
+  CKHLS           CKHES           CEHKC           CKLSC           CLSOC
+  CLSOCE          CLOCLS          CLOSLS          HSECOL          CKHELS
+
+Candidate 256:  Candidate 257:  Candidate 258:  Candidate 259:  Candidate 260:
+  FLOTE           FLOTE           FLOTE           FLOTE           FLOTE
+  CLSLS           CLOSL           CLOCE           LOCES           HSECO
+  CKHECO          CESHKC          CKHSLS          CKHLSC          CKLSCL
+
+Candidate 261:  Candidate 262:  Candidate 263:  Candidate 264:  Candidate 265:
+  COLET           COLET           COLET           COLET           COLET
+  SHOCK           FLOCK           FLESH           CKOSC           CKHES
+  CSLELF          CSLEHS          CKLOSC          EHSLLF          CSLOLF
+
+Candidate 266:  Candidate 267:  Candidate 268:  Candidate 269:  Candidate 270:
+  COLET           COLET           COLET           COLET           COLET
+  CKLSC           CKLLF           COLSC           CSOHS           CSOLS
+  ESHOLF          CSOHES          FLESHK          CKLELF          CKHELF
+
+Candidate 271:  Candidate 272:  Candidate 273:  Candidate 274:  Candidate 275:
+  COLET           COLET           COLET           COLET           TOLLS
+  CSOLF           CSLLF           CSLES           ESLLF           CKHES
+  CKHELS          CKOHES          CKHOLF          CKHOSC          CELOCF
+
+Candidate 276:  Candidate 277:  Candidate 278:  Candidate 279:  Candidate 280:
+  TOLLS           SLOTS           SLOTS           SLOTS           SLOTS
+  CELOF           CELLO           CKHEL           CEHKC           CELLF
+  CESHKC          CKHECF          CELOCF          CELLFO          CKHECO
+
+Candidate 281:  Candidate 282:  Candidate 283:  Candidate 284:  Candidate 285:
+  SLOTS           SLOTS           CLOTS           CLOTS           STOLE
+  CELOC           CELOF           CKHES           CELOF           CKHLS
+  CKHELF          CKHECL          CELLFO          CKHSEL          CELOCF
+
+Candidate 286:  Candidate 287:  Candidate 288:  Candidate 289:  Candidate 290:
+  STOLE           CLOTS           FLOTS           FLOTS           FLOTS
+  CELOF           CELOF           CKHLS           CKHES           CELOC
+  CKHSLC          CKHELS          CELOCE          CELOCL          CKHELS
+
+Candidate 291:  Candidate 292:  Candidate 293:  Candidate 294:  Candidate 295:
+  TOLLS           TOLLS           TOLES           TOLES           TOLES
+  CLOSE           CEHKC           CLOSE           CKHLS           CKHLC
+  CKHECF          CELSOF          CKHLCF          CELOCF          CELSOF
+
+Candidate 296:  Candidate 297:  Candidate 298:  Candidate 299:  Candidate 300:
+  TOLES           TOLES           SHOTS           SHOTS           SHOTS
+  CFOLE           CFOLC           CELLO           CKLEL           CKLLF
+  CKHLSC          CKHLSE          CKLECF          CELOCF          CELOCE
+
+Candidate 301:  Candidate 302:  Candidate 303:  Candidate 304:  Candidate 305:
+  SHOTS           SHOTS           SHOTS           SHOTS           SHOTS
+  CELKC           CKLCF           CELLE           CELLF           CELOC
+  CELLFO          CELOLE          CKLCFO          CKLECO          CKLELF
+
+Candidate 306:  Candidate 307:  Candidate 308:  Candidate 309:  Candidate 310:
+  SHOTS           CELLS           CELLS           CELLS           CELLS
+  CELOF           CKHOT           CKLOT           CTKHS           CTKLS
+  CELLKC          ESLCFO          FOCEHS          FOCELO          FOCEHO
+
+Candidate 311:  Candidate 312:  Candidate 313:  Candidate 314:  Candidate 315:
+  CELLS           CELLS           CELLS           CELLS           CELLS
+  CTOHS           CTOLS           CKHES           COHES           ESHKT
+  FOCELK          FOCEHK          FOCLOT          FOCLKT          COLCFO
+
+Candidate 316:  Candidate 317:  Candidate 318:  Candidate 319:  Candidate 320:
+  CELLS           CELLS           CELLS           CELLS           CELLS
+  ESHOT           FOCLK           FOCLO           FOCEH           ELCFO
+  CKLCFO          CTOHES          CTKHES          CKTOLS          CKTOHS
+
+Candidate 321:  Candidate 322:  Candidate 323:  Candidate 324:  Candidate 325:
+  CELLS           CELLS           CLOSE           CLOSE           CLOSE
+  FOCLS           FOCES           COLES           TOLLS           TOLES
+  CKTOHE          CKHLOT          FCLHKT          CKHECF          CKHLCF
+
+Candidate 326:  Candidate 327:  Candidate 328:  Candidate 329:  Candidate 330:
+  CLOSE           CLOSE           CLOSE           CLOSE           CLOSE
+  HOLES           FLESH           CKHOT           CKLOT           CKTOL
+  CTKLCF          CKTOLC          CESLLF          CFLEHS          EHSLCF
+
+Candidate 331:  Candidate 332:  Candidate 333:  Candidate 334:  Candidate 335:
+  CLOSE           CLOSE           CLOSE           CLOSE           CLOSE
+  CTKHL           CTKHS           CTKHE           CTKLL           CTKLS
+  OLFCES          CELOLF          CFLOLS          FCESHO          CEHOLF
+
+Candidate 336:  Candidate 337:  Candidate 338:  Candidate 339:  Candidate 340:
+  CLOSE           CLOSE           CLOSE           CLOSE           CLOSE
+  CTKLE           CLKCT           CTOHS           CTOLL           CTOLS
+  CFLOHS          ESHOLF          CFLELK          FCESHK          CFLEHK
+
+Candidate 341:  Candidate 342:  Candidate 343:  Candidate 344:  Candidate 345:
+  CLOSE           CLOSE           CLOSE           CLOSE           CLOSE
+  CLOCT           CTOLE           CTOLF           CKHLS           CKHES
+  FLESHK          FCLKHS          CEHKLS          ECFLOT          CFLLOT
+
+Candidate 346:  Candidate 347:  Candidate 348:  Candidate 349:  Candidate 350:
+  CLOSE           CLOSE           CLOSE           CLOSE           CLOSE
+  CKLLF           CKLCF           COHES           COLLF           COLCF
+  CESHOT          HSELOT          CFLLKT          CESHKT          LESHKT
+
+Candidate 351:  Candidate 352:  Candidate 353:  Candidate 354:  Candidate 355:
+  CLOSE           CLOSE           CLOSE           CLOSE           CLOSE
+  COLLS           CFLOC           HSLKT           ESHKT           FLLKT
+  FCEHKT          EHSLKT          COLECF          CFLLOC          CESHOC
+
+Candidate 356:  Candidate 357:  Candidate 358:  Candidate 359:  Candidate 360:
+  CLOSE           CLOSE           CLOSE           CLOSE           CLOSE
+  FCLKT           ESHOT           FLLOT           FCLOT           CFLOT
+  COHSEL          CFLLKC          CESHKC          CKHSEL          CKHELS
+
+Candidate 361:  Candidate 362:  Candidate 363:  Candidate 364:  Candidate 365:
+  CLOSE           CLOSE           CLOSE           CLOSE           CLOSE
+  EHKLS           FCLHK           KHSEL           CESHK           FCEHK
+  CFLOCT          CTOLES          CTOLCF          CTOLLF          CTOLLS
+
+Candidate 366:  Candidate 367:  Candidate 368:  Candidate 369:  Candidate 370:
+  CLOSE           CLOSE           CLOSE           CLOSE           CLOSE
+  CFLLK           CESHO           CFLLO           ECFLO           CFLOH
+  CTOHES          CTKLLF          CTKHES          CTKHLS          CTKLES
+
+Candidate 371:  Candidate 372:  Candidate 373:  Candidate 374:  Candidate 375:
+  CLOSE           CLOSE           CLOSE           CLOSE           CLOSE
+  CEHLS           FCLHS           FCEHS           CFLEH           CELLF
+  CKTOLF          CKTOLE          CKLLOT          CKTOLS          CKTOHS
+
+Candidate 376:  Candidate 377:  Candidate 378:  Candidate 379:  Candidate 380:
+  CLOSE           CLOSE           CLOSE           CLOSE           CLOSE
+  ESLCF           CFLLS           CFLES           FLOHS           FLOLS
+  CTKHOL          CKTOHE          CKHLOT          CELKCT          CEHKCT
+
+Candidate 381:  Candidate 382:  Candidate 383:  Candidate 384:  Candidate 385:
+  CELLO           CELLO           CELLO           CELLO           CELLO
+  CTKHL           CTKHS           CTKHE           CKLST           CTKLS
+  SECFOS          CELSOF          CFOSLS          FOCEHS          HECFOS
+
+Candidate 386:  Candidate 387:  Candidate 388:  Candidate 389:  Candidate 390:
+  CELLO           CELLO           CELLO           CELLO           CELLO
+  CTSLS           CTSOF           CKTSO           CKHLS           CKHES
+  FOCEHK          CEHKLS          EHSLCF          ECFOST          FOCLST
+
+Candidate 391:  Candidate 392:  Candidate 393:  Candidate 394:  Candidate 395:
+  CELLO           CELLO           CELLO           CELLO           CELLO
+  CFOST           EHKLS           HKCTS           CFOSL           ECFOS
+  CKHELS          CFOSTC          ESLCFO          CTKHES          CTKHLS
+
+Candidate 396:  Candidate 397:  Candidate 398:  Candidate 399:  Candidate 400:
+  CELLO           CELLO           CELLO           CELLO           CELLO
+  CEHLS           FCEHS           FOCEH           ESLCF           ELCFO
+  CKTSOF          CTKLSO          CKTSLS          HKCTSO          SHKCTS
+
+Candidate 401:  Candidate 402:  Candidate 403:  Candidate 404:  Candidate 405:
+  CELLO           CELLO           CELLO           CELLO           CELLO
+  FOCLS           FOCES           FOSLS           STOCK           SHOCK
+  EHKCTS          CKHLST          CEHKCT          EHSLCF          FCELST
+
+Candidate 406:  Candidate 407:  Candidate 408:  Candidate 409:  Candidate 410:
+  CELLO           CELLO           CELLO           CELLO           CELLO
+  SLOTS           SHOTS           CKHOT           CTKHS           CKLST
+  CKHECF          CKLECF          FCESLS          FCELOS          FCESHO
+
+Candidate 411:  Candidate 412:  Candidate 413:  Candidate 414:  Candidate 415:
+  CELLO           CELLO           CELLO           CELLO           CELLO
+  CTKLS           COLST           CTSOH           CTSLS           CKHES
+  FCEHOS          FCESHK          FCESLK          FCEHKO          FCLOST
+
+Candidate 416:  Candidate 417:  Candidate 418:  Candidate 419:  Candidate 420:
+  CELLO           CELLO           CELLO           CELLO           CELLO
+  CKLCF           COSLS           COHES           COLCF           ESHKT
+  ESHOST          FCEHKT          FCLKTS          ESHKTS          COSLCF
+
+Candidate 421:  Candidate 422:  Candidate 423:  Candidate 424:  Candidate 425:
+  CELLO           CELLO           CELLO           CELLO           CELLO
+  FCLST           KTSLS           ESHKO           FCEHK           FCELK
+  CKOHES          COHECF          CTSLCF          COTSLS          CTSOHS
+
+Candidate 426:  Candidate 427:  Candidate 428:  Candidate 429:  Candidate 430:
+  CELLO           CELLO           CELLO           CELLO           CELLO
+  FCLOS           FCEHO           FCELO           HKCTS           SHKTS
+  CTKHES          CKTSLS          SHKCTS          FCESLO          COLECF
+
+Candidate 431:  Candidate 432:  Candidate 433:  Candidate 434:  Candidate 435:
+  CELLO           CELLO           CELLO           CELLO           SLOES
+  ESHOS           FCELS           FCEHS           ESLCF           CTKHE
+  CTKLCF          CKTOHS          CKLOST          CKHOST          CFLOLC
+
+Candidate 436:  Candidate 437:  Candidate 438:  Candidate 439:  Candidate 440:
+  SLOES           SLOES           CLOES           CLOES           FLOES
+  CLLFO           CFOLC           CTKHS           CLLFO           CTKHL
+  CEHKCT          CTKHEL          CLOFLE          CTKHES          CLOCES
+
+Candidate 441:  Candidate 442:  Candidate 443:  Candidate 444:  Candidate 445:
+  FLOES           FLOES           FLOES           FLOES           FLOES
+  CTKHS           CTKHE           CTKLS           CLOCL           CLOCE
+  CLOCEL          CLOCLS          CLOCEH          CTKHES          CTKHLS
+
+Candidate 446:  Candidate 447:  Candidate 448:  Candidate 449:  Candidate 450:
+  HELOE           HELOE           HELOE           HELOE           SHOES
+  CTKLS           CKTSC           CFOLC           FOCLS           CTKLL
+  CFOLCS          LOFCLS          CKTSLS          CKTSCL          CLOFCE
+
+Candidate 451:  Candidate 452:  Candidate 453:  Candidate 454:  Candidate 455:
+  SHOES           SHOES           SHOES           SHOES           SHOES
+  CTKLE           CLKCT           CLLFO           CLOLE           CLOCE
+  CFLOLC          CLOFLE          CELKCT          CTKLCF          CTKLLF
+
+Candidate 456:  Candidate 457:  Candidate 458:  Candidate 459:  Candidate 460:
+  SHOES           SELLE           SELLE           SELLE           SELLE
+  CFOLC           CKHOT           COTSC           CKTSC           CSTKH
+  CTKLEL          CSLCFO          FOCLHK          FOCLHO          COLCFO
+
+Candidate 461:  Candidate 462:  Candidate 463:  Candidate 464:  Candidate 465:
+  SELLE           SELLE           SELLE           SELLE           SELLE
+  CSTOH           CFOSC           FOCLK           FOCLO           FOCLH
+  CKLCFO          CKHLOT          CSTCOH          CSTCKH          CKOTSC
+
+Candidate 466:  Candidate 467:  Candidate 468:  Candidate 469:  Candidate 470:
+  ECOLE           ECOLE           ECOLE           ECOLE           ECOLE
+  CTKHS           COTSC           CTOLF           CKTSC           CKHLS
+  CSLOLF          FLLKHS          CSLKHS          FLLOHS          CSTOLF
+
+Candidate 471:  Candidate 472:  Candidate 473:  Candidate 474:  Candidate 475:
+  ECOLE           ECOLE           ECOLE           ECOLE           ECOLE
+  CKLLF           COLLF           CSOHS           CSOLF           CSLHS
+  CSTOHS          CSTKHS          CTKLLF          CTKHLS          CKTOLF
+
+Candidate 476:  Candidate 477:  Candidate 478:  Candidate 479:  Candidate 480:
+  ECOLE           ECOLE           ECOLE           ECOLE           KOHLS
+  CSLLF           FLLHS           FLOHS           FLOLS           CLETC
+  CKTOHS          CKOTSC          CSLKCT          CSTCKH          CFOLES
+
+Candidate 481:  Candidate 482:  Candidate 483:  Candidate 484:  Candidate 485:
+  KOHLS           KOHLS           KOLOS           KOHLS           KOHLS
+  CFLES           FOCES           CLETC           CESTC           CLETC
+  CTECLO          CTECLL          EHSLCF          CELFOL          CELFOS
+
+Candidate 486:  Candidate 487:  Candidate 488:  Candidate 489:  Candidate 490:
+  KOHLS           KOHLS           KOHLS           KOHLS           KOHLS
+  CTESL           CTESO           CTELL           CTELO           CTSLE
+  CLOFCE          CLLECF          CSOFCE          CSLECF          CELOCF
+
+Candidate 491:  Candidate 492:  Candidate 493:  Candidate 494:  Candidate 495:
+  KOHLS           KOHLS           KOHLS           KOHLS           KOHLS
+  CTSLF           CTSOF           CELLE           CELLF           CELOF
+  CELOCE          CELLCE          CFOSTC          CTSOCE          CELSTC
+
+Candidate 496:  Candidate 497:  Candidate 498:  Candidate 499:
+  KOHLS           KOHLS           KOHLS           KOHLS
+  CELSC           CSOCE           CFOSC           CELLC
+  CTELOF          CTELLF          CTELLE          CTESOF
+
+
+Unique candidate strings (531 total):
+  CEHKC   CEHKCT  CEHKLS  CEHKT   
+  CEHLS   CEHOLF  CEHSLL  CEHSLS  
+  CELFO   CELFOL  CELFOS  CELKC   
+  CELKCT  CELLC   CELLCE  CELLCF  
+  CELLE   CELLEH  CELLEL  CELLES  
+  CELLF   CELLFO  CELLKC  CELLL   
+  CELLLC  CELLLH  CELLLS  CELLO   
+  CELLS   CELLSC  CELLST  CELOC   
+  CELOCE  CELOCF  CELOCL  CELOF   
+  CELOLE  CELOLF  CELOLL  CELSC   
+  CELSET  CELSLF  CELSOF  CELST   
+  CELSTC  CELSTK  CESHK   CESHKC  
+  CESHKT  CESHO   CESHOC  CESHOT  
+  CESLLF  CESTC   CESTK   CESTKH  
+  CETKH   CETKHL  CETSL   CETSLC  
+  CETSLE  CETSLF  CETSLH  CETSLL  
+  CETSLS  CETSO   CETSOF  CFLEH   
+  CFLEHK  CFLEHS  CFLELK  CFLES   
+  CFLLC   CFLLK   CFLLKC  CFLLKT  
+  CFLLO   CFLLOC  CFLLOS  CFLLOT  
+  CFLLS   CFLOC   CFLOCT  CFLOH   
+  CFLOHS  CFLOLC  CFLOLE  CFLOLS  
+  CFLOS   CFLOSC  CFLOT   CFLSC   
+  CFOLC   CFOLCS  CFOLE   CFOLEH  
+  CFOLES  CFOLET  CFOLLL  CFOLS   
+  CFOLSL  CFOSC   CFOSET  CFOSL   
+  CFOSLH  CFOSLS  CFOST   CFOSTC  
+  CKHECF  CKHECL  CKHECO  CKHEL   
+  CKHELF  CKHELL  CKHELS  CKHES   
+  CKHLC   CKHLCF  CKHLOT  CKHLS   
+  CKHLSC  CKHLSE  CKHLST  CKHOLF  
+  CKHOSC  CKHOST  CKHOT   CKHSEL  
+  CKHSLC  CKHSLS  CKLCF   CKLCFO  
+  CKLECF  CKLECO  CKLEL   CKLELF  
+  CKLELL  CKLELS  CKLLF   CKLLL   
+  CKLLLC  CKLLOT  CKLLS   CKLLSC  
+  CKLOSC  CKLOST  CKLOT   CKLSC   
+  CKLSCL  CKLSLF  CKLSO   CKLSOF  
+  CKLST   CKOHES  CKOSC   CKOTSC  
+  CKTOHE  CKTOHS  CKTOL   CKTOLC  
+  CKTOLE  CKTOLF  CKTOLS  CKTSC   
+  CKTSCL  CKTSLS  CKTSO   CKTSOF  
+  CLEHS   CLETC   CLETK   CLETKH  
+  CLETSL  CLHKT   CLHKTE  CLHKTS  
+  CLKCT   CLKHS   CLLCEH  CLLCET  
+  CLLECF  CLLEH   CLLEHK  CLLEHS  
+  CLLEL   CLLES   CLLFO   CLLFOS  
+  CLLLHK  CLLLK   CLLLS   CLLOS   
+  CLOCE   CLOCEH  CLOCEL  CLOCES  
+  CLOCK   CLOCL   CLOCLK  CLOCLS  
+  CLOCT   CLOES   CLOFCE  CLOFCL  
+  CLOFLE  CLOFLL  CLOLE   CLOLES  
+  CLOLL   CLOLLK  CLOLLS  CLOSE   
+  CLOSET  CLOSL   CLOSLE  CLOSLS  
+  CLOTE   CLOTS   CLSET   CLSHKT  
+  CLSLE   CLSLF   CLSLS   CLSOC   
+  CLSOCE  CLSOF   CLSTKH  COHECF  
+  COHES   COHSEL  COLCET  COLCF   
+  COLCFO  COLECF  COLES   COLET   
+  COLLF   COLLS   COLSC   COLST   
+  COSEC   COSET   COSLCF  COSLS   
+  COSTKH  COTSC   COTSLS  CSLCEH  
+  CSLCF   CSLCFO  CSLECF  CSLECO  
+  CSLEH   CSLEHS  CSLEL   CSLELF  
+  CSLES   CSLHK   CSLHKT  CSLHS   
+  CSLKCT  CSLKHS  CSLLF   CSLOLF  
+  CSOCE   CSOCEH  CSOFCE  CSOHES  
+  CSOHS   CSOLF   CSOLS   CSTCKH  
+  CSTCOH  CSTKH   CSTKHS  CSTOH   
+  CSTOHS  CSTOLF  CTECLL  CTECLO  
+  CTELL   CTELLE  CTELLF  CTELO   
+  CTELOF  CTESL   CTESO   CTESOF  
+  CTKHE   CTKHEL  CTKHES  CTKHL   
+  CTKHLS  CTKHOL  CTKHS   CTKLCF  
+  CTKLE   CTKLEL  CTKLES  CTKLL   
+  CTKLLF  CTKLS   CTKLSO  CTOHES  
+  CTOHS   CTOLCF  CTOLE   CTOLES  
+  CTOLF   CTOLL   CTOLLF  CTOLLS  
+  CTOLS   CTSLCF  CTSLE   CTSLF   
+  CTSLS   CTSOCE  CTSOF   CTSOH   
+  CTSOHS  ECFLO   ECFLOT  ECFOL   
+  ECFOS   ECFOST  ECOLE   ECOLET  
+  EHKCTS  EHKLS   EHSLCF  EHSLCO  
+  EHSLKT  EHSLLF  EHSLS   EHSLST  
+  ELCFLL  ELCFO   ELCFOL  ELCOL   
+  ELCOST  ELFOL   ELLCET  ELLET   
+  ELLKHS  ELLLET  ELLSET  ELLST   
+  ELOFCL  ELOLET  ELSET   ELSLF   
+  ELSOF   ESHKO   ESHKT   ESHKTS  
+  ESHOLF  ESHOS   ESHOST  ESHOT   
+  ESLCF   ESLCFO  ESLHKT  ESLLF   
+  ESTKH   ETKHL   ETSLCF  ETSLEH  
+  ETSLF   ETSLH   ETSLHS  ETSLL   
+  ETSLLF  ETSLS   ETSOF   FCEHK   
+  FCEHKO  FCEHKT  FCEHO   FCEHOS  
+  FCEHS   FCELK   FCELO   FCELOS  
+  FCELS   FCELST  FCESHK  FCESHO  
+  FCESLK  FCESLO  FCESLS  FCLHK   
+  FCLHKT  FCLHS   FCLKHS  FCLKT   
+  FCLKTS  FCLOS   FCLOST  FCLOT   
+  FCLST   FLEHK   FLEHKT  FLELST  
+  FLESH   FLESHK  FLLCET  FLLET   
+  FLLHK   FLLHKT  FLLHS   FLLKHS  
+  FLLKT   FLLOHS  FLLOT   FLLST   
+  FLOCK   FLOES   FLOHS   FLOLET  
+  FLOLS   FLOTE   FLOTS   FLSTKH  
+  FOCEH   FOCEHK  FOCEHO  FOCEHS  
+  FOCELK  FOCELO  FOCES   FOCLH   
+  FOCLHK  FOCLHO  FOCLHS  FOCLK   
+  FOCLKT  FOCLO   FOCLOT  FOCLS   
+  FOCLST  FOLCET  FOLCSL  FOLEHS  
+  FOLET   FOLLES  FOLLL   FOLLLS  
+  FOSLS   FOSTKH  HECFLL  HECFLS  
+  HECFOL  HECFOS  HECLL   HECLS   
+  HECLST  HECOL   HECOS   HECOST  
+  HELLET  HELLS   HELOE   HELST   
+  HKCTS   HKCTSO  HKLST   HKTEL   
+  HKTELL  HKTELO  HKTESL  HKTESO  
+  HKTSL   HKTSO   HLCFOL  HLKTEL  
+  HOLES   HSECO   HSECOL  HSELLO  
+  HSELOT  HSELS   HSELST  HSLKT   
+  HSLST   KHSEL   KHSLL   KOHLS   
+  KOLOS   KTSLS   LCFOL   LEHKT   
+  LESHKT  LLCET   LLEHKT  LLHKT   
+  LLLCET  LLLET   LLLHKT  LLLKT   
+  LLSHKT  LOCES   LOCLKT  LOCLS   
+  LOFCES  LOFCLS  LOLCET  LOLES   
+  LOLET   LOLLKT  LOLLS   OLCET   
+  OLFCES  SECFOS  SELLE   SHELL   
+  SHKCTS  SHKTS   SHOCK   SHOES   
+  SHOTE   SHOTS   SLOCK   SLOES   
+  SLOTE   SLOTS   SOCLE   STOCK   
+  STOLE   TOLES   TOLLS   
+English word matches (40 total):
+  CELLO   CELLS   CLOCK   CLOES   
+  CLOSE   CLOSET  CLOTE   CLOTS   
+  COLES   COLET   COSEC   COSET   
+  ECOLE   FLESH   FLOCK   FLOES   
+  FLOTE   FLOTS   FOLLES  HELLS   
+  HELOE   HOLES   KOHLS   KOLOS   
+  LOLLS   SELLE   SHELL   SHOCK   
+  SHOES   SHOTE   SHOTS   SLOCK   
+  SLOES   SLOTE   SLOTS   SOCLE   
+  STOCK   STOLE   TOLES   TOLLS   
+Brand matches (1 total):
+  KOHLS  

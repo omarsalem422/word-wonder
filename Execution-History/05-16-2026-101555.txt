@@ -1,0 +1,676 @@
+Unique words across all solutions (3 total):
+  COUCH   GARAGE  GRASS   
+
+------------------------------------------------------------
+English words (filtered) (3 total):
+  COUCH   GARAGE  GRASS   
+
+------------------------------------------------------------
+Brand matches (filtered) (0 total): none
+
+------------------------------------------------------------
+Grid (grid.txt):
+GAGC
+AREO
+GSSU
+ARHC
+
+------------------------------------------------------------
+Pattern: ----- ----- ------
+
+------------------------------------------------------------
+Found 2 solution(s):
+
+Solution 1:     Solution 2:
+  COUCH           GRASS
+  GRASS           COUCH
+  GARAGE          GARAGE
+
+
+============================================================
+RELAXED MODE — Unvalidated candidate tilings
+These strings tile the grid correctly but are NOT confirmed
+as dictionary words or known brands. Review manually.
+
+============================================================
+Found 499 candidate tiling(s):
+
+Candidate 1:    Candidate 2:    Candidate 3:    Candidate 4:    Candidate 5:
+  GAGER           GAGER           GAGER           GAGER           GAGER
+  ASSOC           ASSOC           COUCH           AGARS           AGARS
+  AGRHCU          AGRHCU          AGARSS          CHSUOC          COUCHS
+
+Candidate 6:    Candidate 7:    Candidate 8:    Candidate 9:    Candidate 10:
+  GAGER           GAGER           GAGER           GAGER           GAGER
+  COSCU           ARSOC           COUSS           COUSR           COUHS
+  AGARHS          AGSHCU          AGARHC          AGASHC          AGARSC
+
+Candidate 11:   Candidate 12:   Candidate 13:   Candidate 14:   Candidate 15:
+  GAGER           GAGER           GAGER           GAGER           GAGER
+  COUHR           AGSSC           AGSHC           AGASS           AGASH
+  AGASSC          ARHUOC          ARSUOC          COUCHR          COUCSR
+
+Candidate 16:   Candidate 17:   Candidate 18:   Candidate 19:   Candidate 20:
+  GAGER           GAGER           GAGER           GAGER           GAGER
+  AGARH           AGRSC           AGRHC           ASHCU           AGRSC
+  COUCSS          ASHUOC          ASSUOC          AGRSOC          ASHUOC
+
+Candidate 21:   Candidate 22:   Candidate 23:   Candidate 24:   Candidate 25:
+  GAGER           GAGER           GAGER           GAGES           GAGES
+  AGRHC           ASHCU           ARHCU           COUCH           AGARS
+  ASSUOC          AGRSOC          AGSSOC          AGARSR          COUCHR
+
+Candidate 26:   Candidate 27:   Candidate 28:   Candidate 29:   Candidate 30:
+  GAGES           GAGES           GAGES           GAGES           GAGES
+  ARSOC           COSCU           COUSR           COUHR           ARGAR
+  AGRHCU          ARGARH          AGARHC          AGARSC          CHSUOC
+
+Candidate 31:   Candidate 32:   Candidate 33:   Candidate 34:   Candidate 35:
+  GAGES           GAGES           GAGES           GAGES           GAGES
+  AGRSC           AGARH           AGRHC           ARHCU           COUCH
+  ARHUOC          COUCSR          ARSUOC          AGRSOC          AGARSR
+
+Candidate 36:   Candidate 37:   Candidate 38:   Candidate 39:   Candidate 40:
+  GAGES           GAGES           AGARS           AGARS           AGARS
+  AGARS           ARGAR           COUCH           GARSE           SHRAG
+  COUCHR          COUCHS          AGRSEG          CGOUCH          CEGOUC
+
+Candidate 41:   Candidate 42:   Candidate 43:   Candidate 44:   Candidate 45:
+  AGARS           AGARS           AGARS           AGARS           AGARS
+  CEGOS           CEGOU           CGESC           CGEUC           CGOSC
+  AGRHCU          AGRHCS          AGRHUO          AGRHSO          AGRHUE
+
+Candidate 46:   Candidate 47:   Candidate 48:   Candidate 49:   Candidate 50:
+  AGARS           AGARS           AGARS           AGARS           AGARS
+  CGOUC           CHUEG           CHUOG           CEUCH           AGRSO
+  AGRHSE          AGRSOC          AGRSEC          AGRSOG          CGEUCH
+
+Candidate 51:   Candidate 52:   Candidate 53:   Candidate 54:   Candidate 55:
+  AGARS           AGARS           AGARS           AGARS           AGARS
+  AGRSC           AGRHU           AGRHC           COUCH           GARSE
+  CEGOUH          CEGOSC          CEGOSU          AGRSEG          CGOUCH
+
+Candidate 56:   Candidate 57:   Candidate 58:   Candidate 59:   Candidate 60:
+  AGARS           AGARS           AGARS           AGARS           AGARS
+  SHRAG           CEGOU           CGESG           ASECG           CGOES
+  CEGOUC          AGRSHC          ARHCUO          GRHCUO          AGRHCU
+
+Candidate 61:   Candidate 62:   Candidate 63:   Candidate 64:   Candidate 65:
+  AGARS           AGARS           AGARS           AGARS           AGARS
+  CGOUC           AGSEG           CHUOG           AGSEC           OUCHR
+  AGRHSE          COUCHR          AGRSEC          GOUCHR          AGSECG
+
+Candidate 66:   Candidate 67:   Candidate 68:   Candidate 69:   Candidate 70:
+  AGARS           AGARS           AGARS           GARSE           GARSE
+  AGRHC           CUHRG           ARHCU           AGARS           CGOSU
+  CGOUES          ASECGO          CGOESG          CGOUCH          AGARHC
+
+Candidate 71:   Candidate 72:   Candidate 73:   Candidate 74:   Candidate 75:
+  GARSE           GARSE           GARSE           GARSE           GARSE
+  CGOSC           CGOUH           CGOUC           AGARH           AGARS
+  AGARHU          AGARSC          AGARHS          CGOSCU          CGOUCH
+
+Candidate 76:   Candidate 77:   Candidate 78:   Candidate 79:   Candidate 80:
+  GARSE           GARSE           GARSE           GARSE           GARSE
+  CGOUC           SHRAG           AGCOS           AGCOU           AGRSC
+  AGARHS          AGCOUC          AGRHCU          AGRHCS          AGCOUH
+
+Candidate 81:   Candidate 82:   Candidate 83:   Candidate 84:   Candidate 85:
+  GARSE           GARSE           GARSE           GARSE           GRASS
+  AGRHU           AGRHC           SHRAG           AGCOU           AECGO
+  AGCOSC          AGCOSU          AGCOUC          AGRSHC          AGRHCU
+
+Candidate 86:   Candidate 87:   Candidate 88:   Candidate 89:   Candidate 90:
+  GRASS           GASES           GASES           GASES           GASES
+  AGRHC           COUCH           AGCOU           AGRAG           ARGCO
+  AECGOU          AGRGAR          CHRAGR          COUCHR          AGRHCU
+
+Candidate 91:   Candidate 92:   Candidate 93:   Candidate 94:   Candidate 95:
+  GASES           GASES           GASES           GASES           GASES
+  ARGAR           CGOUC           CGARG           HRAGR           OUCHR
+  CGOUCH          ARGARH          ARHCUO          AGCOUC          AGRAGC
+
+Candidate 96:   Candidate 97:   Candidate 98:   Candidate 99:   Candidate 100:
+  GASES           GASES           GRECO           GRECO           GRECO
+  AGRHC           ARHCU           GAAGS           AGAAG           GAAGR
+  ARGCOU          COGARG          ARHCSU          CHRSSU          ASHCSU
+
+Candidate 101:  Candidate 102:  Candidate 103:  Candidate 104:  Candidate 105:
+  GRECO           GRECO           GRECO           GRECO           GRECO
+  GAASS           ASAAG           GAASH           AGRSU           AGRSC
+  AGRHCU          CHUSRG          AGRSCU          CHSAAG          GAASHU
+
+Candidate 106:  Candidate 107:  Candidate 108:  Candidate 109:  Candidate 110:
+  GRECO           GRECO           GRECO           GRECO           GRECO
+  AGRHU           AGRHC           CHSSU           CHRSU           ASSCU
+  CSSAAG          GAASSU          ARGAAG          AGSAAG          GAAGRH
+
+Candidate 111:  Candidate 112:  Candidate 113:  Candidate 114:  Candidate 115:
+  GRECO           GRECO           GRECO           AGERS           AGERS
+  ARSCU           ASHCU           ARHCU           COUCH           ARGAG
+  GAAGSH          GAAGRS          GAAGSS          GAGARS          CHSUOC
+
+Candidate 116:  Candidate 117:  Candidate 118:  Candidate 119:  Candidate 120:
+  AGERS           AGERS           AGERS           AGERS           ARGOS
+  COSCU           COUCH           AGSAG           ARGAG           AGSAG
+  GAGARH          AGRSAG          COUCHR          COUCHS          CEUCHR
+
+Candidate 121:  Candidate 122:  Candidate 123:  Candidate 124:  Candidate 125:
+  ARGOS           ARGOS           ARGOS           ARGOS           ARSES
+  ARGAG           CESAG           CEUCH           ARHCU           ARGAG
+  CESHCU          AGRHCU          AGRSAG          CESGAG          CGOUCH
+
+Candidate 126:  Candidate 127:  Candidate 128:  Candidate 129:  Candidate 130:
+  ARSES           EARSH           EARSH           EARSH           OSSEA
+  CGOUC           ARGAG           CGOUC           CGOUC           AGRGC
+  GAGARH          CGOSCU          GAGARS          AGRSAG          AGRHCU
+
+Candidate 131:  Candidate 132:  Candidate 133:  Candidate 134:  Candidate 135:
+  OSSEA           GRECO           GRECO           GRECO           GRECO
+  ARHCU           AGAGS           AGAAG           AGAGR           AGASS
+  CGRGAG          ARHCSU          CHRSSU          ASHCSU          AGRHCU
+
+Candidate 136:  Candidate 137:  Candidate 138:  Candidate 139:  Candidate 140:
+  GRECO           GRECO           GRECO           GRECO           GRECO
+  AGASA           AGASH           AGRSU           AGRSC           AGRHU
+  CHUSRG          AGRSCU          AGASHC          AGASHU          AGASSC
+
+Candidate 141:  Candidate 142:  Candidate 143:  Candidate 144:  Candidate 145:
+  GRECO           GRECO           GRECO           GRECO           GRECO
+  AGRHC           CHSSU           CHRSU           ASSCU           ARSCU
+  AGASSU          AGAGAR          AGAGAS          AGAGRH          AGAGSH
+
+Candidate 146:  Candidate 147:  Candidate 148:  Candidate 149:  Candidate 150:
+  GRECO           GRECO           GRASS           GRASS           CERAS
+  ASHCU           ARHCU           COEAG           AGRHC           SHRAG
+  AGAGRS          AGAGSS          AGRHCU          COUEAG          CUOGAG
+
+Candidate 151:  Candidate 152:  Candidate 153:  Candidate 154:  Candidate 155:
+  CERAS           CERAS           CERAS           CERAS           CERAS
+  GAGOS           GAGOU           AGRSC           AGRHU           AGRHC
+  AGRHCU          AGRHCS          GAGOUH          CSOGAG          GAGOSU
+
+Candidate 156:  Candidate 157:  Candidate 158:  Candidate 159:  Candidate 160:
+  COSES           COSES           CESAR           CESAR           CESAR
+  AAGRG           ARHCU           GAGOU           AAGRG           AGAGO
+  AGRHCU          AGAGRG          AGRSCH          CHSUOG          CHUSRG
+
+Candidate 161:  Candidate 162:  Candidate 163:  Candidate 164:  Candidate 165:
+  CESAR           CESAR           CESAR           CESAR           CESAR
+  GAGRS           CHSRG           AGOUH           AGOUC           GAGAG
+  AGOUCH          GAAGOU          CSRGAG          GAGRSH          CHUOSR
+
+Candidate 166:  Candidate 167:  Candidate 168:  Candidate 169:  Candidate 170:
+  CESAR           CESAR           CESAR           CESAR           CESAR
+  CHUOG           AGRSH           AGRSC           CHUSR           GAAGO
+  AGAGRS          CUOGAG          GAGOUH          GAGAGO          CHUSRG
+
+Candidate 171:  Candidate 172:  Candidate 173:  Candidate 174:  Candidate 175:
+  CESAR           CESAR           CUSEC           CUSEC           CUSEC
+  CHSOU           CHSRG           ASARH           SHRAG           AGAAG
+  AGAGRG          AGAGOU          GRGAGO          AAGRGO          HRSRGO
+
+Candidate 176:  Candidate 177:  Candidate 178:  Candidate 179:  Candidate 180:
+  CUSEC           CUSEC           CUSEC           CUSEC           CUSEC
+  AGASA           AGASH           AGRGO           AGAGO           ARGAG
+  HRGRGO          ARGRGO          AGARHS          AGRHSR          HSRAGO
+
+Candidate 181:  Candidate 182:  Candidate 183:  Candidate 184:  Candidate 185:
+  CUSEC           CUSEC           CUSEC           CUSEC           CUSEC
+  GAGRH           GASHR           ARGRG           GRGRH           GRSHR
+  ASRAGO          AGRAGO          HSAAGO          ASAAGO          AGAAGO
+
+Candidate 186:  Candidate 187:  Candidate 188:  Candidate 189:  Candidate 190:
+  CUSEC           CUSEC           CUSEC           CUSEC           CUSEC
+  AGARH           HRAGR           ARHSR           GAAGO           OGAAS
+  OGAGRS          OGAGAS          GAGAGO          ARHSRG          GRGARH
+
+Candidate 191:  Candidate 192:  Candidate 193:  Candidate 194:  Candidate 195:
+  CUSEC           CUSEC           CUSEC           CUSEC           CUSEC
+  GRAGO           OGARS           AGRGO           ASRGO           HSRGO
+  ARHSAG          GAGARH          AGASHR          AGAGRH          AGAGAR
+
+Candidate 196:  Candidate 197:  Candidate 198:  Candidate 199:  Candidate 200:
+  GRECO           GRECO           GRECO           GRECO           ASSOC
+  GAGAS           CHRSU           ARSCU           ARHCU           GAGER
+  ARHCSU          ASAGAG          GAGASH          GAGASS          AGRHCU
+
+Candidate 201:  Candidate 202:  Candidate 203:  Candidate 204:  Candidate 205:
+  ASSOC           ASSOC           ASSOC           ASSOC           ASSOC
+  GAGRG           GAGEU           AGRAG           CUEAG           ARGRG
+  ARHCUE          CHRAGR          GEUCHR          GRGARH          AGEUCH
+
+Candidate 206:  Candidate 207:  Candidate 208:  Candidate 209:  Candidate 210:
+  ASSOC           ASSOC           ASSOC           ASSOC           ASSOC
+  AGEUC           ARGRG           CHUEG           HRAGR           EUCHR
+  GRGARH          CHUEAG          AGRGAR          CUEGAG          AGRGAG
+
+Candidate 211:  Candidate 212:  Candidate 213:  Candidate 214:  Candidate 215:
+  ASSOC           ASSOC           ASSOC           ASSOC           ASSOC
+  AGRHC           ARHCU           GAGER           AAGRG           GAGEU
+  AGRGEU          EGAGRG          AGRHCU          EUCHRG          ARGRHC
+
+Candidate 216:  Candidate 217:  Candidate 218:  Candidate 219:  Candidate 220:
+  ASSOC           ASSOC           ASSOC           ASSOC           ASSOC
+  AAGRG           AGAGR           CUEAG           AGAEG           AGAEU
+  GEUCHR          CHUEGR          GRAGRH          CUHRGR          CHRGRG
+
+Candidate 221:  Candidate 222:  Candidate 223:  Candidate 224:  Candidate 225:
+  ASSOC           ASSOC           ASSOC           ASSOC           ASSOC
+  AGRGR           GAGRG           GAGRH           GRGEU           CUERG
+  AGEUCH          AEUCHR          AGREUC          AAGRHC          GAAGRH
+
+Candidate 226:  Candidate 227:  Candidate 228:  Candidate 229:  Candidate 230:
+  ASSOC           ASSOC           ASSOC           ASSOC           ASSOC
+  GRGRH           AGREU           AGEUC           AAGRH           AEUCH
+  AAGEUC          CHRGAG          AGRGRH          CUEGRG          GRGAGR
+
+Candidate 231:  Candidate 232:  Candidate 233:  Candidate 234:  Candidate 235:
+  ASSOC           ASSOC           ASSOC           ASSOC           ASSOC
+  GAGAG           GAAGR           GRAGR           CUEGR           GRGRH
+  REUCHR          CHUERG          CHUEAG          AGAGRH          AGAEUC
+
+Candidate 236:  Candidate 237:  Candidate 238:  Candidate 239:  Candidate 240:
+  ASSOC           ASSOC           ASSOC           ASSOC           ASSOC
+  CHUEG           AAGEU           ARGRH           AGRHC           CHUER
+  AAGRGR          CHRGRG          CUEGAG          AGRGEU          GAGAGR
+
+Candidate 241:  Candidate 242:  Candidate 243:  Candidate 244:  Candidate 245:
+  ASSOC           ASSOC           ASSOC           COUCH           COUCH
+  CHRGR           EUCHR           CUHRG           GAGER           GAGES
+  AGAGEU          AGAGRG          GARAGE          AGARSS          AGARSR
+
+Candidate 246:  Candidate 247:  Candidate 248:  Candidate 249:  Candidate 250:
+  COUCH           COUCH           COUCH           COUCH           COUCH
+  GAGES           AGARS           AGARS           GASES           AGERS
+  AGARSR          AGRSEG          AGRSEG          AGRGAR          GAGARS
+
+Candidate 251:  Candidate 252:  Candidate 253:  Candidate 254:  Candidate 255:
+  COUCH           COUCH           COUCH           COUCH           COUCH
+  AGERS           AGARS           AGARS           AGARS           GARSE
+  AGRSAG          GAGESR          GAGERS          GAGERS          AGAGRS
+
+Candidate 256:  Candidate 257:  Candidate 258:  Candidate 259:  Candidate 260:
+  COUCH           COUCH           COUCH           COUCH           COUCH
+  ARSES           GARSE           AGARS           AAGRG           GAGRG
+  AGAGRG          AGAGRS          GAGESR          AGRSES          ARSESA
+
+Candidate 261:  Candidate 262:  Candidate 263:  Candidate 264:  Candidate 265:
+  COUCH           COUCH           COUCH           COUCH           COUCH
+  GAGRS           GAGRS           AAGRG           AGAGS           AGAAG
+  AGARSE          AGARSE          ARSSEG          ARSEGR          EGRSRS
+
+Candidate 266:  Candidate 267:  Candidate 268:  Candidate 269:  Candidate 270:
+  COUCH           COUCH           COUCH           COUCH           COUCH
+  AGAGR           AESAG           AGASS           AGASA           AGASR
+  ASEGRS          AGRSRG          ARGREG          EGRGRS          AGRGES
+
+Candidate 271:  Candidate 272:  Candidate 273:  Candidate 274:  Candidate 275:
+  COUCH           COUCH           COUCH           COUCH           COUCH
+  AGRAG           AGRSA           AGRSR           GAESS           ASEAG
+  ASRSEG          AGRSEG          AGASEG          ARGARG          AGRSRG
+
+Candidate 276:  Candidate 277:  Candidate 278:  Candidate 279:  Candidate 280:
+  COUCH           COUCH           COUCH           COUCH           COUCH
+  GAESR           AGAEG           AGAES           AGRGS           AGAGR
+  AGASRG          AGRSRS          AGRSRG          AGESRA          AGESRS
+
+Candidate 281:  Candidate 282:  Candidate 283:  Candidate 284:  Candidate 285:
+  COUCH           COUCH           COUCH           COUCH           COUCH
+  AGRGR           AGRSA           AGRSR           GAGRG           GAGRS
+  AGESSA          AGESRG          AGESAG          AESARS          AGESAR
+
+Candidate 286:  Candidate 287:  Candidate 288:  Candidate 289:  Candidate 290:
+  COUCH           COUCH           COUCH           COUCH           COUCH
+  ESGAG           AGSAG           ARGAG           GAGRS           GASRG
+  AGRSRA          AEGRSR          AEGRSS          AEGRSA          AESRAG
+
+Candidate 291:  Candidate 292:  Candidate 293:  Candidate 294:  Candidate 295:
+  COUCH           COUCH           COUCH           COUCH           COUCH
+  GASEG           GASRS           ARSAG           GESRG           GESRG
+  AGRSRA          AEGRGA          AGESRG          AAGARS          AAGARS
+
+Candidate 296:  Candidate 297:  Candidate 298:  Candidate 299:  Candidate 300:
+  COUCH           COUCH           COUCH           COUCH           COUCH
+  ESSRG           ASERG           GRESR           AGSRG           ARGRG
+  ARGAAG          GAAGRS          AGSAAG          AAGESR          AAGESS
+
+Candidate 301:  Candidate 302:  Candidate 303:  Candidate 304:  Candidate 305:
+  COUCH           COUCH           COUCH           COUCH           COUCH
+  GRGRS           GRSRS           ARSRG           ASSRG           ARSRG
+  AAGESA          AGAAEG          GAAGES          EGAAGR          AAGESG
+
+Candidate 306:  Candidate 307:  Candidate 308:  Candidate 309:  Candidate 310:
+  COUCH           COUCH           COUCH           COUCH           COUCH
+  AGRAG           AGRSA           AGRSR           AEGRG           AAGES
+  ESRSAG          ESRGAG          ESAGAG          ARSSAG          AGRSRG
+
+Candidate 311:  Candidate 312:  Candidate 313:  Candidate 314:  Candidate 315:
+  COUCH           COUCH           COUCH           COUCH           COUCH
+  AGESG           AGESS           AGESA           AGESR           AGESR
+  AGRSRA          AGRGAR          AGRGRS          AGAGRS          AGAGRS
+
+Candidate 316:  Candidate 317:  Candidate 318:  Candidate 319:  Candidate 320:
+  COUCH           COUCH           COUCH           COUCH           COUCH
+  AAGAS           AAGAR           AAGRS           ARGAR           ARSRA
+  GRGESR          GESSRG          ASEGRG          GASSEG          GAGSEG
+
+Candidate 321:  Candidate 322:  Candidate 323:  Candidate 324:  Candidate 325:
+  COUCH           COUCH           COUCH           COUCH           COUCH
+  AESRS           AESSA           AESRG           AESRA           GAGAG
+  AGAGRG          GRGAGR          ASAGRG          GAGSRG          RASERS
+
+Candidate 326:  Candidate 327:  Candidate 328:  Candidate 329:  Candidate 330:
+  COUCH           COUCH           COUCH           COUCH           COUCH
+  GAGAS           GAAGS           AGAAG           GAAGR           ASAAG
+  AGRESR          ARSERG          ESRSRG          ASESRG          ESRGRG
+
+Candidate 331:  Candidate 332:  Candidate 333:  Candidate 334:  Candidate 335:
+  COUCH           COUCH           COUCH           COUCH           COUCH
+  AGSRG           AGARG           GRAGR           ASARG           EGRSS
+  ARSEAG          GAESRS          ASSEAG          GAESRG          AGAGAR
+
+Candidate 336:  Candidate 337:  Candidate 338:  Candidate 339:  Candidate 340:
+  COUCH           COUCH           COUCH           COUCH           COUCH
+  ASEGR           EGRSR           AGSRG           ARGRG           GRGRS
+  AGAGRS          AGAGAS          AGAESR          AESSAG          AGAESA
+
+Candidate 341:  Candidate 342:  Candidate 343:  Candidate 344:  Candidate 345:
+  COUCH           COUCH           COUCH           COUCH           COUCH
+  GRSRS           ARSRG           ASSRG           ARSRG           EGAAG
+  AGAGAE          GAGAES          EAGAGR          AESGAG          ARSSRG
+
+Candidate 346:  Candidate 347:  Candidate 348:  Candidate 349:  Candidate 350:
+  COUCH           COUCH           COUCH           COUCH           COUCH
+  AGREG           AGSEG           AGSEG           GESRS           ARSEG
+  AGASRS          AGRSRA          AAGRSR          AAGRGA          AGAGRS
+
+Candidate 351:  Candidate 352:  Candidate 353:  Candidate 354:  Candidate 355:
+  COUCH           COUCH           COUCH           COUCH           COUCH
+  GESRG           ASSEG           ASSEG           GESRG           ARSEG
+  AGASAR          AGRGAR          AAGRGR          AAGRSA          AAGRGS
+
+Candidate 356:  Candidate 357:  Candidate 358:  Candidate 359:  Candidate 360:
+  COUCH           COUCH           COUCH           COUCH           COUCH
+  AAGES           ARGAR           AGRSR           ARSRA           AGASE
+  AGRSRG          GAGESS          ASEGAG          GAGESG          GAGRSR
+
+Candidate 361:  Candidate 362:  Candidate 363:  Candidate 364:  Candidate 365:
+  COUCH           COUCH           COUCH           COUCH           COUCH
+  AGRSE           ASESR           ARSSA           ERSRS           ASERS
+  ASRGAG          AGRGAG          EGAGRG          AGAGAG          GAGAGR
+
+Candidate 366:  Candidate 367:  Candidate 368:  Candidate 369:  Candidate 370:
+  COUCH           COUCH           COUCH           COUCH           COUCH
+  ERGRS           ARSER           AGRSR           AGRSR           ARSRS
+  ASAGAG          GAGAGS          AGAGES          AGAGES          EGAGAG
+
+Candidate 371:  Candidate 372:  Candidate 373:  Candidate 374:  Candidate 375:
+  COUCH           COUCH           COUCH           GARSE           GARSE
+  EAGAG           ARGRE           AGRES           COGAG           ARHCS
+  ARSSRG          GAGASS          GAGASR          ARHCSU          GAGCOU
+
+Candidate 376:  Candidate 377:  Candidate 378:  Candidate 379:  Candidate 380:
+  GARSE           ARSES           ARSES           GRASS           GRASS
+  ARHCU           COGAG           AGRHC           CEGAG           COGAG
+  GAGCOS          AGRHCU          GAGCOU          ARHCUO          ARHCUE
+
+Candidate 381:  Candidate 382:  Candidate 383:  Candidate 384:  Candidate 385:
+  GRASS           AGARS           AGARS           AGARS           AGARS
+  ARHCU           GAGES           COUCH           CEGAG           COGAG
+  CEOGAG          COUCHR          GAGESR          CHRSOU          CHRSEU
+
+Candidate 386:  Candidate 387:  Candidate 388:  Candidate 389:  Candidate 390:
+  AGARS           AGARS           AGARS           AGARS           AGARS
+  GAGEU           GAGOS           GAGOU           GAESR           CSEAG
+  CHRSOC          CEUCHR          CESCHR          CGOUCH          CGOUHR
+
+Candidate 391:  Candidate 392:  Candidate 393:  Candidate 394:  Candidate 395:
+  AGARS           AGARS           AGARS           AGARS           AGARS
+  CUEAG           CGOSR           CGOSC           CGOUC           CESHR
+  CGOSHR          CHUEAG          GAEUHR          GAESHR          CUOGAG
+
+Candidate 396:  Candidate 397:  Candidate 398:  Candidate 399:  Candidate 400:
+  AGARS           AGARS           AGARS           AGARS           AGARS
+  CEUHR           CEUCH           COSHR           COUHR           CHRSE
+  CSOGAG          GAGOSR          CUEGAG          CSEGAG          GAGCOU
+
+Candidate 401:  Candidate 402:  Candidate 403:  Candidate 404:  Candidate 405:
+  AGARS           AGARS           AGARS           AGARS           GARSE
+  EUCHR           CHRSO           OUCHR           CHRSU           COGAG
+  GAGCOS          GAGCEU          GAGCES          CEOGAG          ARSHCU
+
+Candidate 406:  Candidate 407:  Candidate 408:  Candidate 409:  Candidate 410:
+  GARSE           GASES           GASES           AGARS           AGARS
+  ARSHC           AGRGC           ARHCU           GAGER           GARSE
+  GAGCOU          ARHCUO          AGRGCO          CHSUOC          CGOUCH
+
+Candidate 411:  Candidate 412:  Candidate 413:  Candidate 414:  Candidate 415:
+  AGARS           AGARS           AGARS           AGARS           AGARS
+  COUCH           CHUSE           CEGAG           COGAG           GAGRS
+  GAGERS          AGRGCO          CHUOSR          CHUSER          CEOUCH
+
+Candidate 416:  Candidate 417:  Candidate 418:  Candidate 419:  Candidate 420:
+  AGARS           AGARS           AGARS           AGARS           AGARS
+  GAGOU           AGRGC           AGRGO           AGREC           AGREU
+  CERSCH          CHSEOU          CESCHU          CHSUOG          CGOSCH
+
+Candidate 421:  Candidate 422:  Candidate 423:  Candidate 424:  Candidate 425:
+  AGARS           AGARS           AGARS           AGARS           AGARS
+  AGRSO           AGRSH           AGRSC           COEAG           GAEOU
+  CGEUCH          CEGOUC          CEGOUH          CHUSRG          CGRSCH
+
+Candidate 426:  Candidate 427:  Candidate 428:  Candidate 429:  Candidate 430:
+  AGARS           AGARS           AGARS           AGARS           AGARS
+  GAESH           CSEAG           GAEUH           CUEAG           COGRG
+  CUOCGR          HUOCGR          COGRSC          COGRSH          AESCHU
+
+Candidate 431:  Candidate 432:  Candidate 433:  Candidate 434:  Candidate 435:
+  AGARS           AGARS           AGARS           AGARS           AGARS
+  GRESH           CSERG           GREUH           CUERG           CESRG
+  AGCOUC          AGCOUH          AGCOSC          AGCOSH          AGOUCH
+
+Candidate 436:  Candidate 437:  Candidate 438:  Candidate 439:  Candidate 440:
+  AGARS           AGARS           AGARS           AGARS           AGARS
+  COSRG           CHSRG           AECGO           AGCOS           AGCOU
+  AGEUCH          AECGOU          CHUSRG          CHUERG          CHSERG
+
+Candidate 441:  Candidate 442:  Candidate 443:  Candidate 444:  Candidate 445:
+  AGARS           AGARS           AGARS           AGARS           AGARS
+  AESCH           AEUCH           CEGOU           CGOSR           CGOSH
+  GRGCOU          CGOSRG          AGRSCH          CHUEAG          AGREUC
+
+Candidate 446:  Candidate 447:  Candidate 448:  Candidate 449:  Candidate 450:
+  AGARS           AGARS           AGARS           AGARS           AGARS
+  CGOSC           CGOUH           CGOUC           CHSRG           CHUEG
+  AGREUH          AGRESC          AGRESH          COUEAG          AGRSOC
+
+Candidate 451:  Candidate 452:  Candidate 453:  Candidate 454:  Candidate 455:
+  AGARS           AGARS           AGARS           AGARS           AGARS
+  CHUOG           CGRSH           CGRSC           CERSH           CERSC
+  AGRSEC          CUOEAG          GAEOUH          CUOGAG          GAGOUH
+
+Candidate 456:  Candidate 457:  Candidate 458:  Candidate 459:  Candidate 460:
+  AGARS           AGARS           AGARS           AGARS           AGARS
+  CEOUH           CEOUC           CESCH           CEUCH           CHSOC
+  CSRGAG          GAGRSH          AGRGOU          AGOSRG          AGRGEU
+
+Candidate 461:  Candidate 462:  Candidate 463:  Candidate 464:  Candidate 465:
+  AGARS           AGARS           AGARS           AGARS           AGARS
+  RGCOU           CHSER           CHUER           CHUSR           CHUEO
+  CHSEAG          GAGCOU          GAGCOS          CEOGAG          CGAGRS
+
+Candidate 466:  Candidate 467:  Candidate 468:  Candidate 469:  Candidate 470:
+  AGARS           AGARS           AGARS           AGARS           AGARS
+  CHSOU           GAGER           GARSE           COUCH           CEGAG
+  AECGRG          COUCHS          CGOUCH          GAGERS          OUCHSR
+
+Candidate 471:  Candidate 472:  Candidate 473:  Candidate 474:  Candidate 475:
+  AGARS           AGARS           AGARS           AGARS           AGARS
+  COGAG           GAGRS           GAGOU           AGRGC           AGRGO
+  CHSREU          CEOUCH          CERSHC          CHSEOU          CESHCU
+
+Candidate 476:  Candidate 477:  Candidate 478:  Candidate 479:  Candidate 480:
+  AGARS           AGARS           AGARS           AGARS           AGARS
+  AGREC           AGRSH           COEAG           GAEOU           GAESH
+  GOUCHS          CEGOUC          CUHSRG          CGRSHC          CUOCGR
+
+Candidate 481:  Candidate 482:  Candidate 483:  Candidate 484:  Candidate 485:
+  AGARS           AGARS           AGARS           AGARS           AGARS
+  CUEAG           COGRG           GRESH           CESRG           CHSRG
+  COGRSH          AESHCU          AGCOUC          AGOUCH          AECGOU
+
+Candidate 486:  Candidate 487:  Candidate 488:  Candidate 489:  Candidate 490:
+  AGARS           AGARS           AGARS           AGARS           AGARS
+  AECGO           AGCOU           AESHC           CEGOU           CGOUC
+  CUHSRG          CHSERG          GRGCOU          AGRSHC          AGRESH
+
+Candidate 491:  Candidate 492:  Candidate 493:  Candidate 494:  Candidate 495:
+  AGARS           AGARS           AGARS           AGARS           AGARS
+  CHSRG           CHUOG           CGRSH           CERSH           CEOUC
+  COUEAG          AGRSEC          CUOEAG          CUOGAG          GAGRSH
+
+Candidate 496:  Candidate 497:  Candidate 498:  Candidate 499:
+  AGARS           AGARS           AGARS           AGARS
+  CESHC           CEUCH           COGRS           RGCOU
+  AGRGOU          OGAGRS          CHUEAG          CHSEAG
+
+
+Unique candidate strings (509 total):
+  AAGAR   AAGARS  AAGAS   AAGES   
+  AAGESA  AAGESG  AAGESR  AAGESS  
+  AAGEU   AAGEUC  AAGRG   AAGRGA  
+  AAGRGO  AAGRGR  AAGRGS  AAGRH   
+  AAGRHC  AAGRS   AAGRSA  AAGRSR  
+  AECGO   AECGOU  AECGRG  AEGRG   
+  AEGRGA  AEGRSA  AEGRSR  AEGRSS  
+  AESAG   AESARS  AESCH   AESCHU  
+  AESGAG  AESHC   AESHCU  AESRA   
+  AESRAG  AESRG   AESRS   AESSA   
+  AESSAG  AEUCH   AEUCHR  AGAAEG  
+  AGAAG   AGAAGO  AGAEG   AGAES   
+  AGAESA  AGAESR  AGAEU   AGAEUC  
+  AGAGAE  AGAGAG  AGAGAR  AGAGAS  
+  AGAGES  AGAGEU  AGAGO   AGAGOU  
+  AGAGR   AGAGRG  AGAGRH  AGAGRS  
+  AGAGS   AGAGSH  AGAGSS  AGARG   
+  AGARH   AGARHC  AGARHS  AGARHU  
+  AGARS   AGARSC  AGARSE  AGARSR  
+  AGARSS  AGASA   AGASAR  AGASE   
+  AGASEG  AGASH   AGASHC  AGASHR  
+  AGASHU  AGASR   AGASRG  AGASRS  
+  AGASS   AGASSC  AGASSU  AGCOS   
+  AGCOSC  AGCOSH  AGCOSU  AGCOU   
+  AGCOUC  AGCOUH  AGERS   AGESA   
+  AGESAG  AGESAR  AGESG   AGESR   
+  AGESRA  AGESRG  AGESRS  AGESS   
+  AGESSA  AGEUC   AGEUCH  AGOSRG  
+  AGOUC   AGOUCH  AGOUH   AGRAG   
+  AGRAGC  AGRAGO  AGREC   AGREG   
+  AGRES   AGRESC  AGRESH  AGRESR  
+  AGREU   AGREUC  AGREUH  AGRGAG  
+  AGRGAR  AGRGC   AGRGCO  AGRGES  
+  AGRGEU  AGRGO   AGRGOU  AGRGR   
+  AGRGRH  AGRGRS  AGRGS   AGRHC   
+  AGRHCS  AGRHCU  AGRHSE  AGRHSO  
+  AGRHSR  AGRHU   AGRHUE  AGRHUO  
+  AGRSA   AGRSAG  AGRSC   AGRSCH  
+  AGRSCU  AGRSE   AGRSEC  AGRSEG  
+  AGRSES  AGRSH   AGRSHC  AGRSO   
+  AGRSOC  AGRSOG  AGRSR   AGRSRA  
+  AGRSRG  AGRSRS  AGRSU   AGSAAG  
+  AGSAG   AGSEC   AGSECG  AGSEG   
+  AGSHC   AGSHCU  AGSRG   AGSSC   
+  AGSSOC  ARGAAG  ARGAG   ARGAR   
+  ARGARG  ARGARH  ARGCO   ARGCOU  
+  ARGOS   ARGRE   ARGREG  ARGRG   
+  ARGRGO  ARGRH   ARGRHC  ARHCS   
+  ARHCSU  ARHCU   ARHCUE  ARHCUO  
+  ARHSAG  ARHSR   ARHSRG  ARHUOC  
+  ARSAG   ARSCU   ARSEAG  ARSEG   
+  ARSEGR  ARSER   ARSERG  ARSES   
+  ARSESA  ARSHC   ARSHCU  ARSOC   
+  ARSRA   ARSRG   ARSRS   ARSSA   
+  ARSSAG  ARSSEG  ARSSRG  ARSUOC  
+  ASAAG   ASAAGO  ASAGAG  ASAGRG  
+  ASARG   ASARH   ASEAG   ASECG   
+  ASECGO  ASEGAG  ASEGR   ASEGRG  
+  ASEGRS  ASERG   ASERS   ASESR   
+  ASESRG  ASHCSU  ASHCU   ASHUOC  
+  ASRAGO  ASRGAG  ASRGO   ASRSEG  
+  ASSCU   ASSEAG  ASSEG   ASSOC   
+  ASSRG   ASSUOC  CEGAG   CEGOS   
+  CEGOSC  CEGOSU  CEGOU   CEGOUC  
+  CEGOUH  CEOGAG  CEOUC   CEOUCH  
+  CEOUH   CERAS   CERSC   CERSCH  
+  CERSH   CERSHC  CESAG   CESAR   
+  CESCH   CESCHR  CESCHU  CESGAG  
+  CESHC   CESHCU  CESHR   CESRG   
+  CEUCH   CEUCHR  CEUHR   CGAGRS  
+  CGARG   CGESC   CGESG   CGEUC   
+  CGEUCH  CGOES   CGOESG  CGOSC   
+  CGOSCH  CGOSCU  CGOSH   CGOSHR  
+  CGOSR   CGOSRG  CGOSU   CGOUC   
+  CGOUCH  CGOUES  CGOUH   CGOUHR  
+  CGRGAG  CGRSC   CGRSCH  CGRSH   
+  CGRSHC  CHRAGR  CHRGAG  CHRGR   
+  CHRGRG  CHRSE   CHRSEU  CHRSO   
+  CHRSOC  CHRSOU  CHRSSU  CHRSU   
+  CHSAAG  CHSEAG  CHSEOU  CHSER   
+  CHSERG  CHSOC   CHSOU   CHSREU  
+  CHSRG   CHSSU   CHSUOC  CHSUOG  
+  CHUEAG  CHUEG   CHUEGR  CHUEO   
+  CHUER   CHUERG  CHUOG   CHUOSR  
+  CHUSE   CHUSER  CHUSR   CHUSRG  
+  COEAG   COGAG   COGARG  COGRG   
+  COGRS   COGRSC  COGRSH  COSCU   
+  COSES   COSHR   COSRG   COUCH   
+  COUCHR  COUCHS  COUCSR  COUCSS  
+  COUEAG  COUHR   COUHS   COUSR   
+  COUSS   CSEAG   CSEGAG  CSERG   
+  CSOGAG  CSRGAG  CSSAAG  CUEAG   
+  CUEGAG  CUEGR   CUEGRG  CUERG   
+  CUHRG   CUHRGR  CUHSRG  CUOCGR  
+  CUOEAG  CUOGAG  CUSEC   EAGAG   
+  EAGAGR  EARSH   EGAAG   EGAAGR  
+  EGAGAG  EGAGRG  EGRGRS  EGRSR   
+  EGRSRS  EGRSS   ERGRS   ERSRS   
+  ESAGAG  ESGAG   ESRGAG  ESRGRG  
+  ESRSAG  ESRSRG  ESSRG   EUCHR   
+  EUCHRG  GAAGES  GAAGO   GAAGOU  
+  GAAGR   GAAGRH  GAAGRS  GAAGS   
+  GAAGSH  GAAGSS  GAASH   GAASHU  
+  GAASS   GAASSU  GAEOU   GAEOUH  
+  GAESH   GAESHR  GAESR   GAESRG  
+  GAESRS  GAESS   GAEUH   GAEUHR  
+  GAGAES  GAGAG   GAGAGO  GAGAGR  
+  GAGAGS  GAGARH  GAGARS  GAGAS   
+  GAGASH  GAGASR  GAGASS  GAGCES  
+  GAGCEU  GAGCOS  GAGCOU  GAGER   
+  GAGERS  GAGES   GAGESG  GAGESR  
+  GAGESS  GAGEU   GAGOS   GAGOSR  
+  GAGOSU  GAGOU   GAGOUH  GAGRG   
+  GAGRH   GAGRS   GAGRSH  GAGRSR  
+  GAGSEG  GAGSRG  GARAGE  GARSE   
+  GASEG   GASES   GASHR   GASRG   
+  GASRS   GASSEG  GESRG   GESRS   
+  GESSRG  GEUCHR  GOUCHR  GOUCHS  
+  GRAGO   GRAGR   GRAGRH  GRASS   
+  GRECO   GRESH   GRESR   GREUH   
+  GRGAGO  GRGAGR  GRGARH  GRGCOU  
+  GRGESR  GRGEU   GRGRH   GRGRS   
+  GRHCUO  GRSHR   GRSRS   HRAGR   
+  HRGRGO  HRSRGO  HSAAGO  HSRAGO  
+  HSRGO   HUOCGR  OGAAS   OGAGAS  
+  OGAGRS  OGARS   OSSEA   OUCHR   
+  OUCHSR  RASERS  REUCHR  RGCOU   
+  SHRAG   
+English word matches (25 total):
+  AGARS   AGERS   ARGOS   ARSES   
+  ASARH   ASSOC   CERAS   CESAR   
+  CHUSE   CHUSER  COSES   COUCH   
+  CUSEC   EARSH   GAGER   GAGERS  
+  GAGES   GARAGE  GARSE   GASES   
+  GRASS   GRECO   OSSEA   RASERS  
+  SHRAG   
+Brand matches (0 total): none
